@@ -1,0 +1,1370 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>E&T News</title>
+<description>The latest news from E&T magazine</description>
+<atom:link href="https://dev-eandt.theiet.org/rss" rel="self" type="application/rss+xml"/>
+<link>http://eandt.theiet.org</link>
+<item>
+<title>
+<![CDATA[
+White Paper: The new Volvo 235hp diesel engine with extreme take-off performance
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-new-volvo-235hp-diesel-engine-with-extreme-take-off-performance/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1134/vcuk_iet_v40_image.jpg?center=0.70138888888888884,0.37830687830687831&mode=crop&width=800&height=600&rnd=131189379910000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1134/vcuk_iet_v40_image.jpg?center=0.70138888888888884,0.37830687830687831&mode=crop&width=1200&height=450&rnd=131189379910000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;During 2016 Volvo Cars will launch an updated top-of-the-line diesel engine that will offer both increased peak power with improved performance feel. The key technology for this state-of-the-art transient performance is a unique system for eliminating turbo lag called PowerPulse. The techno
+]]>
+<![CDATA[
+logy has been an in-house development and was taken from concept to production in record time, demonstrating Volvo’s fast and nimble approach. This case study details the stages of development, as well as the techniques employed to achieve the final product.&lt;/p&gt;
+ &lt;p&gt;Download this in-depth case study to understand: &lt;br&gt;&lt;br&gt;• The innovations made during the development of this revolutionary system&lt;br&gt;• How these innovations can help manufacturers improve engine performance&lt;br&gt;• How to ensure optimum engine efficiency&lt;/p&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/the-new-Volvo-235hp-diesel-engine-with-extreme-take-off-performance/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download available&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Volvo ]]>
+</dc:creator>
+<pubDate>Fri, 1 Jul 2016 16:15:50 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-new-volvo-235hp-diesel-engine-with-extreme-take-off-performance/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+The sky is not the limit for the world&amp;#39;s largest telescope
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/the-sky-is-not-the-limit-for-the-worlds-largest-telescope/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1591/hero.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131189388050000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1591/hero.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131189388050000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Dubbed “the world’s biggest eye on the sky,” the European Extremely Large Telescope (E-ELT), aims to help scientists find extrasolar planets that are orbiting other stars, answer fundamental questions regarding planet formation and better understand the nature and distribution of dark matter and dark energy. The E-ELT project was undertaken by the European Southern Observatory (ESO).&#160;&#160;&lt;/p&gt;
+ &lt;p&gt;The E-ELT is a 39-metre main mirror, making it the world’s largest optical/near-infrared telescope. Because it is difficult to manufacture, deploy and maintain a 39-metre mirror, about 800 hexagonal mirror segments (Figure 1) with a 1.5 m diameter make up the mirror known as primary mirror M1. In comparison, the primary mirror of the Hubble Space Telescope has a 2.4 m diameter. To combat the image degradation caused by aberrations in the optical design and atmospheric interference, the E-ELT (Figure 2) employs an innovative system of active and adaptive optics for the M1 and M4 mirrors.&#160;&lt;/p&gt;
+ &lt;p&gt;Using the LabVIEW Real-Time and &lt;span&gt;&lt;a href=&quot;http://www.ni.com/labview/fpga/?cid=Advertising-70131000001Rp0HAAS%20-United_Kingdom-Sept_2016_IET_native&quot;&gt;LabVIEW FPGA&lt;/a&gt;&lt;/span&gt; modules with the PXI platform, engineers at Instituto de Astrof&#237;sica de Canarias met the real-time requirements and provided the flexibility needed for the actuator positioning system of the M1 mirrors. Using a COTS platform such as LabVIEW that allows for programming in real-time and FPGA-based systems, the domain experts at the ESO and Instituto de Astrof&#237;sica de Canarias developed a system that met stringent real-time requirements while keeping the development time down.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;h3&gt;Active and Adaptive Optics&#160;&lt;/h3&gt;
+ &lt;p&gt;Active optics incorporate a control system and combination of sensors and actuators so that the telescope can maintain the correct mirror shape or collimation. The correct configuration for the telescope is actively maintained to reduce any residual aberrations in the optical design and increase efficiency and fault tolerance.&#160;&lt;/p&gt;
+ &lt;p&gt;Adaptive optics monitor the effects of atmospheric interference at frequencies of hundreds of hertz and then corrects for them by physically deforming a suitably configured thin mirror (Figure 3) known as M4. Turbulence scale length determines the number of actuators on these deformable mirrors. The wave front sensors run fast to sample the atmosphere and transform any aberrations to mirror commands.&#160;&lt;/p&gt;
+ &lt;p&gt;Both active and adaptive optics require fast software and hardware that are capable of interfacing with hundreds of edge sensors and servo controllers. Each mirror, shown in Figure 2, can be moved in real-time using three position actuators to compensate the deformations of the underlying support structure due to gravity, temperature and wind buffeting. The control of such a complex system requires an extreme amount of processing capability to manage the incoming data from the edge sensors, calculate the position and drive the actuators.&#160;&lt;/p&gt;
+ &lt;p&gt;During the E-ELT project’s design phase, engineers from National Instruments collaborated with the ESO for the computation requirements of the control system of M1 and M4. Additionally, engineers at Instituto de Astrof&#237;sica de Canarias in Spain have worked on developing electronics and embedded software based on NI LabVIEW software and NI PXI platforms to manage and coordinate three nanometric position actuator prototypes. This article covers the control system’s high-performance computational requirements and the system developed to drive the position of the individual mirror segments.&#160;&lt;/p&gt;
+ &lt;h3&gt;&lt;br&gt;Extreme Computational Requirements of the Control System&lt;/h3&gt;
+ &lt;p&gt;In the M1 operation, adjacent mirror segments may tilt with respect to the other segments. The deviation is monitored using edge sensors and actuator legs that can move the segment three degrees in any direction when needed. The 800-mirror segment comprises about 3,000 actuators and 6,000 sensors. The system must read the sensors to determine the mirror segment location and if the segments move use the actuators to realign them. The system software, based on LabVIEW, computes a 3,000 by 6,000 matrix by 6,000 vector product and must complete this computation 500 to 1,000 times per second to produce effective mirror adjustments.&#160;&lt;/p&gt;
+ &lt;p&gt;Sensors and actuators also control the M4 adaptive mirror. However, M4 is a thin deformable mirror - 2.5 m in diameter and spread over 8,000 actuators (Figure 3). This problem is similar to the M1 active control; however, instead of retaining the shape, it is adapted based on measured wave front image data. The computational challenge of controlling M4 is about 15 times the computational requirements of M1.&#160;&lt;br&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;The scale of this math and control problem required simulating the layout and designing the control matrix and control loop. At the heart of all these operations is a very large LabVIEW matrix-vector function that executes the bulk of the computation. M1 and M4 control requires enormous computational ability to compute the matrix vector multiplication, which was achieved with multiple commercial-off-the-shelf (COTS) multicore systems.&#160;&lt;/p&gt;
+ &lt;p&gt;Because the complex control system could affect some of the construction characteristics of the telescope, it needed to be developed well before the actual E-ELT construction. To meet this challenge, engineers developed a system that runs a real-time simulation of the M1 mirror to perform a hardware-in-the-loop (HIL) control system test. HIL is a testing method commonly used in automotive and aerospace control design to validate a controller using an accurate, real-time system simulator. The control system and mirror simulation was also developed using LabVIEW and deployed to a multicore PC running the&lt;span&gt;&#160;&lt;/span&gt;LabVIEW Real-Time Module for deterministic execution. The telescope simulator was then deployed to two readily available eight-core Dell workstations. The entire control loop was completed well below the loop time requirement of 1 ms to effectively control the mirrors.&#160;&#160;&lt;/p&gt;
+ &lt;h3&gt;Embedded System for Positioning Actuator&lt;/h3&gt;
+ &lt;p&gt;Each of the 800-mirror segments of the M1 mirror has three position actuators (Figure 4) and six edge sensors. The actuators’ most challenging requirements include a 15 mm stroke, support for a 90 Kg mass, 1.7 nm root mean square error (RMSE) following a slow ramp, 1 kHz external position command rate, and very low latency and jitter. The actuator mechanical proposal is a two-stage design. The coarse stage, with a brushless motor, gives a large stroke and coarse resolution. The fine stage, with a voice coil gives fine resolution, high bandwidth and small stroke. Each stage has its own power electronics, feedback sensor and servo controller. Fine and coarse stage controllers work in coordination to make the actuators work as a whole.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;The electronics and software for the overall co-ordination, management of external commands, debugging functionality and implementation of servo controllers is based on a PXI system with a real-time OS. The servo controller of the fast fine stage is implemented on an FPGA-based PXI module, while the slow coarse stage controller is implemented on an embedded PXI-based controller (that is, a CPU). Additionally, the software design is divided into two applications: the actuator embedded software and a telescope simulator developed as an auxiliary tool to simulate the telescope computer that interfaces with the actuators.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/p&gt;
+ &lt;h3&gt;Actuator Software&lt;/h3&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;The real-time software includes the functionality of each actuator—initial shelf-checking, a state machine, a status word, an error register and the management of configurable parameters. Other tasks carried out include checking input coming from the FPGA card with serial peripheral interface (SPI) external commands, implementing the coarse stage servo controller to be transmitted through a controller area network (CAN) or CANopen to a brushless motor driver, managing a circular buffer for debugging purposes with synchronized data coming from a FIFO on the FPGA module, and reading feedback sensors through UDP/IP. The FPGA module implements the SPI slave, the fine stage servo controller, the analogue writing and reading, and the synchronisation to provide data to the real-time controller through a FIFO.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;h3&gt;The Telescope Simulator&lt;/h3&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;To test the position actuators against the requirements, a second application was developed for simulating the telescope computer that the actuators have to interface with through the SPI bus. This computer plays the role of SPI master while the actuators are SPI slaves. This auxiliary application sends millions of position commands through SPI at 1 kHz and reads SPI responses coming from actuators at 1 kHz. It also acquires digital data at 5 kHz from an additional external position sensor installed in the mechanical test bench to crosscheck with the actuator’s internal sensor. These three sources are required to register simultaneously with synchronisation greater than 200 &#181;s, storing the data in binary files for offline analysis. This solution was also implemented using an FPGA-based NI card but installed on a PC running Windows OS.&lt;/p&gt;
+ &lt;h3&gt;Real-Time Performance and Flexibility&lt;/h3&gt;
+ &lt;div&gt;&lt;/div&gt;
+ &lt;p&gt;The actuator electronics and software have a wide variety of interfaces, most of which are open to changes during the first phases of the development including SPI, CAN bus, analogue input and output, digital input, TCP/IP and UDP/IP. Using all of these interfaces required a great amount of flexibility.&lt;/p&gt;
+ &lt;p&gt;In addition, there were stringent real-time requirements such as reading the digital commands at 80 MHz and executing proportional integral derivative (PID) control of the fast fine stage servo controller between 2 KHz and 10 KHz. The system was also required in real time to synchronise and store large binary files for offline analysis of SPI external commands (1 kHz), voice coil current analogue acquisitions (2 kHz), position sensor data acquired through Ethernet (2–10 kHz) and servo controller internal variables (2–10 kHz).&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1593/fig-1.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131189388410000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1593/fig-1.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388410000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1593/fig-1.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131189388410000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1593/fig-1.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131189388410000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1593/fig-1.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388410000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Figure 1: Artist rendering of the European Extremely Large Telescope (E-ELT)&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1594/fig-2.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131189388540000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1594/fig-2.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388540000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1594/fig-2.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131189388540000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1594/fig-2.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131189388540000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1594/fig-2.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388540000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Figure 2: Mirror system of the E-ELT features a total of five mirrors&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1595/fig-3.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131189388680000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1595/fig-3.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388680000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1595/fig-3.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131189388680000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1595/fig-3.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131189388680000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1595/fig-3.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189388680000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Figure 3: A deformable this mirror spread over 8000 actuators&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1596/fig-4.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131189387870000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1596/fig-4.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189387870000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1596/fig-4.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131189387870000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1596/fig-4.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131189387870000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1596/fig-4.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131189387870000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Figure 4: Illustration of M1 mirror segments with edge sensors and position actuators&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;For an overview of the products featured and to join the Developers community follow the links:&lt;/p&gt;
+ &lt;p&gt;CompactRIO -&lt;span&gt; &lt;a href=&quot;http://www.ni.com/compactriodevguide/?cid=Advertising-70131000001Rp0HAAS%20-United_Kingdom-Sept_2016_IET_native&quot;&gt;http://www.ni.com/compactriodevguide/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;LabVIEW - &lt;span&gt;&lt;a href=&quot;http://www.ni.com/labview/?cid=Advertising-70131000001Rp0HAAS%20-United_Kingdom-Sept_2016_IET_native&quot;&gt;http://www.ni.com/labview/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;br&gt;&#160;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[
+By Arun Veeramani, Senior Technical Marketing Manager, Scientific Research &amp;amp; Lead User Program, National Instruments
+]]>
+</dc:creator>
+<pubDate>Thu, 29 Sep 2016 10:30:47 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ electronics ]]>
+</category>
+<category>
+<![CDATA[ telescope ]]>
+</category>
+<category>
+<![CDATA[ software simulator ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/the-sky-is-not-the-limit-for-the-worlds-largest-telescope/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+NASA selected NI SC Express for accuracy and flexibility in new Data Acquisition System
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/nasa-selected-ni-sc-express-for-accuracy-and-flexibility-in-new-data-acquisition-system/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1966/jacobstech_chamber-b-dome-up-close.jpg?center=0.45161290322580644,0.38440860215053763&mode=crop&width=800&height=600&rnd=131229926100000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1966/jacobstech_chamber-b-dome-up-close.jpg?center=0.45161290322580644,0.38440860215053763&mode=crop&width=1200&height=450&rnd=131229926100000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;NASA used NI SC Express and PXI hardware to create an advanced, distributed and flexible data acquisition (DAQ) system to meet t&lt;strong&gt;he challenge of r&lt;/strong&gt;eplacing legacy NEFF equipment in one of its largest human-rated environmental chambers.&#160; The data acquisition s
+]]>
+<![CDATA[
+ystem is capable of accurately synchronizing and measuring more than 500 analog channels distributed throughout the chamber, without the need for additional external signal conditioning.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;blockquote class=&quot;blockquote&quot;&gt; &lt;p&gt;&amp;quot;For the first time, NASA will no longer need the custom signal conditioning equipment in addition to its measurement hardware. With NI SC Express hardware, NASA can achieve the &amp;#177;3&amp;#176;F end-to-end accuracy requirements for thermocouples with commercial off-the-shelf technology.&amp;quot;&lt;/p&gt; &lt;footer class=&quot;blockquote-footer&quot;&gt;James Dean - Jacobs Technology&lt;/footer&gt; &lt;/blockquote&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;h3&gt;Simulating Space on Earth&lt;/h3&gt;
+ &lt;p&gt;When NASA needed to test various repair techniques and materials that astronauts could use to repair damaged tiles on the space shuttle, it used the Chamber B facility at the Johnson Space Centre (JSC). The human-rated chamber allowed an astronaut to apply the “goo” repair candidates to the tiles in a simulated environment to test their performance at the extreme pressures and temperatures in space. At 10.7m wide and 13.1m tall, Chamber B is the smaller thermal vacuum chamber in building 32 at the NASA JSC, but it is no less complicated than its larger next door neighbour. Features such as the removable top to allow for the insertion of larger test articles, a traversing monorail to provide weight relief to one crew member at a time and dual crew locks to enable easy access and crew member entry all contribute to the complexity of the chamber.&lt;/p&gt;
+ &lt;p&gt;To provide a space-like environment, Chamber B must reach temperatures of 90 kelvin at 10&lt;sup&gt;-3&lt;/sup&gt; micron (~1x10&lt;sup&gt;-9&lt;/sup&gt; atm). A nitrogen-based cooling system runs through the walls of the chamber to ensure the proper temperatures are reached. Thermocouple measurements are made around the chamber to characterise the thermal environment, ensure that the desired temperatures are reached and verify that nitrogen flow is achieved throughout the chamber cooling system. Certain test articles also require dedicated temperature measurements to ensure they are behaving as expected in these environments. Pressure and flow measurements are also made in the facility and brought into the DAQ system. Overall, Chamber B has more than 500 analog signals, the majority of which are thermocouples.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1967/pxi_scxi-tc_daq-isothermal-blocks.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131229943140000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1967/pxi_scxi-tc_daq-isothermal-blocks.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229943140000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1967/pxi_scxi-tc_daq-isothermal-blocks.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131229943140000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1967/pxi_scxi-tc_daq-isothermal-blocks.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131229943140000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1967/pxi_scxi-tc_daq-isothermal-blocks.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229943140000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Isothermal blocks&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;h3&gt;Instrumenting NASA’s Largest Human-Rated Chamber Is No Easy Task&lt;/h3&gt;
+ &lt;p&gt;High-channel-count DAQ systems always introduce new, complex challenges not seen in smaller systems, and the system at NASA JSC is no different. Accurate measurements are of the utmost importance in Chamber B. Furthermore, a sophisticated architecture must be defined for a distributed system that is capable of both logging and visualising data in a central location. Once a system is in place, it is not likely to change, because of budget constraints, the solution must be well planned and adaptable to suit the needs of future clients and tests.&lt;/p&gt;
+ &lt;p&gt;The DAQ system in Chamber B is based on NEFF 470 and NEFF 620 systems with a custom OPC interface. To achieve the desired accuracy, all thermocouples had to be brought into a central reference oven kept at a stable temperature before going into the NEFF DAQ equipment. Furthermore, the custom OPC interface was designed for Windows NT and lacks the flexibility to add more systems or features. As the NEFF equipment became increasingly difficult and expensive to repair and maintain, NASA looked for a new solution for the Chamber B DAQ system.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1968/z1-suit-testing-chamber.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131229948370000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1968/z1-suit-testing-chamber.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229948370000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1968/z1-suit-testing-chamber.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131229948370000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1968/z1-suit-testing-chamber.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131229948370000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1968/z1-suit-testing-chamber.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229948370000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Z1 suit testing chamber&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;h3&gt;Selecting the NI Platform&lt;/h3&gt;
+ &lt;p&gt;For the new solution, NASA chose NI SC Express and PXI hardware for the DAQ system in Chamber B. The new setup will be composed of multiple NI &lt;a href=&quot;http://www.ni.com/pxi/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;PXIe-1075&lt;/a&gt; chassis with NI &lt;a href=&quot;http://sine.ni.com/nips/cds/view/p/lang/en/nid/208291/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;PXIe-4353&lt;/a&gt; input modules for thermocouples and an NI PXI-6682H timing module for synchronisation. Each NI PXIe-4353 is capable of acquiring from 32 thermocouples, so the entire system can measure more than 1,500 thermocouples. Given NASA’s accuracy requirements of &#177;3 &#176;F from end to end, achieving these levels has always been challenging without external signal conditioning equipment such as reference ovens or custom-built cold-junction compensation solutions.&lt;/p&gt;
+ &lt;p&gt;However, with the NI system, for the first time, NASA will no longer need the custom signal conditioning equipment in addition to its measurement hardware. With NI &lt;a href=&quot;http://www.ni.com/sc-express/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;SC Express&lt;/a&gt;, NASA can achieve the &#177;3 &#176;F end-to-end accuracy requirements for type T thermocouples with commercial off-the-shelf technology. By getting rid of the reference ovens, NASA can avoid wiring all the thermocouples to a central location before going to the data acquisition system, which gives NASA the option to create a more distributed system and remove expensive additional copper wiring. The accuracy and more distributed architecture will help NASA save on wiring costs, and the capabilities of the NI &lt;a href=&quot;http://www.ni.com/pxi/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;PXI &lt;/a&gt;platform and NI &lt;a href=&quot;http://www.ni.com/labview/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;LabVIEW&lt;/a&gt; system design software make creating such a system possible.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/1972/inside-chamber-b_tracks-provide-weight-relief.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131229935290000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/1972/inside-chamber-b_tracks-provide-weight-relief.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229935290000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/1972/inside-chamber-b_tracks-provide-weight-relief.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131229935290000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/1972/inside-chamber-b_tracks-provide-weight-relief.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131229935290000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/1972/inside-chamber-b_tracks-provide-weight-relief.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131229935290000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Inside Chamber B&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;strong&gt;High level synchronisation&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;With any distributed system, the level and method of synchronisation must be part of the initial planning for the system. Even though the Chamber B DAQ system predominantly consists of thermocouples, NASA still wants a high level of synchronisation between the measurements to accommodate requests for other types of high-speed measurements such as pressure or strain. To achieve this level of synchronisation, NASA uses a GPS time source to broadcast a 1588 signal to each of the PXI-6682H modules in the system. The 1588 signal allows for precise synchronisation with little configuration. Each PXI-6682H is given an IP address on the timing subnet and its priority is set so the module recognises the time source as the master clock and synchronises. From there, the configuration and handshaking are handled among the devices with no further configuration required. Now each PXI-6682H module is set to drive the 10 MHz clock on the PXI backplane as the acquisition clock for all of the modules in the system. With this architecture, NASA can achieve synchronisation within 100 &#181;s between channels that may be in separate PXI chassis hundreds of feet apart. Furthermore, the 1588 time server provides easy synchronization with 1588-compliant control systems and the OPC clients to give the entire system a consistent time base for acquiring, viewing and logging all of the data.&lt;/p&gt;
+ &lt;p&gt;For the Chamber B system, all of the data needs to be visible in real time in the control centre during the tests. Additionally, the data needs to be logged to a central database with backup copies on each PXI system. With the NEFF equipment, NASA used a custom OPC interface to talk to the Iconics OPC client. The interface was written more than 10 years ago for Windows NT. As NASA upgrades to new Windows versions, it’s been necessary to force the new operating system to recognise the NT-based SCSI drivers so that the NEFF data may be made available for the OPC clients. With the out-of-the-box OPC support of LabVIEW, developing an OPC server interface to the DAQ program was simple and the end result was more resistant to changes in the data server environment. Each of the PXI-based OPC servers provides data to the Iconics client where it is viewed in the control room and logged into an SQL database. For added dependability, each PXI system is logging data locally at a higher rate as a backup.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;h3&gt;Creating a scalable and flexible Solution&lt;/h3&gt;
+ &lt;p&gt;With any large facility such as NASA, effective re-use of both hardware and software can create large efficiency gains. The Chamber B data system software is drawn from a LabVIEW DAQ system developed for Chamber A. With this custom code library and standard architecture, additional channels may be easily added to the system for temporary or permanent use. New and supplementary systems may be quickly deployed on any NI-DAQmx-supported hardware. By using the 1588 synchronisation methods and the PXI-6682H, the additional channels can easily be synched to the rest of the control and data system. Furthermore, with the OPC capability, the data is instantly available to any OPC client on the test network.&lt;/p&gt;
+ &lt;p&gt;For example, when the needs of Chamber A exceed the channel counts of the current system, NASA engineers can move the PXI systems from Chamber B to Chamber A. Test support personnel simply choose a configuration database file, load this into NI Measurement &amp;amp; Automation Explorer (MAX) through a custom-made, LabVIEW configuration utility, and start acquiring data. To return to the old configuration, NASA engineers can reload the previous configuration file, and the DAQ system is ready to resume acquisition in Chamber B.&lt;/p&gt;
+ &lt;p&gt;The PXI/SC Express system meets NASA’s strict accuracy and synchronisation requirements, and the LabVIEW software allows for quick deployment and data access. As older systems are phased out and upgraded, the PXI/SC Express hardware and LabVIEW custom libraries will be implemented in a similar fashion. This configuration forms a standard architecture for future use in all of NASA’s thermal and vacuum testing facilities.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&lt;br&gt; The Engineer’s Guide to Signal Conditioning&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Signal conditioning is one of the most important components of a data acquisition system because the accuracy of the measurement cannot be relied upon without optimising real-world signals for the digitizer in use. To get the accuracy, speed and performance you need to test with confidence learn more about signal conditioning and master the fundamentals by downloading NI’s Engineers Guide to Signal Conditioning. You can design a test system that will scale with your testing needs now and in the future.&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;a href=&quot;http://www.ni.com/white-paper/10630/en/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;&lt;strong&gt;The Engineer’s Guide to Signal Conditioning&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ni.com/pxi/?cid=Advertising-70131000001RoxrAAC-United_Kingdom-Nov_2016_IET_native&quot;&gt;Configure Your Own PXI System&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;em&gt;&lt;strong&gt;Photos Courtesy of Jacobs Technology and NASA.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ National Instruments ]]>
+</dc:creator>
+<pubDate>Mon, 7 Nov 2016 11:23:12 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ environment ]]>
+</category>
+<category>
+<![CDATA[ information and communications ]]>
+</category>
+<category>
+<![CDATA[ computing ]]>
+</category>
+<category>
+<![CDATA[ software ]]>
+</category>
+<category>
+<![CDATA[ nasa ]]>
+</category>
+<category>
+<![CDATA[ hardware ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/nasa-selected-ni-sc-express-for-accuracy-and-flexibility-in-new-data-acquisition-system/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+CAD design, fast-feedback prototyping and on-demand production
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2569/proto-labs-sponsored.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131308698100000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2569/proto-labs-sponsored.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131308698100000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;&lt;strong&gt;BRINGING IDEAS TO LIFE&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Based in Birmingham and Somerset, Nebulem was established in 2011 to offer a specialist design service to businesses looking to bridge the gap between great ideas and successful products. A distinctive strength of the consultancy is creating &lt;strong&gt;products&lt;/strong&gt; that can be &lt;strong&gt;manufactured&lt;/strong&gt; appropriately and produced to &lt;strong&gt;budget&lt;/strong&gt;&lt;strong&gt;. &lt;a href=&quot;https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0217-native%20article&quot; target=&quot;_blank&quot;&gt;The team develops all its clients’ products with manufacturing in mind&lt;/a&gt;&lt;/strong&gt;, designing them for a range of &lt;strong&gt;processes&lt;/strong&gt; including injection moulding, die-cast moulding, CNC machining and investment casting.&lt;em&gt;&#160;&lt;/em&gt;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2577/proto-labs.png?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131309410730000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2577/proto-labs.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131309410730000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2577/proto-labs.png?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131309410730000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2577/proto-labs.png?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131309410730000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2577/proto-labs.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131309410730000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;p&gt;A key aspect of their approach is prototyping – which is where Proto Labs’ support is vital. For many of Nebulem’s clients, this is the most exciting part of the project, where they see a &lt;strong&gt;high-quality&lt;/strong&gt;&lt;strong&gt;, &lt;strong&gt;full-size&lt;/strong&gt;&lt;/strong&gt; representation of their &lt;strong&gt;product&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt; The consultancy uses &lt;strong&gt;prototypes&lt;/strong&gt; to check a product’s look, feel, size and style; more importantly, it provides the opportunity to test the part’s &lt;strong&gt;usability&lt;/strong&gt; and&lt;strong&gt; operation&lt;/strong&gt;. &lt;strong&gt;&lt;a href=&quot;https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0217-native%20article&quot; target=&quot;_blank&quot;&gt;Nebulem feeds key information from the prototyping process into the implementation stage,&lt;/a&gt;&lt;/strong&gt; which helps minimise changes when the product goes into &lt;strong&gt;manufacture&lt;/strong&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;A productive partnership&lt;br&gt;&lt;/strong&gt;Nebulem works in partnership with Proto Labs; the consultancy’s visualisation systems takes concepts to a certain stage, then Proto Labs joins the process to bring the designs to life in three dimensions.&lt;/p&gt;
+ &lt;p&gt;Proto Labs’ software provides immediate feedback for Nebulem’s clients, helping identify features that might cause problems during manufacture or in use. It also gives Nebulem the opportunity to review the materials involved. &lt;strong&gt;&lt;a href=&quot;https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0217-native%20article&quot; target=&quot;_blank&quot;&gt;The speed of this feedback saves significant time in product development&lt;/a&gt;&lt;/strong&gt;: if a concept is pushing the edge of practicality, Nebulem knows about this within hours, and can turn around a revised design quickly. In most cases, the end result is a far shorter development cycle.&lt;em&gt;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160;&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Sharing business for mutual benefit&lt;br&gt;&lt;/strong&gt;As the services of Nebulem and Proto Labs combine so effectively, there are many opportunities to refer clients between the two businesses. Companies often approach Proto Labs with a need for 3D printing, CNC machining or injection moulding; at which point they discover help is needed with their product or part design – in these cases, Proto Labs can recommend using Nebulem. Likewise, the Nebulem team gets Proto Labs involved in refining its designs whenever appropriate. Both companies often have the same customers, and work on the same products, just offering a different supporting role.&lt;/p&gt;
+ &lt;p&gt;Any joint clients will benefit from Nebulem’s understanding of how Proto Labs’ rapid prototyping opens up greater design possibilities. Nebulem knows Proto Labs resources enable further exploration of concepts, as they can be quickly and thoroughly tested and fine-tuned.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Helping to advance cutting-edge science&lt;br&gt;&lt;/strong&gt;A good example of the partnership between Nebulem and Proto Labs is a recent project for Puridify, experts in purification solutions for biotherapeutic manufacturing. In this highly specialised field, Puridify aims to develop bioprocessing technologies to advance industrial biomolecule manufacture – and so requires extremely sophisticated product and part design. &lt;strong&gt;&lt;a href=&quot;https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0217-native%20article&quot; target=&quot;_blank&quot;&gt;Puridify approached Proto Labs for help with product testing, which revealed a need for further design.&lt;/a&gt;&lt;/strong&gt; Nebulem was then recommended to assist; developing their design in response to the test feedback before handing the project back to Proto Labs. At this stage, Puridify dealt directly with Proto Labs, knowing Nebulem’s design would work perfectly with Proto Labs’ ProtoQuote quoting system, in preparation for manufacture.&lt;strong&gt;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160;&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Passing on the lessons of experience&lt;br&gt;&lt;/strong&gt;With so much experience of working together, Nebulem and Proto Labs have learnt a lot about the relationship between CAD design, fast-feedback prototyping and on-demand production.&#160; Indeed, such collaboration in this vital aspect of our manufacturing industry is a major advantage to all involved.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;How could Proto Labs help your business?&lt;br&gt;&lt;/strong&gt;To find out how Proto Labs&#39; advanced services could benefit you, simply upload your CAD file(s) to receive a free manufacturability analysis and interactive quote within 24 hours.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0217-native%20article&quot; target=&quot;_blank&quot;&gt;Upload your CAD file(s) here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Stephen Dyson | Product Manager EMEA ]]>
+</dc:creator>
+<pubDate>Mon, 27 Feb 2017 13:30:39 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ 3d printing ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ digital manufacturing ]]>
+</category>
+<category>
+<![CDATA[ digital engineering ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Research and development, accelerated prototyping and perfected bathroom design
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/proto-labs-march-2017/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&mode=crop&width=800&height=600&rnd=131334550990000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&mode=crop&width=1200&height=450&rnd=131334550990000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;&lt;strong&gt;The company puts a significant amount of effort into prototyping each new design to win over consumers with their range of models.&#160; To receive chrome-plated prototypes with flexibility, speed and scale, Hansgrohe turned to &lt;a href=&quot;https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0317-nativearticle&quot;&gt;Proto Labs.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Founded by Hans Grohe in 1901, the company has always strived to be bold and innovative. To begin, the business focused entirely on home plumbing; an industry burgeoning in the early 1900s; Hansgrohe’s initial success was the introduction of metal showerheads. &#160;&#160;Some years later, Grohe (then aged 82) is credited with the invention of the riser rail, making it possible to adjust the showerhead to any height desired. &#160;Other milestones in shower culture can be attributed to Hansgrohe, including the world’s first hand-held shower with an adjustable jet (the “Selecta”) and selling more than 30 million units. The Axor brand was born in 1992, bringing individual designer collections and unusual bathroom and room concepts into the world of Hansgrohe.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Hansgrohe – leading global brand&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Now one of the leading global producers of taps and shower, Hansgrohe’s headquarters is located in the tranquil Black Forest area of South-West Germany. &#160;This is where the company houses 2,250 employees (of 3,800 worldwide), with the design department, research and development and the extensive prototyping section based here.&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;30,000 prototypes a year&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Jochen Armbruster heads up the R&amp;amp;D and prototyping function at Hansgrohe. The company benefits from its own prototyping section on-site with a pool of CNC machines, various rapid prototyping processes and 3D printers. Jochen comments, “We manufacture around 30,000 prototypes a year, ranging from basic bodies and handles to internals and valve components. Because we are focused on plumbing, 95% of the sample parts have the typical chrome or stainless steel appearance. The rest are specialties such as white chrome and other colours.”&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Top level design&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;The large number of prototypes can be explained by the company’s emphasis on design. Jochen Armbruster describes it like this, “We represent a high standard of form and function and this is reflected all the way through to the top management levels. While elsewhere just a few design engineers create a product that then goes straight on sale, here whole management committees are involved in making decisions so they contribute to new designs from the outset.&lt;/p&gt;
+ &lt;p&gt;What’s more, our marketplace always expecting something new – products are often launched at one of the international trade fairs. When new designs come to market, there is generally an initial whirlwind of excitement quickly followed by imitation design from competitors who want to set and embrace market trends. To stay ahead of the competition, we generate a rapid succession of new products which are sold before the copying cycle begins. For Hansgrohe customers our differentiator is the quality of our products, borne from a drive for perfection which is inherent within the brand.”&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2862/plabs.png?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131334547620000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2862/plabs.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131334547620000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2862/plabs.png?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131334547620000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2862/plabs.png?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131334547620000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2862/plabs.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131334547620000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;Proto Labs&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;strong&gt;Perfecting the chrome ‘look’&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Producing the typical chrome effect on our prototypes using in-house machinery is a time-consuming process. Jochen Armbruster explains, “First, there’s processing of the brass block on the CNC machines, then comes manual grinding and polishing, and finally the blanks are sent to the electroplating shop before being returned to the prototyping section for assembly. Only when the prototypes are ready can the decision be made as to which design will make its way into the range.&lt;/p&gt;
+ &lt;p&gt;In the past we worked with chrome optical methods to speed this process up i.e. painting processes were used. However, this cannot recreate the kind of surface produced in the electroplating process - sharp edges in particular simply aren’t possible. Then we came across Proto Labs. At Proto Labs, additive manufacturing (3D printing) processes are used to rapidly create the basic body which is then coated with a chrome surface similar to that produced during our electroplating process.”&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Proto Labs speeds up the process&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;For Jochen Armbruster, discovering Proto Labs was the optimal solution to increasing their product time to market through rapid prototyping, combined with the demand for a high quality surface finish. For example, launching a new product at one of the leading trade shows requires a lot of advance preparation – at least six months prior to launch, product photography is required for promotional brochures, catalogues and other advertising and sales promotions, before the series products are even finished. “For promotional photo shoots we need near-series products with virtually perfect surfaces. We can achieve this with 3D printing.&#160; Plus, additive methods can be used to implement internal geometries that are not feasible with milling – this is because the series products are not actually milled, but cast.”&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Further processing possible&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;The similarity between the &lt;strong&gt;&lt;a href=&quot;https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0317-nativearticle&quot;&gt;Proto Labs&lt;/a&gt;&lt;/strong&gt; chrome effect parts and the finished product gives customer option. The Axor range offers customers the option to have their taps made up in different metallic finishes. To assess these looks in advance, the chrome-plated prototypes from Proto Labs are metallised in a high vacuum at Hansgrohe. They react to the PVD coating in the same way as actual parts and it’s then possible to reach a decision about the desired colour.&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Brilliant speed statistics&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;With &lt;a href=&quot;https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;amp;utm_medium=display&amp;amp;utm_source=iet&amp;amp;utm_content=tx0317-nativearticle&quot;&gt;&lt;strong&gt;Proto Labs&lt;/strong&gt;&lt;/a&gt;, the lead time from commissioning a part with a surface look to receiving it is achieved in less than ten days. Jochen Armbruster reflects on the turn-around speed provided by Proto Labs, “In R&amp;amp;D, speed counts. We are design-driven and are ranked in the IF World Design Guide top ten, ahead of companies such as Apple, Daimler or BSH. Our design process involves producing a large number of tangible samples which are selected for production based on their look and feel. In the case of a mixer tap, for example, it’s important to see the three-dimensional impact of the changes to certain positions and radii. 3D images or even VR renderings viewed using 3D glasses are simply not good enough for this. There&#39;s no substitute for real-life samples when testing products with end-users in field trials.”&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Intensifying cooperation&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Jochen Armbruster is delighted to be collaborating with Proto Labs, “Our account team at Proto Labs really understands our protoyping requirements. Even so, we will point out our priorities and highlight the details to be reproduced as precisely as possible. &#160;In our conventional prototyping process, we have a labour-intensive workflow for chrome surfaces with at least 15 steps; with Proto Labs, we simply order the parts and have them back in just a few days. The Proto Labs process is quick and efficient and is supported by an effective working relationship which we intend to continue to strengthen in the future.”&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Stephen Dyson | Product Manager ]]>
+</dc:creator>
+<pubDate>Thu, 9 Mar 2017 11:00:40 +0000</pubDate>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ 3d printing ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/proto-labs-march-2017/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Why you should make test a strategic part of your culture
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&mode=crop&width=800&height=600&rnd=131338829270000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&mode=crop&width=1200&height=450&rnd=131338829270000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;&lt;span&gt;Historically, product testing has been viewed as a support function during the product development and manufacturing process—just a necessary cost center. This perspective arises because it’s not always clear how test can enhance a company’s business. Mike Santori&lt;em&gt;,&lt;/em&gt; &lt;/span&gt;vice president of product marketing at &lt;strong&gt;&lt;a href=&quot;http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native&quot; target=&quot;_blank&quot;&gt;National Instruments&lt;/a&gt;&lt;/strong&gt;, explains how test can and should be an integral part of your day-to-day at work.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&lt;span&gt;Make Test A Strategic Part Of Your Culture&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;“Culture eats strategy for breakfast” is a famous phrase attributed to Peter Drucker, the father of modern business management. I’ve heard and used this phrase many times. To me, it has always had a negative connotation. &#173;&#173;Old corporate habits can stand in the way of strategic progress. However, I recently had occasion to look into what he actually meant when he made this statement. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;As it turns out, my interpretation wasn’t quite right. Mr. Drucker was saying that no matter how great your think your strategy is, it won’t be successful if the culture in your company doesn’t enable and support that strategy. In other words, culture and strategy need to go hand in hand—a very positive statement that can help you shepherd change through your organisation.&lt;/span&gt;&lt;/p&gt;
+ &lt;blockquote class=&quot;blockquote-reverse&quot;&gt; &lt;p&gt;“Culture eats strategy for breakfast”&lt;/p&gt; &lt;footer class=&quot;blockquote-footer&quot;&gt;Peter Drucker&lt;/footer&gt; &lt;/blockquote&gt;
+ &lt;p&gt;&lt;span&gt;I’m drawn to this phrase because &lt;strong&gt;&lt;a href=&quot;http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native&quot; target=&quot;_blank&quot;&gt;National Instruments&lt;/a&gt;&lt;/strong&gt; is always working with companies to implement new test strategies. These strategies are often quite different than these companies’ current testing approaches. They require changes in familiar processes and tools, modifying existing employee practices and behaviors. Without these changes, the strategies can’t succeed. I’ve seen cases where the existing culture is so ingrained that I wonder if they will ever change. That’s the negative, culture-as-impediment view of “culture eats strategy for breakfast.”&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;The Business Culture&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;You have to consider many aspects of your company culture in evaluating the role of test in your company. One such aspect is what I’ll call business culture. Historically, product testing has been viewed as a support function during the product development and manufacturing process—just a necessary cost center. This perspective arises because it’s not always clear how test can enhance a company’s business. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;It’s not that companies don’t think test is useful. It’s that they don’t tie an intrinsic business value to it. Hence, many companies invest much more in other areas of “strategic” value such as product development and sales enablement. This investment profile often leaves test organisations fragmented, trying to meet fast-moving business requirements with outdated technologies and test methodologies that often create bottlenecks for their organisations. Yet research has shown that test is critical because it validates a product’s performance, increases quality and reliability, and reduces return rates.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;To convey the importance of test to your company’s business, you must be able to understand the economics of test in your organisation. Many companies have test organisations with reactive approaches that lack long-term strategy or financial impact metrics. This leads executives to focus on simply reducing the cost of test rather than asking which test investments they need to improve business metrics. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Evaluating the actual impact of test is complicated, involving the ability to understand the total cost of ownership (TCO) as well as the tangible business impact. Activities such as production test standardisation and improved test throughput with new technologies can appear to be very expensive when based simply on new capital equipment costs. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;We work with companies to understand their actual TCO, including costs for upfront development, deployment, and operations. Similarly, we help them identify how to measure the impact of such investments. The result: an accurate assessment of return on investment (ROI) for strategic test investments. Nothing evolves business culture faster than showing how investment in test can improve the bottom line.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;The Engineering Culture&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Another area that challenges many test initiatives is what I’ll call engineering culture, where each engineering function tends to operate in its own world with little interaction with one another. Research has revealed that an “optimised” test engineering organisation provides a centralised test strategy that spans the product life cycle. It’s also well known that the later in the design process that you find an error, the more expensive it is to fix. A study by NASA, for example, once found that the cost of finding a defect in production was 21 to 78 times more expensive than in design. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;The reality in many companies, though, is that there is little continuity through the product life cycle. Products are still thrown over the wall from design to test. Maintenance is an afterthought. It’s often a cultural challenge. Design engineers design, test engineers test. Spanning engineering functions is not easy and requires commitment and focus. Each department has to retain its functional identity while seeing the value in a shared fate with one another.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Philips Healthcare formalised a test tools engineering team and gave it a charter to develop and maintain test software applications and automated test equipment that could be used throughout the development process. This activity evolved to become a cross-functional service organisation for both new product design and verification &amp;amp; validation engineers. The team enabled these internal groups to focus on validating their products by developing new test scenarios rather than by developing ad-hoc test systems. Consequently, the team increased productivity by 347% and reduced the company’s cost of quality, saving $4.5 million annually.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;People Culture&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;A third aspect of company culture you have to consider is its people culture. People are the most important asset in any organisation. In the end, your people must accept and execute any significant strategic change. When talking about test, the people I’m talking about are mainly engineers, of course. In a few years, there will be more engineers retiring than entering the workforce. This poses an interesting challenge for test engineering. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Test is largely a learn-on-the-job vocation. It takes time for a new engineer to develop the knowledge of how best to apply test and measurement technologies to evaluate products correctly. Test engineers in many companies are quite experienced, with a long history of developing test expertise based on the systems and technologies they’ve used for years. On the other hand, newer engineers entering the field come with little understanding of test but a desire to take advantage of the latest technologies and the ability to adapt quickly to new ideas.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native&quot; target=&quot;_blank&quot;&gt;Adopting new test strategies &lt;/a&gt;&lt;/strong&gt;takes a strong focus on organisational proficiency to address the needs of both the experienced and new engineer. Hiring managers frequently face the challenge of selecting a few potential interviewees from a large selection of qualified candidates, but they often find success in vetting candidates with a heavy emphasis on softer skills such as communication and team-building skills. Though these softer skills are difficult to quantify, managers at best-in-class companies find more success in hiring candidates with a stronger cultural fit than candidates with experience and deeper skill sets. This is not to say that experience is not important because, as I said, test engineering is definitely a learned trade, and real-world experience is important.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;A plan for continued learning is essential to making new strategic test initiatives compatible with your people culture. Most individual contributors regularly seek to “sharpen the saw” and improve their skills to stay relevant. Making successful changes in test strategy hinges on your ability to improve the skills of your test engineers. This requires you to retain the important organisational knowledge of your most seasoned engineers while building skills and confidence in new approaches and technologies that are vital to the company. &lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Test managers with strong training plans have found success using an organisational program called a center of excellence (COE). A COE refers to a team that provides leadership, evangelisation, best practices, and training for a focus area. The COE concept leverages observations from other best-in-class companies while incorporating training certifications to help drive multiple levels of core competency.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Your Takeaway&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;“Culture eats strategy for breakfast.” When it comes to transforming the role of test as a strategic asset in your company, you should take heed of this simple phrase. Many cultural aspects of your company affect its ability to change. This is particularly true for changes in test strategy because many companies don’t essentially view test as a strategic asset. By focusing on assessing business impact, working to bridge engineering disciplines, and focusing on training and evolving the skills of your test engineers, you can bring greater appreciation of the value of test and ultimately make test a strategic part of your corporate culture.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;&lt;em&gt;Mike Santori&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;, vice president of product marketing at National Instruments, leads the organisations that are responsible for planning and marketing core measurements, test systems, embedded systems, and key application segments. He focuses on optimising the NI product portfolio, leading the definition and management of new products, and ensuring high-quality technical marketing.&lt;/em&gt; &lt;em&gt;Since joining NI in 1986, he has worked closely with R&amp;amp;D and marketing to define new products and capabilities for NI software, including NI LabVIEW, NI LabWindows/CVI, NI TestStand, and NI VeriStand, as well as develop marketing strategies for NI’s graphical system design approach.&lt;/em&gt; &lt;em&gt;He holds a bachelor’s degree in electrical engineering from Texas A&amp;amp;M University.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;&lt;a href=&quot;http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native&quot;&gt;&lt;strong&gt;Discover more with National Instruments&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Mike Santori, contributing technical expert ]]>
+</dc:creator>
+<pubDate>Tue, 14 Mar 2017 12:41:25 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ control technology ]]>
+</category>
+<category>
+<![CDATA[ control applications ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ production technology ]]>
+</category>
+<category>
+<![CDATA[ production management ]]>
+</category>
+<category>
+<![CDATA[ production control ]]>
+</category>
+<category>
+<![CDATA[ product development ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ design automation ]]>
+</category>
+<category>
+<![CDATA[ electronics industry ]]>
+</category>
+<category>
+<![CDATA[ manufacturing industries ]]>
+</category>
+<category>
+<![CDATA[ test ]]>
+</category>
+<category>
+<![CDATA[ national instruments ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Our 5G Future: In the Fast Lane with Numerical Simulation
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=800&height=600&rnd=131346483160000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=1200&height=450&rnd=131346483160000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Designers are now faced with one their biggest challenges as they need to bring real-time data usage and availability to the next level, which requires access to the best design tools and significant advances in signal processing, device-centered communications, and evolving technical stand
+]]>
+<![CDATA[
+ards.&lt;/p&gt;
+ &lt;h3&gt;&lt;span&gt;From 4G LTE to 5G&lt;/span&gt;&lt;/h3&gt;
+ &lt;p&gt;&lt;span&gt;It’s expected that 5G will need to utilize higher frequency spectrums in the millimeter wave range when deploying active electronically scanned array (AESA), which enables multi-beam multiplexing and massive multi-input-output (MIMO) technologies (Figure 1). Researchers working on the frontlines of forging this ultra-fast and high bandwidth successor to 4G LTE are relying on modeling and simulation tools to optimize product development and test cycles.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Simulation supports designers throughout the design cycle by allowing them to virtually evaluate several design ideas and implement physical prototypes based on the most promising concepts. Another advantage consists in the possibility to investigate different boundary conditions: in this case simulation allows an engineer to efficiently measure and test several scenarios without damaging a prototype, in cases such as extreme temperature variation, structural deformation, and chemical reactions. The goal of simulation specialists is to mimic the real world as closely as possible, so that the prototype is based on numerical results that achieve the expected performance in fewer design and test iterations.&lt;/span&gt;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=1200&amp;rnd=131346483160000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=800&amp;rnd=131346483160000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=640&amp;rnd=131346483160000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=320&amp;rnd=131346483160000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=800&amp;rnd=131346483160000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;&lt;span&gt;Figure 1: Isotropic radiation pattern was preferred before the 5G era (top). Antennas generating a higher gain (directivity) radiation pattern are required for 5G millimeter wave communication to compensate for the path loss in free space (bottom).&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ &lt;h3&gt;&lt;span&gt;Designers Join Forces with Simulation Specialists through Apps&lt;/span&gt;&lt;/h3&gt;
+ &lt;p&gt;&lt;span&gt;In preparation for the 5G rollout, designers are working through a number of obstacles, including frequency choices, propagation, reliability, battery life, and interference, to name a few. Each of these challenges is represented by a unique blend of physics that require a simulation specialist in that specific area who is equipped with the right tools to set up the underlying mathematical model properly. The symbiosis between designers and simulation specialists needs to be perfect in order to deliver the right product at the right time.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Simulation experts are typically the only ones who can safely provide the input data needed to get a useful output from a model. They therefore have to be involved in the iteration process every time there is a new request or change to be made in the device being simulated. Additionally, results or outputs are often presented in an environment only familiar to the specialist, so distributing the information to their colleagues often requires a meeting to present an explanation and interpretation of the results.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;But what if simulation specialists could easily build simulation apps, i.e. wrap an intuitive interactive user interface around a complex mathematical model? What if users without any previous experience using simulation software could run apps specifically designed for them? Simulation apps make it possible for simulation specialists to efficiently and effectively support the designers relentlessly working on the next breakthrough in the ultra-competitive landscape of wireless communication. Supplied with the right tools, designers working on 5G implementation can freely collaborate and complement their skills with those of their colleagues and collaborators who specialize in physics and numerical analysis.&#160; &lt;/span&gt;&lt;/p&gt;
+ &lt;h3&gt;&lt;span&gt;What Simulation Apps Can Do for Wireless Communication Design&lt;/span&gt;&lt;/h3&gt;
+ &lt;p&gt;&lt;span&gt;Let’s take the example of active electronically scanned arrays, or phase antenna arrays. They have become popular for military use in radar and satellite applications and are now occupying a conspicuous position for commercial purposes due to the growing needs of higher data rates in communication devices. The size of a simple component can easily exceed tens of wavelengths, making its numerical analysis very memory intensive. As a result, models take very long time even when approximated values would be sufficient to evaluate a proof-of-concept design. Fast prototyping would help reveal performance tendencies and determine design parameters quickly.&lt;/span&gt;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2967/jiyoun_fig_02.png?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131346479010000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2967/jiyoun_fig_02.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479010000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2967/jiyoun_fig_02.png?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131346479010000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2967/jiyoun_fig_02.png?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131346479010000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2967/jiyoun_fig_02.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479010000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;&lt;span&gt;Figure 2: 4x2 phased microstrip patch antenna modeled using COMSOL Multiphysics&#174; software. The top plot shows the logarithmic electric field norm on the patch and the 3D far-field radiation pattern. The lower plot depicts the logarithmic electric field norm on feed line planes. &#160;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Figure 2 shows a simulation of a 4x2 phased microstrip patch antenna array which can steer the beam toward the desired direction. This example is significantly more memory intensive and will take a longer time to compute than a single microstrip patch antenna (Figure 3).&lt;/span&gt;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2968/jiyoun_fig_03.png?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131346479020000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2968/jiyoun_fig_03.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479020000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2968/jiyoun_fig_03.png?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131346479020000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2968/jiyoun_fig_03.png?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131346479020000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2968/jiyoun_fig_03.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479020000000&quot; /&gt; &lt;/picture&gt; &lt;figcaption class=&quot;figure-caption fade-background&quot;&gt; &lt;p class=&quot;image-caption&quot;&gt;testing the caption field&lt;/p&gt; &lt;/figcaption&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;&lt;span&gt;Figure 3: Single patch antenna. Logarithmic electric field norm on patch, mesh, and 3D far-field radiation pattern are visualized.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Simulation results shown in Figure 3 are based on a full finite element method (FEM) model of a single slot-coupled microstrip patch antenna built on low-temperature co-fired ceramic (LTCC) layers, initially operating at 30 GHz.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Can we use the analysis of a single antenna to describe the behavior of the entire array? The power and flexibility of COMSOL Multiphysics&#174; software allows simulation specialists to perform an accurate simulation of a single microstrip patch antenna and then take into account user inputs such as array size, arithmetic phase progression, and angular resolution to describe, for example, the 3D far-field of the entire array. COMSOL makes it easy for specialists to couple physics interfaces already available with equations or algorithms needed to model a specific application. In this case, the two-dimensional antenna array factor has been implemented to include the translational phase shifts and array element weighting coefficients needed to determine the radiation pattern of the entire array.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;Can we present such a model to designers in a user friendly way? Simulation specialists are now provided with an intuitive workflow to create custom user interfaces based on their multiphysics simulation model. An app built for simulating the antenna array we just discussed is shown in Figure 4.&lt;/span&gt;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/2969/jiyoun_fig_04.png?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131346479040000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/2969/jiyoun_fig_04.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479040000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/2969/jiyoun_fig_04.png?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131346479040000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/2969/jiyoun_fig_04.png?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131346479040000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/2969/jiyoun_fig_04.png?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131346479040000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;Figure 4: The user interface of the Slot-Coupled Microstrip Patch Antenna Array Synthesizer simulation app built using the Application Builder tool available in COMSOL Multiphysics. &lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;span&gt;This app allows the designer to change the physical size of the single microstrip patch antenna as well as the thickness and material properties of each layer, in addition to other relevant parameters determined by the simulation specialist. In this particular example, the simulation specialist has included an interactive user experience by indicating whether the chosen design parameters are appropriate or not by comparing the computed S-parameter (S&lt;sub&gt;11&lt;/sub&gt;) value to the pass/fail target criterion. This app also includes a results report and documentation that concisely explains how the app is working. This last feature can be used in a variety of practical ways, from building reports to stakeholders and management, to use as a training tool for new hires in the company. Apps can also be easily deployed to colleagues and collaborators through a local installation of the COMSOL Server™ product, which allows authorized users to access apps through COMSOL Client or a major web browser.&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;We have a lot of work ahead of us before 5G is unveiled to the public. When designers are equipped with the right set of tools, they can freely collaborate with colleagues throughout their organization and beyond. Working cross-departmentally will be key to competing and succeeding in the 5G race.&lt;/p&gt;
+ &lt;p&gt;To learn more about fostering the development of the 5G mobile network, visit COMSOL Blog at &lt;a href=&quot;http://comsol.com/c/5b91&quot;&gt;http://comsol.com/c/5b91&lt;/a&gt;.&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jiyoun Munn ]]>
+</dc:creator>
+<pubDate>Fri, 24 Mar 2017 10:16:06 +0000</pubDate>
+<category>
+<![CDATA[ information and communications ]]>
+</category>
+<category>
+<![CDATA[ telecommunications ]]>
+</category>
+<category>
+<![CDATA[ telecommunication signalling ]]>
+</category>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ internet of things ]]>
+</category>
+<category>
+<![CDATA[ 5g ]]>
+</category>
+<category>
+<![CDATA[ data ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ numerical simulation ]]>
+</category>
+<category>
+<![CDATA[ mathematical modelling ]]>
+</category>
+<category>
+<![CDATA[ apps ]]>
+</category>
+<category>
+<![CDATA[ deployment ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+The Utility Week Live 2017 transformation leaders and technologies
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131347551160000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131347551160000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Utility Week Live 2017 has identified the 10 most important transformation leaders and technologies, as voted for by the industry themselves.&lt;/p&gt;
+ &lt;h3&gt;Key People&lt;/h3&gt;
+ &lt;p&gt;The ten individuals set out have embraced innovation and driving change in their respective companies, across the sector, and more widely. They are the leaders in the transformation the utilities are undergoing towards becoming more flexible, sustainable and suitable for the new world we’re all heading towards.&lt;/p&gt;
+ &lt;p&gt;These people are: Basil Scarsella, chief executive, UK Power Networks; Ben Jeffs, director and chief executive, MOSL; Cathryn Ross, chief executive, Ofwat; Cheryl Latham, chief executive, Brighter World Energy; Dermot Nolan, chief executive, Ofgem; Piers Clark, founder and chairman, Isle Utilities; Elon Musk, founder and products architect, Tesla and chairman, SolarCity; John Reynolds, chief executive, Castle Water; Simon Harrison, group strategic development manager, Mott MacDonald, and chair of the energy policy panel, IET; and Tony Cocker, chief executive, Eon UK.&lt;/p&gt;
+ &lt;p&gt;Over the coming months, Utility Week/WWT/WET News/Network will speak to the top ten people, speak to people in the industry about the influence and impact they have had, publish biographies detailing their careers and key decisions, or hearing from them direct with columns.&lt;/p&gt;
+ &lt;h3&gt;Key technologies&lt;/h3&gt;
+ &lt;p&gt;The ten technologies outlined opposite/below are fundamentally changing the shape and look of the utilities sector - in particular the energy side things. These include technologies and innovations that are already a key part of utilities’ daily operations, and those whose influence and impact is only going to grow in the coming years.&lt;/p&gt;
+ &lt;p&gt;The top ten technologies are: cloud computing; demand response and demand side management; electric vehicles; energy storage, including battery technology; geographical information systems (GIS); the Internet of Things (IoT); machine learning; smart metering; solar; and wind.&lt;/p&gt;
+ &lt;p&gt;Over the coming months, Utility Week/WWT/WET News/Network will speak to experts in the technologies, look at examples of how they have been rolled out and assess the impact they&#39;ve had, look at the numbers behind the innovations, and getting investor views on the development of the technologies and how close they are to transforming the business as usual operation in the sector.&lt;/p&gt;
+ &lt;p&gt;Utility Week Live returns to the &lt;strong&gt;NEC in Birmingham on 23 and 24 May&lt;/strong&gt; and will showcase the latest innovations and technical solutions for the industry.&lt;/p&gt;
+ &lt;p&gt;The theme for this year’s event is &lt;strong&gt;transformation and flexibility&lt;/strong&gt;, and it is the show for essential services to showcase hundreds of new products from specialist suppliers and innovators, technical presentations, pitches and live demos.&lt;/p&gt;
+ &lt;p&gt;Plus, there is an extensive programme of seminars exploring the future of gas, electricity and water.&lt;/p&gt;
+ &lt;p&gt;For more information, please visit: &lt;a href=&quot;http://www.utilityweeklive.co.uk&quot;&gt;www.utilityweeklive.co.uk&lt;/a&gt;.&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Utility Week Live 2017 ]]>
+</dc:creator>
+<pubDate>Tue, 21 Mar 2017 15:20:47 +0000</pubDate>
+<category>
+<![CDATA[ utilities ]]>
+</category>
+<category>
+<![CDATA[ technology ]]>
+</category>
+<category>
+<![CDATA[ events ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Vision Systems: Accelerating the Art of the Design ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131360350770000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131360350770000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;To that end, National Instruments has applied a graphical-programming approach to designing vision systems, resulting in an architecture it deems so crucial that it now serves as the scaffolding for all of its vision software workflows.&lt;/p&gt;
+ &lt;p&gt;Ask any number of vision integrato
+]]>
+<![CDATA[
+rs whether they can build an inspection system and they’ll say, “We should be able to do that, but we’ve got to try a few things. Can you give us some sample images or, better yet, sample parts?” This hands-on approach to vision system design is necessary because image processing is still much more of an art than it is a science: There is still no adequate process to simulate images based on sensor, lens, lighting and ambient conditions. As a result, good vision integrators have “vision labs,” allowing them to try out many different lighting/lens/environmental control combinations with various algorithmic approaches to achieve robust and reliable results.&#160;&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/3083/image-1_iet.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131360349480000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/3083/image-1_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360349480000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/3083/image-1_iet.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131360349480000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/3083/image-1_iet.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131360349480000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/3083/image-1_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360349480000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;Configuration-based tools like the NI Vision Assistant allow for rapid exploration of boundary conditions when trying out different algorithmic approaches to a vision application.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;At National Instruments Corp. (NI), we realized that our graphical-programming approach to software-based instrumentation also could be applied to vision system design. Subsequently, we identified five design practices deemed so essential for vision systems that we’ve incorporated them into NI’s vision software workflow.&#160;&lt;br&gt; &lt;br&gt; &lt;strong&gt;Use an iterative exploratory design flow&lt;/strong&gt;&lt;br&gt; &lt;br&gt; With vision, you know up front that you are going to have to try a few approaches with any task. Often, it’s not a matter of what approach will work but what approach will work best. And “best” is different from application to application. For some applications, speed is paramount. In others, it’s accuracy. At minimum, you are going to have to try a few different approaches to find the best one for any specific application. Given a set of application constraints, it is paramount to explore the boundaries set up by these constraints to understand what may be possible when trying different approaches. What are the biggest contributors to the total algorithm execution time? Can this time be significantly reduced by optimizing the algorithm, or would it be better to change the environmental constraints to generate better images (e.g., different lighting, lenses or cameras, etc.) that could remove preprocessing steps? Sometimes, it will come down to a cost/benefit analysis. For example, should you spend the extra time in algorithm development and upgrade the processing ability of the system or should you instead make a monetary investment in more lighting and new lenses? The important thing is to arrive at these decision points as quickly as possible, and that’s best accomplished by exploring the application’s boundary conditions as you iterate through possible design approaches.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/3084/image-2_iet.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131360350120000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/3084/image-2_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360350120000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/3084/image-2_iet.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131360350120000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/3084/image-2_iet.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131360350120000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/3084/image-2_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360350120000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;It’s a must to have a side-by-side comparison of original image and processed image for rapid algorithm development. Changes in numerous parameters and their combined effects then can be evaluated in real time.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Get immediate feedback and benchmarking&lt;/strong&gt;&lt;br&gt; &lt;br&gt; As an example, think about a WYSIWYG (What You See Is What You Get) text editor vs. HTML coding. Almost every time, it’s faster and easier to get results using WYSIWYG. And for those cases where you can’t get results, modern editing tools allow you to switch back and forth between the WYSIWYG editor and the HTML’s back end to get things just right.&#160;&lt;br&gt; &lt;br&gt; It’s the same with vision – seeing algorithm results in real time is a huge time-saver when you are using an iterative exploratory approach. What is the right threshold value? How big/small are the particles to reject with a binary morphology filter? Which image preprocessing algorithm – and with what parameters – will best clean up an image?&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131360350770000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360350770000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131360350770000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131360350770000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360350770000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;Example of LabView graphical code generated by the Vision Assistant configuration-based algorithm prototyping tool. The top window contains the real-time code for acquiring and transferring an image to the. The bottom left window is the FPGA infrastructure. The bottom right window is the FPGA implementation of the algorithm shown in the configuration-based software in Image 3.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;The ability to benchmark an algorithm’s performance on a sample set of images is critical to evaluating the feasibility of a particular design at different points in development. If you know that you have to complete your inspection within 90 ms, you can immediately reject algorithm approaches that cannot be executed in that general time frame. The key is to determine the feasibility as soon as possible and before putting in all the work to string together a bunch of subcomponents in a vision algorithm that will work beautifully but will take 500 ms to complete. Benchmarking can be tricky; you develop on one type of processor, but you could deploy on another. Would upgrading the processor on the deployed system be faster than trying to optimize the algorithm? Could the acquired images be improved through better lighting to negate some preprocessing steps? Additionally, there is the entirely different approach of evaluating alternative processing platforms.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/3086/image-3_iet.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;rnd=131360351280000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/3086/image-3_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360351280000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/3086/image-3_iet.jpg?anchor=center&amp;mode=crop&amp;width=640&amp;rnd=131360351280000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/3086/image-3_iet.jpg?anchor=center&amp;mode=crop&amp;width=320&amp;rnd=131360351280000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/3086/image-3_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;rnd=131360351280000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;Developing an algorithm in a configuration-based tool for FPGA targets with integrated benchmarking cuts down on time spent waiting for code to compile and accelerates development.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Explore deployment to alternative processing platforms (GPUs, FPGAs)&lt;/strong&gt;&lt;br&gt; &lt;br&gt; If, through exploring the boundary conditions of a problem, you find that all the approaches you try take too long and/or that it would be prohibitively expensive to improve the images with a different component selection, you may want to consider using an alternative processing platform. Field-programmable gate arrays (FPGAs) and graphics processing units (GPUs) give you the ability to accelerate algorithms by using massive parallel processing and different fundamental processing architectures. The trade-off is these platforms’ increased hardware costs and software coding complexities.&#160;&lt;/p&gt;
+ &lt;p&gt;The speed advantages of implementing processing-intensive tasks on an FPGA or GPU can be huge – greater by orders of magnitude. However, programming such devices also can be an order of magnitude more complex and more time-intensive. The good news is that advances are being made both to reduce the complexity of writing code for these devices through high-level synthesis tools, and to decrease compilation times required to try out a design on hardware. When developing on your PC, you can immediately compile and test your algorithm; these alternative processing platforms require time-intensive compilation. Because vision can be such an interactive process, compilation time can really add up and subsequently slow down a project.&lt;/p&gt;
+ &lt;figure class=&quot;article-image&quot;&gt; &lt;picture&gt; &lt;source media=&quot;(min-width: 1200px)&quot; data-srcset=&quot;/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&amp;mode=crop&amp;width=1200&amp;rnd=131360356840000000&quot;&gt; &lt;source media=&quot;(min-width: 960px)&quot; data-srcset=&quot;/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&amp;mode=crop&amp;width=800&amp;rnd=131360356840000000&quot;&gt; &lt;source media=&quot;(min-width 760px)&quot; data-srcset=&quot;/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&amp;mode=crop&amp;width=640&amp;rnd=131360356840000000&quot;&gt; &lt;source media=&quot;(min-width 320px)&quot; data-srcset=&quot;/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&amp;mode=crop&amp;width=320&amp;rnd=131360356840000000&quot;&gt; &lt;!-- fallback image for non supporting browsers --&gt; &lt;img class=&quot;img-responsive lazyload&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot; data-src=&quot;/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&amp;mode=crop&amp;width=800&amp;rnd=131360356840000000&quot; /&gt; &lt;/picture&gt; &lt;/figure&gt;
+ &lt;p&gt;&lt;em&gt;NI provides FPGA benefits through high-level graphical programming to enable closed-loop control. For example, consider the control of a servomotor based on image processing results.&lt;/em&gt;&lt;/p&gt;
+ &lt;p&gt;As an example of trying to cut down on the number of compilations required to get to a final design, NI implemented the ability to generate code for an FPGA target from the configuration-based tool, Vision Assistant. With it, you can select from a variety of FPGA targets, and your algorithm will be benchmarked against that target so you can know how an algorithm is going to work, as well as how much finite resource space it will need before you compile any code.&#160;&lt;br&gt; &lt;br&gt; &lt;strong&gt;Enable the switch from rapid prototyping to implementation&lt;/strong&gt;&#160;&lt;br&gt; &lt;br&gt; The work flow thus far has been exploratory and iterative; it’s all been about discovering the best vision algorithm(s) to implement through exploring boundary conditions and benchmarking results with configuration-based vision software. Now, the challenge is to implement the proven approach on the selected deployment platform. Depending on the application, this task can range from very simple to quite complex. In fact, many configuration-based software packages can also handle deployment to selected platforms such as vision sensors and smart cameras for “pure” vision inspection systems, which do not require any integration and synchronization with other subsystems in the context of a larger system.&lt;/p&gt;
+ &lt;p&gt;If your application fits this requirement and falls within the boundaries of what these configuration-based software packages are designed for, it’s the best way to go. Designed with these use cases in mind, and incorporating the algorithm development functionality of Vision Assistant, NI’s Vision Builder for Automated Inspection software package is designed for such scenarios. It includes a state machine for looping and branching decision making and also includes a customizable user interface and configurable input/output (I/O) steps.&lt;/p&gt;
+ &lt;p&gt;Many applications, however, do not conform to the intended use cases for which these software packages were designed. When building a system that includes not only vision but also motion control and advanced I/O, you want a full-fledged development environment. This is especially true if you have to close the loop between various subsystems and the vision system, or if you need to interact with a supervisory control and data acquisition (SCADA) system, correlate images with I/O, save and present results, interact via a Web server, implement special security features, or perform any one of dozens of other common automation tasks.&#160;&lt;br&gt; &lt;br&gt; The key is being able to switch back and forth between the configuration-based prototyping platform and the development environment needed to implement the full system architecture as fast as possible. Possibilities include code scripting capabilities from the configuration-based software, or the ability to call on an algorithm that was developed in a configuration-based software program within the development environment. Our solutions strive to provide both options to accelerate either approach for developers, as well as to provide an FPGA code scripting option – with all associated infrastructure – for image transfer and management.&#160;&lt;br&gt; &lt;br&gt; &lt;strong&gt;Keep I/O and triggering requirements in mind&lt;/strong&gt;&#160;&lt;br&gt; &lt;br&gt; You must be able to make an informed decision as to what type of action to take based on the results of the vision algorithm. Do you need to return intermediate results and log images, or just return a final result? Take these requirements into consideration when exploring the boundary conditions of the problem to ensure you don’t design yourself into a corner with any particular software approach or hardware choice for implementing your algorithm design. It can be extremely frustrating to finish the vision processing piece of the application and then to get stuck trying to synchronize image acquisition with I/O, or effectively pass results to other parts of the system.&#160;&lt;br&gt; &lt;br&gt; FPGAs particularly are useful when you have to meet timing for a demanding, high-speed application – such as closing the loop between vision and motion or another I/O source, e.g., a trigger or an ejection mechanism. Because FPGAs are implemented within the hardware, the cycle times on closed-loop control can be extremely fast. They also are the platform of choice when implementing various types of I/O because they are low-power embedded devices and have a more flexible interface to I/O than do GPUs or CPUs.&#160;&lt;br&gt; &lt;br&gt; By nature, vision algorithm development is an iterative process, and if certain tools and design practices are employed correctly, you can dramatically decrease development time and improve quality. Be sure to use an iterative design flow that gives you immediate feedback and benchmarking. Catch failed approaches early and consider the ways that hardware (e.g., processing platform and I/O requirements) can impact your design. Also, choose a platform that allows for efficient and rapid migration from a prototyping to a deployment platform. If these considerations are taken into account, you are on your way to an efficiently designed, robust, well-performing vision system.&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;em&gt;Discover the 10 things you should consider when choosing vision software - &lt;a href=&quot;http://sine.ni.com/np/app/main/p/ap/vision/lang/en/pg/1/sn/n17:vision,n21:11601/fmid/3053/?cid=Advertising-70131000001lvZhAAI-UK-April_2017_IET_native&quot;&gt;&lt;strong&gt;http://sine.ni.com/np/app/main/p/ap/vision/lang/en/pg/1/sn/n17:vision,n21:11601/fmid/3053&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[
+Nate Holmes - R&amp;amp;D group manager for Vision and Motion at National Instruments Corp. in Austin, Texas
+]]>
+</dc:creator>
+<pubDate>Tue, 11 Apr 2017 12:20:38 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ vision systems ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Improving wireless connectivity for IoT applications
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/webinars/improving-wireless-connectivity/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/2905/newfeaturesgeneric2.jpg?center=0.39808917197452232,0.50363196125907994&mode=crop&width=800&height=600&rnd=131338943490000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/2905/newfeaturesgeneric2.jpg?center=0.39808917197452232,0.50363196125907994&mode=crop&width=1200&height=450&rnd=131338943490000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;h2&gt;Webinar overview&lt;/h2&gt;
+ &lt;p&gt;Learn how to ensure reliable wireless connectivity for IoT electronics, reduce overheads during the design cycle and ensure optimum performance for your applications.&lt;/p&gt;
+ &lt;p&gt;Featuring a live demonstration, this webinar will show how to leverage simulation software to easily and quickly verify the performance of antennas and wireless devices inside complex environments such as factories, densely populated cities and sports arenas, as well as complex transport systems.&lt;/p&gt;
+ &lt;h2&gt;About the speaker&lt;/h2&gt;
+ &lt;p&gt;Dave Edgar has worked as an Applications engineer for ANSYS for more than 11 years, specializing in providing support on the high frequency electronics tools, in applications areas including antennas, waveguide, RFIC, PCB, Signal Integrity etc. Prior to ANSYS, he worked in various microwave engineering research and design positions, including DERA, Matra Marconi, Essient Photonics and Glasgow University.&lt;/p&gt;
+ &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://news.bbc.co.uk/&quot; role=&quot;button&quot;&gt;Book it up quick!&lt;/a&gt;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<pubDate>Fri, 8 Jul 2016 14:18:53 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/webinars/improving-wireless-connectivity/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Sponsored : E&amp;amp;T Webinar - Product Design with Electrical, Mechanical and Thermal Simulations
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/webinars/product-design-with-electrical-mechanical-and-thermal-simulations/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/3420/electronic_enclosure_cooling_results_4.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131393213240000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/3420/electronic_enclosure_cooling_results_4.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131393213240000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Thursday, May 25, 2017&lt;br&gt;&lt;strong&gt;Time:&lt;/strong&gt; 02:00 PM British Summer Time&lt;br&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1 hour&lt;/p&gt;
+ &lt;p&gt;COMSOL Multiphysics&#174; simulation software is widely used to simulate systems that contain multiple physical processes and extend beyond traditional analyses like mechanical stress. In this webinar, you will learn about the ability of this software to accurately and consistently simulate coupled electrical, thermal, and mechanical systems. We will also highlight how simulation apps can be used by engineers without a detailed background in computational modelling.&lt;/p&gt;
+ &lt;p&gt;There will also be an opportunity to gain expert advice and ask questions at the end of the webinar during a Q&amp;amp;A session.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why you should attend:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Gain greater insight into how simulation can be used effectively in the product design workflow in different industries.&lt;/li&gt;
+ &lt;li&gt;Discover how multiphysics software can be used for simulations that combine electrical, thermal, and mechanical physical effects.&lt;/li&gt;
+ &lt;li&gt;Learn how to set up and run an effective simulation in COMSOL Multiphysics&#174;.&lt;/li&gt;
+ &lt;li&gt;Understand how simulation apps can be used to extend the use of simulation beyond the &quot;specialist”.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Key learning outcomes from the webinar:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Understand the benefits of taking a multiphysics approach to simulation.&lt;/li&gt;
+ &lt;li&gt;Learn best practices in simulation-led product design.&lt;/li&gt;
+ &lt;li&gt;Learn how you can use one user interface for all different physics in your product design.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;https://event.on24.com/wcc/r/1420435/91AB6F8460591CD26C1C90323E8A47CD?partnerref=E&amp;amp;T.com&quot; role=&quot;button&quot;&gt;Free to attend – register for this webinar today!&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;p&gt;&lt;strong&gt;Can&#39;t make it? Watch on-demand!&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;Simply register to view the webinar at your convenience. All our webinars are available for 12 months after the event date, so you can tune in whenever&#39;s best for you!&lt;/p&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<pubDate>Fri, 1 Jan 2016 12:32:12 +0000</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ electromagnetics ]]>
+</category>
+<category>
+<![CDATA[ electromagnetic materials ]]>
+</category>
+<category>
+<![CDATA[ energy ]]>
+</category>
+<category>
+<![CDATA[ power generation ]]>
+</category>
+<category>
+<![CDATA[ webinar ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/webinars/product-design-with-electrical-mechanical-and-thermal-simulations/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+PLM Frustrations: Why do so many PLM projects fail?
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/plm-frustrations-why-do-so-many-plm-projects-fail/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1097/industrial-manufacturing1.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046520000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1097/industrial-manufacturing1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046520000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Product lifecycle management (PLM) is capable of revolutionising product development and industrial manufacturing. This technical paper analyses the current state of PLM, and explores the changes needed to make PLM successful within your organisation, and will offer invaluable guidance to those working in the area of product design and development, as well as manufacturing.&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;br&gt;Download this paper in order to learn how to:&lt;/p&gt;
+ &lt;p&gt;&lt;br&gt;• Identify issues in the product lifecycle management process&lt;br&gt;• Manage product life cycle data more efficiently &lt;br&gt;• Make product lifecycle management more effective within your organisation&lt;/p&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/PLM-Frustrations-Why-do-so-many-PLM-projects-fail/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download here.&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Aras ]]>
+</dc:creator>
+<pubDate>Fri, 1 Jul 2016 16:40:06 +0000</pubDate>
+<category>
+<![CDATA[ industrial ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/plm-frustrations-why-do-so-many-plm-projects-fail/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Engineering the Internet of Things ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/engineering-the-internet-of-things/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1133/vcuk_iet_s90_v90_1.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131189379810000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1133/vcuk_iet_s90_v90_1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131189379810000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Technology leaders within many organisations are being tasked with the implementation of an IoT strategy, and whilst IoT technologies hold great potential, they also present new challenges to the engineers building the devices. In this paper, we identify the critical challenges encountered in the design cycle, and identify seven key applications that are integral to the effective development and rollout of IoT products.&lt;/p&gt;
+ &lt;div&gt;
+ &lt;p&gt;This technical paper will help you to:&#160;&lt;/p&gt;
+ &lt;p&gt;&lt;br&gt;• Learn about the three elements of the Internet of Things; the things, the network and the cloud&lt;br&gt;• Overcome the five critical challenges of IoT product design &lt;br&gt;• Understand and incorporate the seven applications essential to ensuring the success of IoT products&lt;/p&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Engineering-the-Internet-of-Things/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Ansys ]]>
+</dc:creator>
+<pubDate>Fri, 1 Jul 2016 16:10:48 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/engineering-the-internet-of-things/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Electrical Design ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/electrical-design/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1135/electrical-design.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1135/electrical-design.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;The productivity gains related to using 3D CAD technology for mechanical design are now obtainable for electrical design through integration of electrical and mechanical development on a single 3D platform.Instead of relying on slow, non-integrated tools to develop electrical schematics, or manual techniques for routing wires and cables, this paper illustrates how manufacturers can fully integrate the electrical and mechanical aspects of machine and product design, resulting in time and cost savings, as well as quality improvements.&lt;strong&gt;Download this research report to learn:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;How to integrate electrical design into the 3D design process&lt;/li&gt;
+ &lt;li&gt;How to overcome the limitations of traditional electrical design schematics&lt;/li&gt;
+ &lt;li&gt;How ending the disconnect between mechanical and electrical design can save time and money, increase innovation and improve product quality&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-heading&quot;&gt; &lt;h3&gt;Free download available here&lt;/h3&gt; &lt;/div&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Free-White-Paper-Electrical-Design/&quot; role=&quot;button&quot;&gt;Get white paper&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Solidworks ]]>
+</dc:creator>
+<pubDate>Wed, 1 Jun 2016 16:12:13 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/electrical-design/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: The impact of long term sick leave on your finances….the facts, implications and the solutions
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-impact-of-long-term-sick-leave-on-your-finances-the-facts-implications-and-the-solutions/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1136/finances.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1136/finances.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;What would be the implications financially, if you were forced to take long term sick leave? How long and at what level will your employer or the state help? If you have financial commitments such as a mortgage, rent, loans and especially a family that rely on you, then it is important to u
+]]>
+<![CDATA[
+nderstand and explore both the impact this could have, as well as the solutions that are available.This insightful paper will help you to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Understand the level of income support available from the state or employer for those on long term sick leave&lt;/li&gt;
+ &lt;li&gt;Self-evaluate how secure your lifestyle is if you suffered a long term sickness&lt;/li&gt;
+ &lt;li&gt;Understand the options available and relate these to your personal circumstances&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/The-impact-of-long-term-sick-leave-on-your-finances/&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ PG Mutual ]]>
+</dc:creator>
+<pubDate>Wed, 1 Jun 2016 16:15:51 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-impact-of-long-term-sick-leave-on-your-finances-the-facts-implications-and-the-solutions/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Model-Driven Innovation ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/model-driven-innovation/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1137/computer-generated-object.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1137/computer-generated-object.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Why are a growing number of organisations turning towards a Model-Driven Innovation process – an approach that uses system-level modelling to develop virtual prototypes? If you are seeing system complexities arise, threatening your ability to control costs, produce high quality designs and get your products to market quickly, then a system-level approach can bring value to your organisation.Download this research report to learn how:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Problems can be fixed before the system integration and physical prototyping stages.&lt;/li&gt;
+ &lt;li&gt;Project delays can be avoided through swift detection of&#160;problems between different subsystems.&lt;/li&gt;
+ &lt;li&gt;Systems can be analysed, and designs validated and improved with access to the underlying mathematics.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/1604-Model-Driven-Innovation/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Get white paper&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Maplesoft ]]>
+</dc:creator>
+<pubDate>Sat, 2 Apr 2016 16:18:28 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/model-driven-innovation/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: Engineering the Next Industrial Economy
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/engineering-the-next-industrial-economy/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1138/industrial_iot2.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1138/industrial_iot2.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;The Industrial Internet of Things will improve industrial efficiency through Big Data analytics. But how will this happen quickly? It will require vast improvements in electronic systems to increase speed, optimize power consumption, reduce electromagnetic interference, and ensure physical as well as software reliability and security. The complexity of this task is enormous and can only be overcome with engineering simulation.This insightful technical paper will help you to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Understand the importance of antenna design in ensuring the ‘thing’ works efficiently.&lt;/li&gt;
+ &lt;li&gt;Achieve product reliability in all conditions.&lt;/li&gt;
+ &lt;li&gt;Ensure optimum battery performance for your devices&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/1604-Engineering-the-Next-Industrial-Economy/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Get white paper&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Ansys ]]>
+</dc:creator>
+<pubDate>Sat, 2 Apr 2016 16:13:45 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/engineering-the-next-industrial-economy/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Research &amp;amp; Development Tax Relief: Exploring the Market
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/research-development-tax-relief-exploring-the-market/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1139/research-and-development.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1139/research-and-development.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Discover how the Government’s R&amp;amp;D Tax Relief initiative has enabled companies across the UK to improve their stability through; growth, security, advancement and competitive advantage. This paper will provide you with the tools needed both to understand the benefit of enforcing a research and development tax relief procedure, and to enable you to identify R&amp;amp;D activity prevalent within you own organisation.Download this paper in order to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Gain an understanding of Research &amp;amp; Development (R&amp;amp;D) Tax Relief&lt;/li&gt;
+ &lt;li&gt;Discover the impact of R&amp;amp;D Tax Relief within your sector&lt;/li&gt;
+ &lt;li&gt;Obtain the tools needed to be able to implement a procedure for R&amp;amp;D&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/1604-Research-and-Development-Tax-Relief-Exploring-the-Market/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ RD Tax Solutions ]]>
+</dc:creator>
+<pubDate>Sat, 2 Apr 2016 16:15:27 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/research-development-tax-relief-exploring-the-market/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Time-of-flight sensing technology ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/time-of-flight-sensing-technology/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1140/sensing-technology.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1140/sensing-technology.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;This paper introduces a highly versatile, no-contact detection and ranging technology that uses the time-of-flight method and innovative, powerful algorithms, to detect, locate, and measure the distance of objects and people.&#160;More effective, robust and energy-efficient than traditional technologies, Leddar breaks the mold for what’s possible in detection and ranging, allowing it to meet the requirements of upcoming massive-scale IoT and IoE deployments and act a key enabler driving the smart sensor revolution.This insightful technical paper will help you to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Discover a new high-performance, yet cost-effective sensing technology&lt;/li&gt;
+ &lt;li&gt;Explore its workings and the scientific principles behind it&lt;/li&gt;
+ &lt;li&gt;Understand why and how it surpasses traditional detection technologies&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://247webcasting.com/events/IET/whitepapers/time-of-flight-sensing-technology/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Leddartech ]]>
+</dc:creator>
+<pubDate>Tue, 1 Mar 2016 16:16:05 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/time-of-flight-sensing-technology/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: The Development of the new Plug-in Hybrid Powertrain for the all-new Volvo XC90
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-development-of-the-new-plug-in-hybrid-powertrain-for-the-all-new-volvo-xc90/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1141/vcuk_iet_s90_v90_1.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131305252880000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1141/vcuk_iet_s90_v90_1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131305252880000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;The new plug-in hybrid powertrain combines high performance and low fuel consumption using electrification of Volvo&#39;s 4 cylinder Drive-E powertrains. It explains how the combination of a supercharged engine with Electric Rear Axle Driver provides peak performance in a luxury car.Download this paper now to gain an understanding of:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;The innovation deployed in the development of this powertrain&lt;/li&gt;
+ &lt;li&gt;Powertrain architecture and basic modes of operation&lt;/li&gt;
+ &lt;li&gt;The taxation savings for a business and its drivers&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/The-Development-of-the-new-Plug-in-Hybrid-Powertrain/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Volvo ]]>
+</dc:creator>
+<pubDate>Tue, 1 Mar 2016 16:18:38 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/the-development-of-the-new-plug-in-hybrid-powertrain-for-the-all-new-volvo-xc90/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: How to achieve consistency, quality and lifetime: the lesser known challenge facing makers of electric vehicles’ batteries
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-to-achieve-consistency-quality-and-lifetime-the-lesser-known-challenge-facing-makers-of-electric-vehicles-batteries/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1142/electric-vehicle-battery.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1142/electric-vehicle-battery.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;The aim of this paper is to show how a new generation of DC power supplies can be used to assist in the challenges faced by the electric vehicles manufacturers in finding the optimum battery chemistry, with high power density and fast charging at a price attractive to the end customer.&lt;/p&gt;
+ &lt;p&gt;This insightful paper will help you to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Specify power supplies for battery simulation&lt;/li&gt;
+ &lt;li&gt;Gain a better understanding of electric vehicle development&lt;/li&gt;
+ &lt;li&gt;Understand the need for power density and reduced weight to increase miles per charge&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/how-to-achieve-consistency-quality-and-lifetime/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Get white paper&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Magna Power ]]>
+</dc:creator>
+<pubDate>Tue, 1 Mar 2016 16:00:12 +0000</pubDate>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-to-achieve-consistency-quality-and-lifetime-the-lesser-known-challenge-facing-makers-of-electric-vehicles-batteries/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: Adapt and change - How adaptive control of resistance welding can cut production costs and improve product quality
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/adapt-and-change-how-adaptive-control-of-resistance-welding-can-cut-production-costs-and-improve-product-quality/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1143/welding-technology.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1143/welding-technology.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Over reliance on traditional welding and inspection techniques is harming productivity and consistency.This white paper provides a detailed look at how the latest adaptive welding techniques can prevent common spot welding issues such as shunting, variations of coating and sheet thickness, as well as weld force disparity.It also provides a solution to time-intensive, unreliable quality control processes.This insightful paper will show you:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;How to improve weld consistency&lt;/li&gt;
+ &lt;li&gt;How to avoid common welding complications&lt;/li&gt;
+ &lt;li&gt;How real time inspection and monitoring can dramatically reduce time&#160;intensive quality control processes&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/adaptive-control-of-resistance-welding/index.php?partnerref=eandtmagazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Bosch Rexroth ]]>
+</dc:creator>
+<pubDate>Tue, 1 Mar 2016 17:01:36 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/adapt-and-change-how-adaptive-control-of-resistance-welding-can-cut-production-costs-and-improve-product-quality/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Smart Testing of Smart Charging ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/smart-testing-of-smart-charging/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1144/charging-stations_electric-vehicles.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046670000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1144/charging-stations_electric-vehicles.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046670000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;With the increasing diversity of electric vehicles and charging station systems, interoperability between components and conformance to standards is more important than ever. In order to test these issues, identify causes of charging interruptions, and test reliability and robustness against various disturbances; consistent test case coverage with an open test environment is required.This technical paper will help you understand:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Systematic testing for robustness, conformance to standards, and interoperability of components involved in conductive charging.&lt;/li&gt;
+ &lt;li&gt;How vTESTstudio and CANoe test environments provide fundamental transparency and reproducibility of test sequences.&lt;/li&gt;
+ &lt;li&gt;How modular architecture and the use of key tools allows for operation with a real environment or a fully simulated environment, and all stages in-between.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Smart-Testing-of-Smart-Charging/?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Vector ]]>
+</dc:creator>
+<pubDate>Tue, 1 Dec 2015 17:09:25 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/smart-testing-of-smart-charging/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: How Intelligent Device Manufacturers Are Using Embedded Software to Grow Revenue
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-intelligent-device-manufacturers-are-using-embedded-software-to-grow-revenue/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1145/computer-virtual-networks.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1145/computer-virtual-networks.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Increasingly, the value of an intelligent device is based on the software or firmware delivered with the device. The flexibility of software allows intelligent device manufacturers to sell many differentiated products while streamlining manufacturing processes. This white paper describes how you can use electronic software monetisation technology to protect and enhance your products, and how to distribute updates and upgrades to your already-deployed device, regardless of your industry, from networking to telephony, imaging to medical devices and beyond.Download this paper to learn how to:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Grow revenue by selling many differentiated products whilst streamlining manufacturing processes.&lt;/li&gt;
+ &lt;li&gt;Protect your software R&amp;amp;D investment and intellectual property&lt;/li&gt;
+ &lt;li&gt;Electronically deliver and update software to already deployed devices&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/How-Intelligent-Device-Manufacturers-Are-Using-Embedded-Software-to-Grow-Revenue/?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Flexera ]]>
+</dc:creator>
+<pubDate>Sun, 1 Nov 2015 17:12:59 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-intelligent-device-manufacturers-are-using-embedded-software-to-grow-revenue/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: AURIX Data Flash and EEPROM emulation ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/aurix-data-flash-and-eeprom-emulation/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1146/electronic-components-on-a-circuit-board.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1146/electronic-components-on-a-circuit-board.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;EEPROM emulation software is a highly complex software for emulating EEPROM functionality on on-chip data flash. This paper highlights the advantages of using on-chip Data Flash for non-volatile data storage when compared to conventional external EEPROM chips. It also provides key information about the requirements and features of EEPROM emulation algorithms by considering Infineon’s AURIX&lt;sup&gt;TM&lt;/sup&gt; family of 32-bit microcontrollers as an example.This paper will help you understand:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;The advantages of using on-chip DFlash for non-volatile data storage&lt;/li&gt;
+ &lt;li&gt;Key requirements of EEPROM emulation algorithms&lt;/li&gt;
+ &lt;li&gt;Key features of Hitex supplied EEPROM emulation software for Infineon’s AURIXTM family of 32-bit microcontrollers.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/AURIX-Data-Flash-and-EEPROM-emulation/?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ HiTex ]]>
+</dc:creator>
+<pubDate>Sun, 1 Nov 2015 17:14:56 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/aurix-data-flash-and-eeprom-emulation/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: Factory stores – manufacturing’s necessary evil
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/factory-stores-manufacturing-s-necessary-evil/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1147/factory_manufacturing.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1147/factory_manufacturing.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;This report, produced in association with the IET, attempts to answer one simple question: why is there such a contrast between the lean and efficient factory floor and its all-too-often chaotic stores function? Throughout this report you will find quotes and insight from engineers, exploring the stores management and inventory problems facing UK industry. These often frustrated voices demonstrate a desire for factory stores to be more proactive, efficient and aligned with the rest of the organisation.This thought provoking report includes:&lt;/p&gt;
+ &lt;div&gt;&lt;/div&gt;
+ &lt;ul&gt;
+ &lt;li&gt;An insight into UK storeroom practices, both good and bad.&lt;/li&gt;
+ &lt;li&gt;Recommendations on how best to restore order and efficiency to the storeroom of your business&lt;/li&gt;
+ &lt;li&gt;Case studies that demonstrate real solutions to the issues facing Storeroom Managers everywhere&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div&gt;&lt;/div&gt;
+ &lt;div&gt;&lt;br&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Factory-stores-manufacturings-necessary-evil/?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Eriks ]]>
+</dc:creator>
+<pubDate>Sun, 1 Nov 2015 17:15:05 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/factory-stores-manufacturing-s-necessary-evil/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: Risk management and professional negligence claims
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/risk-management-and-professional-negligence-claims/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1148/management_cityscape.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1148/management_cityscape.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;Professional negligence claims can have a devastating impact on both the reputation and resources of any organisation. This briefing paper offers expert insight into the claims process, outlining the reasons why professional firms should consider risk management and outlining what to expect should you be subject to a professional negligence claim. It will also provide top risk management tips to help avoid a professional negligence claim. Download this briefing paper to gain an insight into:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;The importance of good risk management and the benefits to your business&lt;/li&gt;
+ &lt;li&gt;How to manage risk effectively&lt;/li&gt;
+ &lt;li&gt;How best to navigate the professional negligence claims process&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&#160;&lt;/p&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Risk-management-and-professional-negligence-claims/?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Bluefin ]]>
+</dc:creator>
+<pubDate>Sun, 1 Nov 2015 17:17:51 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/risk-management-and-professional-negligence-claims/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ White Paper: Electrical Design ]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/solidworks-electrical-design/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1149/electrical-design-1.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1149/electrical-design-1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;&lt;em&gt;Boost productivity and improve quality by integrating electrical and mechanical design in 3D.&lt;/em&gt;The productivity gains related to using 3D CAD technology for mechanical design are now obtainable for electrical design through integration of electrical and mechanical development on a single 3D platform.Instead of relying on slow, non-integrated tools to develop electrical schematics, or manual techniques for routing wires and cables, this paper illustrates how manufacturers can fully integrate the electrical and mechanical aspects of machine and product design, resulting in time and cost savings, as well as quality improvements.&lt;strong&gt;Download this research report to learn:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;How to integrate electrical design into the 3D design process&lt;/li&gt;
+ &lt;li&gt;How to overcome the limitations of traditional electrical design schematics&lt;/li&gt;
+ &lt;li&gt;How ending the disconnect between mechanical and electrical design can save time and money, increase innovation and improve product quality&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Electrical-Design/index.php?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Solidworks ]]>
+</dc:creator>
+<pubDate>Thu, 1 Oct 2015 17:19:07 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/solidworks-electrical-design/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: Research &amp;amp; Development Tax Relief: Exploring the Incentive
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/research-development-tax-relief-exploring-the-incentive/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1150/manufacturing-research-and-development.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1150/manufacturing-research-and-development.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;This white paper gives an analysis of the latest statistics surrounding R&amp;amp;D tax relief claim submissions, along with an insight into how the Government’s R&amp;amp;D tax relief initiative has enabled engineering companies across the UK to improve their stability through growth, se
+]]>
+<![CDATA[
+curity, advancement and competitive advantage.It will also provide you with the tools needed both to understand the benefit of enforcing a research and development tax relief procedure, and enable you to identify research and development activity prevalent within you own organisation.&lt;strong&gt;Download this research report to:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Gain an understanding of Research &amp;amp; Development (R&amp;amp;D) tax relief.&lt;/li&gt;
+ &lt;li&gt;Discover the impact of R&amp;amp;D tax relief on the engineering sector.&lt;/li&gt;
+ &lt;li&gt;Obtain the tools needed to be able to implement a procedure for R&amp;amp;D.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Research-&amp;amp;-Development-Tax-Relief-Exploring-the-Incentive/index.php?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Get white paper here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+ &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ RD Tax Solutions ]]>
+</dc:creator>
+<pubDate>Thu, 1 Oct 2015 17:12:23 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/research-development-tax-relief-exploring-the-incentive/
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+White Paper: How to develop Real-Time Battery Models for HIL testing of Battery Management Systems (BMS)
+]]>
+</title>
+<link>
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-to-develop-real-time-battery-models-for-hil-testing-of-battery-management-systems-bms/
+</link>
+<media:content url="https://dev-eandt.theiet.org/media/1151/generic-image-of-small-and-large-batteries.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131190046660000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="https://dev-eandt.theiet.org/media/1151/generic-image-of-small-and-large-batteries.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046660000000" /><br /><br />
+]]>
+<![CDATA[
+&lt;p&gt;For testing Battery Management Systems (BMS), the use of “virtual” batteries is proving to be an effective alternative to the use of real batteries. They allow the engineer to avoid the risks of damage to the batteries - and subsequent costs - while testing and optimising the BMS design in a close-to-reality loading environment. So how do you develop a high-fidelity battery pack model capable of being executed on a real-time platform? Maplesoft explains…&lt;strong&gt;Download this research report to understand:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;The loading effect on the battery as it undergoes many different duty cycles and how the battery will behave as part of the greater system.&lt;/li&gt;
+ &lt;li&gt;Heat flow in the battery - how rising temperature and age affects efficiency, and what critical factors could cause thermal runaway.&lt;/li&gt;
+ &lt;li&gt;How to adjust your designs to optimise performance and reduce the risk of undesirable effects by taking battery behaviour into account early in your design process.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class=&quot;panel panel-link-cta&quot;&gt; &lt;div class=&quot;panel-body&quot;&gt; &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;http://www.247webcasting.com/events/IET/whitepapers/Development-of-Real-Time-Battery-Models-for-HIL-testing-of-Battery-Management-Systems-BMS/index.php?partnerref=eandt-magazine&quot; role=&quot;button&quot;&gt;Free download available here&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Maplesoft ]]>
+</dc:creator>
+<pubDate>Thu, 1 Oct 2015 17:14:29 +0000</pubDate>
+<guid ispermalink="true">
+https://dev-eandt.theiet.org/content/sponsored/whitepapers/how-to-develop-real-time-battery-models-for-hil-testing-of-battery-management-systems-bms/
+</guid>
+</item>
+</channel>
+</rss>
