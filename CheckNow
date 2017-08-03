@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 03 Aug 2017 09:50:47 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[ hey's £ US sanctions are 'trade war' on Russia, says PM Medvedev]]></title>
+            <description><![CDATA[Russian PM Dmitry Medvedev also says the US sanctions end hopes for improving bilateral relations.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-40809715</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-40809715</guid>
+            <pubDate>Thu, 03 Aug 2017 06:21:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F77D/production/_97175336_mediaitem97175334.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vietnam denies Germany's Trinh Xuan Thanh kidnap claim]]></title>
+            <description><![CDATA[Vietnam's government says a former oil executive who disappeared in Berlin has "turned himself in".]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-40811275</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-40811275</guid>
+            <pubDate>Thu, 03 Aug 2017 09:35:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1578B/production/_97174978_mediaitem97175341.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Statue of Liberty caught in White House immigration row]]></title>
+            <description><![CDATA[A senior adviser clashes with a reporter over the iconic American statue and US immigration laws.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40810972</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40810972</guid>
+            <pubDate>Thu, 03 Aug 2017 07:57:10 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/BB4B/production/_97174974_mediaitem97174973.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ TEST THIS item's £  Migrant crisis: CAN YOU SEE ME? £ Libya strongman Haftar warns Italy over ships]]></title>
+            <description><![CDATA[Italian ships in Libyan waters that return migrants will be "repelled", Field Marshal Haftar said.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-40812304</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-40812304</guid>
+            <pubDate>Thu, 03 Aug 2017 09:49:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12AB3/production/_97176467_mediaitem97176466.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Racist messages cause anger at Australian universities]]></title>
+            <description><![CDATA[Offensive graffiti and posters targeting Chinese students cause anger at three top institutions.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-40809896</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-40809896</guid>
+            <pubDate>Thu, 03 Aug 2017 03:15:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/173A1/production/_97173159_chinese2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global blindness set to 'triple by 2050']]></title>
+            <description><![CDATA[Researchers predict predict cases will rise from 36 million to 115 million by 2050.]]></description>
+            <link>http://www.bbc.co.uk/news/health-40806253</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-40806253</guid>
+            <pubDate>Thu, 03 Aug 2017 00:14:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0C87/production/_97170230_gettyimages-656733106.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump backs proposal to curb legal immigration]]></title>
+            <description><![CDATA[The president hails the Raise Act to cut avenues for immigrants as the biggest change in 50 years.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40804841</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40804841</guid>
+            <pubDate>Thu, 03 Aug 2017 04:04:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4077/production/_96730561_040287348.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brittany crepe catastrophe leads to police callout]]></title>
+            <description><![CDATA[Two women who felt their crepes did not have enough sugar threatened to smash up the French cafe.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-40812302</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-40812302</guid>
+            <pubDate>Thu, 03 Aug 2017 08:24:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1508D/production/_97175168_mediaitem97175163.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela vote: Authorities reject inflation claim]]></title>
+            <description><![CDATA[The electoral authorities dismiss a claim turnout figures for a vote were inflated as "baseless".]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-40808752</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-40808752</guid>
+            <pubDate>Thu, 03 Aug 2017 00:28:09 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/60FB/production/_97172842_mediaitem97172841.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wladimir Klitschko retires and will not fight Anthony Joshua in rematch]]></title>
+            <description><![CDATA[Former heavyweight world champion Wladimir Klitschko retires from boxing - ruling out a rematch with Britain's Anthony Joshua.]]></description>
+            <link>http://www.bbc.co.uk/sport/boxing/40811881</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/boxing/40811881</guid>
+            <pubDate>Thu, 03 Aug 2017 09:23:41 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2E47/production/_97174811_gettyimages-459043462.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kidd Creole charged over fatal stabbing in New York]]></title>
+            <description><![CDATA[The Grandmaster Flash and The Furious Five member is arrested over the death of a man in New York.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40810978</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40810978</guid>
+            <pubDate>Thu, 03 Aug 2017 09:42:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/149DF/production/_97174448_kiddcreole.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada opens Montreal Olympic Stadium for migrants from US]]></title>
+            <description><![CDATA[The majority of asylum seekers crossing into Canada have done so at the Quebec border.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40806862</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40806862</guid>
+            <pubDate>Thu, 03 Aug 2017 08:00:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/150A/production/_97168350_gettyimages-50967720.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berlin street artist group cleverly undo swastika graffiti]]></title>
+            <description><![CDATA[A group of students are using their artistic skills to remove swastika graffiti seen around the German capital.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-40809266</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-40809266</guid>
+            <pubDate>Wed, 02 Aug 2017 20:05:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/1295F/production/_97172167_p05bd0jh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salvadorean brothers deported short of pursuing soccer dream]]></title>
+            <description><![CDATA[Two Salvadoreans with no criminal background and promising futures have been deported from the US.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40808128</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40808128</guid>
+            <pubDate>Thu, 03 Aug 2017 02:38:11 GMT</pubDate>
+            <media:thumbnail width="720" height="405" url="http://c.files.bbci.co.uk/2861/production/_97173301_lizandro.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wisconsin company offers microchip implants to employees]]></title>
+            <description><![CDATA[A software development company in Wisconsin is offering employees chip implants... and half the workforce are doing it.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40806583</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40806583</guid>
+            <pubDate>Thu, 03 Aug 2017 01:05:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/379D/production/_97173241_p05bdd3q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homophobia in Serbia: 'I was abused for being gay']]></title>
+            <description><![CDATA[One month ago, Ana Brnabić was appointed Serbia's first openly gay prime minister. Have homophobic attitudes changed? We spoke to a man with a personal story of discrimination.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-40806133</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-40806133</guid>
+            <pubDate>Wed, 02 Aug 2017 23:27:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13098/production/_97167977_p05bc6v5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alaska's whale hunters wait for Trump's Arctic oil plan]]></title>
+            <description><![CDATA[The BBC's Claire Marshall travels more than 300 miles north of the Arctic Circle to meet the Inupiat, who call the ocean their "garden".]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-40803820</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-40803820</guid>
+            <pubDate>Wed, 02 Aug 2017 16:06:45 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6D3E/production/_97166972_p05bc2s2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dash cam shows drunk driver crashing into police officer]]></title>
+            <description><![CDATA[The Texas policeman was catapulted through the air after a drunk driver hit him during a traffic stop.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-40808127</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-40808127</guid>
+            <pubDate>Wed, 02 Aug 2017 17:38:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17135/production/_97171549_c4aa8852-c304-4455-b54a-ef367b9067e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hyperloop One: Passenger pod tested successfully]]></title>
+            <description><![CDATA[Hyperloop One has carried out the first trial of the technology to include a large pod that may one day carry passengers at speeds of up to 650mph.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-40811172</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-40811172</guid>
+            <pubDate>Thu, 03 Aug 2017 06:19:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/994F/production/_97174293_p05bdklw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uniqlo shirts at push of a button in airport vending]]></title>
+            <description><![CDATA[The Japanese fashion brand is chasing US consumers with vending machines dispensing clothes.]]></description>
+            <link>http://www.bbc.co.uk/news/business-40810761</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-40810761</guid>
+            <pubDate>Thu, 03 Aug 2017 09:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Planetary protection officer wanted, generous salary]]></title>
+            <description><![CDATA[Nasa is seeking a "planetary protection officer" to defend the earth from alien life.]]></description>
+            <link>http://www.bbc.co.uk/news/world-40809566</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-40809566</guid>
+            <pubDate>Wed, 02 Aug 2017 22:03:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5BE7/production/_97172532_gettyimages-458844456.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Absent Solomon Island MPs spark opposition anger]]></title>
+            <description><![CDATA['Shocking and disgraceful' absenteeism criticised after not enough members turn up to hold debate.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40812703</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40812703</guid>
+            <pubDate>Thu, 03 Aug 2017 09:14:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1159B/production/_97176017_0000.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pigeon racing blamed for Indonesian divorces]]></title>
+            <description><![CDATA[Javanese women say their husbands are more interested in their feathered friends.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40801328</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40801328</guid>
+            <pubDate>Wed, 02 Aug 2017 13:46:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1864C/production/_97161999_gettyimages-484542516.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No major incidents' as driverless buses launch in Estonia]]></title>
+            <description><![CDATA[There have been a few close calls as autonomous vehicles hit the road in Tallinn as part of the country's EU presidency.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40800867</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40800867</guid>
+            <pubDate>Wed, 02 Aug 2017 09:00:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1111C/production/_97161996_0000.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lose-lose?]]></title>
+            <description><![CDATA[As a New Zealand politician is quizzed on her motherhood plans, we look at the stereotypes women face.]]></description>
+            <link>http://www.bbc.co.uk/news/world-40800687</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-40800687</guid>
+            <pubDate>Wed, 02 Aug 2017 19:57:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/106D6/production/_97168276_petry.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Phantom barbers]]></title>
+            <description><![CDATA[Police are struggling to solve the mystery that has left women clueless and worried.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-40749640</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-40749640</guid>
+            <pubDate>Thu, 03 Aug 2017 05:15:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10D2/production/_97160340_edad56a9-0f9d-4f48-b7a6-739bfb07c6ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Under a shadow]]></title>
+            <description><![CDATA[With Barcelona on the brink of crisis, why did Neymar decide to leave for PSG, who could replace him and what are the ramifications?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/40804584</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/40804584</guid>
+            <pubDate>Wed, 02 Aug 2017 14:31:44 GMT</pubDate>
+            <media:thumbnail width="595" height="335" url="http://c.files.bbci.co.uk/16D24/production/_97167439_messiiconicneymar_fcbarcelona.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tackling the taboo]]></title>
+            <description><![CDATA[Stephen Kigoma, a survivor of male rape from DR Congo, calls for more men to talk about their ordeals.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-40801782</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-40801782</guid>
+            <pubDate>Wed, 02 Aug 2017 23:39:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E6BA/production/_97166095_stephen.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hey' d Visionary or tyrant?]]></title>
+            <description><![CDATA[Rwanda's President Paul Kagame is hailed by allies as a visionary leader, but his opponents fear him.]]></description>
+            <link>http://www.bbc.co.uk/news/10479882</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10479882</guid>
+            <pubDate>Wed, 02 Aug 2017 23:23:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13327/production/_97013687_kagamehand.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia terror probe]]></title>
+            <description><![CDATA[The uncovering of a suspected terror plot in Australia reignites debate over protecting passengers.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-40772275</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-40772275</guid>
+            <pubDate>Wed, 02 Aug 2017 23:39:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0927/production/_97134320_2e42a1b8-891b-41b0-8ee5-5fa2aeec2899.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dronepreneurs]]></title>
+            <description><![CDATA[Drones are offering a growing range of commercial possibilities, but pilots must be aware of the risks.]]></description>
+            <link>http://www.bbc.co.uk/news/business-40629993</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-40629993</guid>
+            <pubDate>Wed, 02 Aug 2017 23:04:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8C17/production/_97136853_4e26166f-298f-4d4a-94b8-bf11540b707c.jpg"/>
+        </item>
+    </channel>
+</rss>
