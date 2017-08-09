@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>My trial Rss Feed</title>
+    <description />
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2017 18:04:52 +0530</lastBuildDate>
+    <generator>My trial Feed</generator>
+    <item>
+      <title>World's biggest story</title>
+      <description>This article is about the world's largest story! i meant biggest as in length.</description>
+    </item>
+    <item>
+      <title> New tech Telescope costs £ 14 bn</title>
+      <description>New world celestial telescope in market for £ 14 bn.</description>
+    </item>
+    <item>
+      <title> India to be declared as a developed country in the year 2025 </title>
+      <description>India to acheive the developed nation tag in the year 2025.</description>
+    </item>
+  </channel>
+</rss>
