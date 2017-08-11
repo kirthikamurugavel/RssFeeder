@@ -1,0 +1,2003 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>E&T News</title>
+<description>The latest news from E&T magazine</description>
+<atom:link href="http://localhost:59720/rss" rel="self" type="application/rss+xml"/>
+<link>http://eandt.theiet.org</link>
+<item>
+<title>World's Largest Telescope worth £ 43 bn Testing</title>
+<link>
+http://localhost:59720/content/sponsored/worlds-largest-telescope-worth-43-bn-testing/
+</link>
+<description>
+<![CDATA[
+<p>World's Largest Telescope worth £ 43 bn Testing</p>
+ <p>The HTML Encode function that is used to replace special characters of the feed converts the special characters into their equivalent entity. The HTML entity has two forms 1) HTML number 2) HTML name. The special characters which do not have HTML names are encoded with their HTML numbers. There can be a possibility that the reader couldn't read few of the HTML numbers (for eg £ symbol in the screenshot added with this ticket).</p>
+ <p>The current solution that is pushed to the DEV environment(<span> </span><a rel="nofollow" href="/testrss" class="external-link">https://dev-eandt.theiet.org/testrss</a><span> </span>) uses this HTML Encode function. For testing purpose please check how does it render the feed on the Signage Live at Savoy place so that a clearer picture comes up about the HTML name or number that has to be used resolve the issue.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Author Test ]]>
+</dc:creator>
+<pubDate>Wed, 2 Aug 2017 11:36:57 +0530</pubDate>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/worlds-largest-telescope-worth-43-bn-testing/
+</guid>
+</item>
+<item>
+<title>
+White Paper - A drone’s life: Airborne battery management
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/mouser-a-drone-s-life-airborne-battery-management/
+</link>
+<media:content url="http://localhost:59720/media/3228/easter-drone-banner-2100x1600-01.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131372438480000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/3228/easter-drone-banner-2100x1600-01.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131372438480000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Major challenges in drone development encompass flight time and flight performance, in other words: Battery management and motor control. Two reference designs by Texas Instruments, specifically developed for drone design, target those issues now. The Battery management system keeps close watch over the power source and the system for electronic speed control runs propellers at peak efficiency for smooth and stable movements, resulting in optimum drone performance.</p>
+ <p>Download this insightful paper to learn how to:</p>
+ <div></div>
+ <ul>
+ <li>Design an efficient and stable drone</li>
+ <li>Quickly prototype with TI MCUs</li>
+ <li>Get a grasp on Li-Ion power management</li>
+ </ul>
+ <div>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/a-drones-life-airborne-battery-management/" role="button">Download your free White Paper here</a></p>
+ </div>
+ </div>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<pubDate>Mon, 24 Apr 2017 11:53:03 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ robotics ]]>
+</category>
+<category>
+<![CDATA[ systems engineering ]]>
+</category>
+<category>
+<![CDATA[ electromagnetic materials ]]>
+</category>
+<category>
+<![CDATA[ application specific processors ]]>
+</category>
+<category>
+<![CDATA[ power electronics ]]>
+</category>
+<category>
+<![CDATA[ power generation ]]>
+</category>
+<category>
+<![CDATA[ power equipment ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/mouser-a-drone-s-life-airborne-battery-management/
+</guid>
+</item>
+<item>
+<title>Vision Systems: Accelerating the Art of the Design</title>
+<link>
+http://localhost:59720/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/
+</link>
+<media:content url="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131360350770000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131360350770000000" /><br /><br />
+]]>
+<![CDATA[
+<p>To that end, National Instruments has applied a graphical-programming approach to designing vision systems, resulting in an architecture it deems so crucial that it now serves as the scaffolding for all of its vision software workflows.</p>
+ <p>Ask any number of vision integrators whether they ca
+]]>
+<![CDATA[
+n build an inspection system and they’ll say, “We should be able to do that, but we’ve got to try a few things. Can you give us some sample images or, better yet, sample parts?” This hands-on approach to vision system design is necessary because image processing is still much more of an art than it is a science: There is still no adequate process to simulate images based on sensor, lens, lighting and ambient conditions. As a result, good vision integrators have “vision labs,” allowing them to try out many different lighting/lens/environmental control combinations with various algorithmic approaches to achieve robust and reliable results. </p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/3083/image-1_iet.jpg?anchor=center&mode=crop&width=1200&rnd=131360349480000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/3083/image-1_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360349480000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/3083/image-1_iet.jpg?anchor=center&mode=crop&width=640&rnd=131360349480000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/3083/image-1_iet.jpg?anchor=center&mode=crop&width=320&rnd=131360349480000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/3083/image-1_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360349480000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>Configuration-based tools like the NI Vision Assistant allow for rapid exploration of boundary conditions when trying out different algorithmic approaches to a vision application.</em></p>
+ <p>At National Instruments Corp. (NI), we realized that our graphical-programming approach to software-based instrumentation also could be applied to vision system design. Subsequently, we identified five design practices deemed so essential for vision systems that we’ve incorporated them into NI’s vision software workflow. <br> <br> <strong>Use an iterative exploratory design flow</strong><br> <br> With vision, you know up front that you are going to have to try a few approaches with any task. Often, it’s not a matter of what approach will work but what approach will work best. And “best” is different from application to application. For some applications, speed is paramount. In others, it’s accuracy. At minimum, you are going to have to try a few different approaches to find the best one for any specific application. Given a set of application constraints, it is paramount to explore the boundaries set up by these constraints to understand what may be possible when trying different approaches. What are the biggest contributors to the total algorithm execution time? Can this time be significantly reduced by optimizing the algorithm, or would it be better to change the environmental constraints to generate better images (e.g., different lighting, lenses or cameras, etc.) that could remove preprocessing steps? Sometimes, it will come down to a cost/benefit analysis. For example, should you spend the extra time in algorithm development and upgrade the processing ability of the system or should you instead make a monetary investment in more lighting and new lenses? The important thing is to arrive at these decision points as quickly as possible, and that’s best accomplished by exploring the application’s boundary conditions as you iterate through possible design approaches.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/3084/image-2_iet.jpg?anchor=center&mode=crop&width=1200&rnd=131360350120000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/3084/image-2_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360350120000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/3084/image-2_iet.jpg?anchor=center&mode=crop&width=640&rnd=131360350120000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/3084/image-2_iet.jpg?anchor=center&mode=crop&width=320&rnd=131360350120000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/3084/image-2_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360350120000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>It’s a must to have a side-by-side comparison of original image and processed image for rapid algorithm development. Changes in numerous parameters and their combined effects then can be evaluated in real time.</em></p>
+ <p><strong>Get immediate feedback and benchmarking</strong><br> <br> As an example, think about a WYSIWYG (What You See Is What You Get) text editor vs. HTML coding. Almost every time, it’s faster and easier to get results using WYSIWYG. And for those cases where you can’t get results, modern editing tools allow you to switch back and forth between the WYSIWYG editor and the HTML’s back end to get things just right. <br> <br> It’s the same with vision – seeing algorithm results in real time is a huge time-saver when you are using an iterative exploratory approach. What is the right threshold value? How big/small are the particles to reject with a binary morphology filter? Which image preprocessing algorithm – and with what parameters – will best clean up an image?</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=1200&rnd=131360350770000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360350770000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=640&rnd=131360350770000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=320&rnd=131360350770000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/3085/image-4_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360350770000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>Example of LabView graphical code generated by the Vision Assistant configuration-based algorithm prototyping tool. The top window contains the real-time code for acquiring and transferring an image to the. The bottom left window is the FPGA infrastructure. The bottom right window is the FPGA implementation of the algorithm shown in the configuration-based software in Image 3.</em></p>
+ <p>The ability to benchmark an algorithm’s performance on a sample set of images is critical to evaluating the feasibility of a particular design at different points in development. If you know that you have to complete your inspection within 90 ms, you can immediately reject algorithm approaches that cannot be executed in that general time frame. The key is to determine the feasibility as soon as possible and before putting in all the work to string together a bunch of subcomponents in a vision algorithm that will work beautifully but will take 500 ms to complete. Benchmarking can be tricky; you develop on one type of processor, but you could deploy on another. Would upgrading the processor on the deployed system be faster than trying to optimize the algorithm? Could the acquired images be improved through better lighting to negate some preprocessing steps? Additionally, there is the entirely different approach of evaluating alternative processing platforms.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/3086/image-3_iet.jpg?anchor=center&mode=crop&width=1200&rnd=131360351280000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/3086/image-3_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360351280000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/3086/image-3_iet.jpg?anchor=center&mode=crop&width=640&rnd=131360351280000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/3086/image-3_iet.jpg?anchor=center&mode=crop&width=320&rnd=131360351280000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/3086/image-3_iet.jpg?anchor=center&mode=crop&width=800&rnd=131360351280000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>Developing an algorithm in a configuration-based tool for FPGA targets with integrated benchmarking cuts down on time spent waiting for code to compile and accelerates development.</em></p>
+ <p><strong>Explore deployment to alternative processing platforms (GPUs, FPGAs)</strong><br> <br> If, through exploring the boundary conditions of a problem, you find that all the approaches you try take too long and/or that it would be prohibitively expensive to improve the images with a different component selection, you may want to consider using an alternative processing platform. Field-programmable gate arrays (FPGAs) and graphics processing units (GPUs) give you the ability to accelerate algorithms by using massive parallel processing and different fundamental processing architectures. The trade-off is these platforms’ increased hardware costs and software coding complexities. </p>
+ <p>The speed advantages of implementing processing-intensive tasks on an FPGA or GPU can be huge – greater by orders of magnitude. However, programming such devices also can be an order of magnitude more complex and more time-intensive. The good news is that advances are being made both to reduce the complexity of writing code for these devices through high-level synthesis tools, and to decrease compilation times required to try out a design on hardware. When developing on your PC, you can immediately compile and test your algorithm; these alternative processing platforms require time-intensive compilation. Because vision can be such an interactive process, compilation time can really add up and subsequently slow down a project.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&mode=crop&width=1200&rnd=131360356840000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&mode=crop&width=800&rnd=131360356840000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&mode=crop&width=640&rnd=131360356840000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&mode=crop&width=320&rnd=131360356840000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/3087/image-5_iet.jpg?center=0.68421052631578949,0.5683297180043384&mode=crop&width=800&rnd=131360356840000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>NI provides FPGA benefits through high-level graphical programming to enable closed-loop control. For example, consider the control of a servomotor based on image processing results.</em></p>
+ <p>As an example of trying to cut down on the number of compilations required to get to a final design, NI implemented the ability to generate code for an FPGA target from the configuration-based tool, Vision Assistant. With it, you can select from a variety of FPGA targets, and your algorithm will be benchmarked against that target so you can know how an algorithm is going to work, as well as how much finite resource space it will need before you compile any code. <br> <br> <strong>Enable the switch from rapid prototyping to implementation</strong> <br> <br> The work flow thus far has been exploratory and iterative; it’s all been about discovering the best vision algorithm(s) to implement through exploring boundary conditions and benchmarking results with configuration-based vision software. Now, the challenge is to implement the proven approach on the selected deployment platform. Depending on the application, this task can range from very simple to quite complex. In fact, many configuration-based software packages can also handle deployment to selected platforms such as vision sensors and smart cameras for “pure” vision inspection systems, which do not require any integration and synchronization with other subsystems in the context of a larger system.</p>
+ <p>If your application fits this requirement and falls within the boundaries of what these configuration-based software packages are designed for, it’s the best way to go. Designed with these use cases in mind, and incorporating the algorithm development functionality of Vision Assistant, NI’s Vision Builder for Automated Inspection software package is designed for such scenarios. It includes a state machine for looping and branching decision making and also includes a customizable user interface and configurable input/output (I/O) steps.</p>
+ <p>Many applications, however, do not conform to the intended use cases for which these software packages were designed. When building a system that includes not only vision but also motion control and advanced I/O, you want a full-fledged development environment. This is especially true if you have to close the loop between various subsystems and the vision system, or if you need to interact with a supervisory control and data acquisition (SCADA) system, correlate images with I/O, save and present results, interact via a Web server, implement special security features, or perform any one of dozens of other common automation tasks. <br> <br> The key is being able to switch back and forth between the configuration-based prototyping platform and the development environment needed to implement the full system architecture as fast as possible. Possibilities include code scripting capabilities from the configuration-based software, or the ability to call on an algorithm that was developed in a configuration-based software program within the development environment. Our solutions strive to provide both options to accelerate either approach for developers, as well as to provide an FPGA code scripting option – with all associated infrastructure – for image transfer and management. <br> <br> <strong>Keep I/O and triggering requirements in mind</strong> <br> <br> You must be able to make an informed decision as to what type of action to take based on the results of the vision algorithm. Do you need to return intermediate results and log images, or just return a final result? Take these requirements into consideration when exploring the boundary conditions of the problem to ensure you don’t design yourself into a corner with any particular software approach or hardware choice for implementing your algorithm design. It can be extremely frustrating to finish the vision processing piece of the application and then to get stuck trying to synchronize image acquisition with I/O, or effectively pass results to other parts of the system. <br> <br> FPGAs particularly are useful when you have to meet timing for a demanding, high-speed application – such as closing the loop between vision and motion or another I/O source, e.g., a trigger or an ejection mechanism. Because FPGAs are implemented within the hardware, the cycle times on closed-loop control can be extremely fast. They also are the platform of choice when implementing various types of I/O because they are low-power embedded devices and have a more flexible interface to I/O than do GPUs or CPUs. <br> <br> By nature, vision algorithm development is an iterative process, and if certain tools and design practices are employed correctly, you can dramatically decrease development time and improve quality. Be sure to use an iterative design flow that gives you immediate feedback and benchmarking. Catch failed approaches early and consider the ways that hardware (e.g., processing platform and I/O requirements) can impact your design. Also, choose a platform that allows for efficient and rapid migration from a prototyping to a deployment platform. If these considerations are taken into account, you are on your way to an efficiently designed, robust, well-performing vision system. </p>
+ <p><em>Discover the 10 things you should consider when choosing vision software - <a href="http://sine.ni.com/np/app/main/p/ap/vision/lang/en/pg/1/sn/n17:vision,n21:11601/fmid/3053/?cid=Advertising-70131000001lvZhAAI-UK-April_2017_IET_native"><strong>http://sine.ni.com/np/app/main/p/ap/vision/lang/en/pg/1/sn/n17:vision,n21:11601/fmid/3053</strong></a></em></p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[
+Nate Holmes - R&amp;D group manager for Vision and Motion at National Instruments Corp. in Austin, Texas
+]]>
+</dc:creator>
+<pubDate>Tue, 11 Apr 2017 12:20:38 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ vision systems ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/
+</guid>
+</item>
+<item>
+<title>
+Our 5G Future: In the Fast Lane with Numerical Simulation
+</title>
+<link>
+http://localhost:59720/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/
+</link>
+<media:content url="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=800&height=600&rnd=131346483160000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=1200&height=450&rnd=131346483160000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Designers are now faced with one their biggest challenges as they need to bring real-time data usage and availability to the next level, which requires access to the best design tools and significant advances in signal processing, device-centered communications, and evolving technical standards.</p>
+ <h3><span>From 4G LTE to 5G</span></h3>
+ <p><span>It’s expected that 5G will need to utilize higher frequency spectrums in the millimeter wave range when deploying active electronically scanned array (AESA), which enables multi-beam multiplexing and massive multi-input-output (MIMO) technologies (Figure 1). Researchers working on the frontlines of forging this ultra-fast and high bandwidth successor to 4G LTE are relying on modeling and simulation tools to optimize product development and test cycles.</span></p>
+ <p><span>Simulation supports designers throughout the design cycle by allowing them to virtually evaluate several design ideas and implement physical prototypes based on the most promising concepts. Another advantage consists in the possibility to investigate different boundary conditions: in this case simulation allows an engineer to efficiently measure and test several scenarios without damaging a prototype, in cases such as extreme temperature variation, structural deformation, and chemical reactions. The goal of simulation specialists is to mimic the real world as closely as possible, so that the prototype is based on numerical results that achieve the expected performance in fewer design and test iterations.</span></p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=1200&rnd=131346483160000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=800&rnd=131346483160000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=640&rnd=131346483160000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=320&rnd=131346483160000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&mode=crop&width=800&rnd=131346483160000000" />
+ </picture>
+ 
+ </figure>
+ <p><em><span>Figure 1: Isotropic radiation pattern was preferred before the 5G era (top). Antennas generating a higher gain (directivity) radiation pattern are required for 5G millimeter wave communication to compensate for the path loss in free space (bottom).</span></em></p>
+ <h3><span>Designers Join Forces with Simulation Specialists through Apps</span></h3>
+ <p><span>In preparation for the 5G rollout, designers are working through a number of obstacles, including frequency choices, propagation, reliability, battery life, and interference, to name a few. Each of these challenges is represented by a unique blend of physics that require a simulation specialist in that specific area who is equipped with the right tools to set up the underlying mathematical model properly. The symbiosis between designers and simulation specialists needs to be perfect in order to deliver the right product at the right time.</span></p>
+ <p><span>Simulation experts are typically the only ones who can safely provide the input data needed to get a useful output from a model. They therefore have to be involved in the iteration process every time there is a new request or change to be made in the device being simulated. Additionally, results or outputs are often presented in an environment only familiar to the specialist, so distributing the information to their colleagues often requires a meeting to present an explanation and interpretation of the results.</span></p>
+ <p><span>But what if simulation specialists could easily build simulation apps, i.e. wrap an intuitive interactive user interface around a complex mathematical model? What if users without any previous experience using simulation software could run apps specifically designed for them? Simulation apps make it possible for simulation specialists to efficiently and effectively support the designers relentlessly working on the next breakthrough in the ultra-competitive landscape of wireless communication. Supplied with the right tools, designers working on 5G implementation can freely collaborate and complement their skills with those of their colleagues and collaborators who specialize in physics and numerical analysis.  </span></p>
+ <h3><span>What Simulation Apps Can Do for Wireless Communication Design</span></h3>
+ <p><span>Let’s take the example of active electronically scanned arrays, or phase antenna arrays. They have become popular for military use in radar and satellite applications and are now occupying a conspicuous position for commercial purposes due to the growing needs of higher data rates in communication devices. The size of a simple component can easily exceed tens of wavelengths, making its numerical analysis very memory intensive. As a result, models take very long time even when approximated values would be sufficient to evaluate a proof-of-concept design. Fast prototyping would help reveal performance tendencies and determine design parameters quickly.</span></p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2967/jiyoun_fig_02.png?anchor=center&mode=crop&width=1200&rnd=131346479010000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2967/jiyoun_fig_02.png?anchor=center&mode=crop&width=800&rnd=131346479010000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2967/jiyoun_fig_02.png?anchor=center&mode=crop&width=640&rnd=131346479010000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2967/jiyoun_fig_02.png?anchor=center&mode=crop&width=320&rnd=131346479010000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2967/jiyoun_fig_02.png?anchor=center&mode=crop&width=800&rnd=131346479010000000" />
+ </picture>
+ 
+ </figure>
+ <p><em><span>Figure 2: 4x2 phased microstrip patch antenna modeled using COMSOL Multiphysics® software. The top plot shows the logarithmic electric field norm on the patch and the 3D far-field radiation pattern. The lower plot depicts the logarithmic electric field norm on feed line planes.  </span></em></p>
+ <p><span>Figure 2 shows a simulation of a 4x2 phased microstrip patch antenna array which can steer the beam toward the desired direction. This example is significantly more memory intensive and will take a longer time to compute than a single microstrip patch antenna (Figure 3).</span></p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2968/jiyoun_fig_03.png?anchor=center&mode=crop&width=1200&rnd=131346479020000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2968/jiyoun_fig_03.png?anchor=center&mode=crop&width=800&rnd=131346479020000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2968/jiyoun_fig_03.png?anchor=center&mode=crop&width=640&rnd=131346479020000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2968/jiyoun_fig_03.png?anchor=center&mode=crop&width=320&rnd=131346479020000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2968/jiyoun_fig_03.png?anchor=center&mode=crop&width=800&rnd=131346479020000000" />
+ </picture>
+ 
+ <figcaption class="figure-caption fade-background">
+ <p class="image-caption">testing the caption field</p>
+ </figcaption>
+ </figure>
+ <p><em><span>Figure 3: Single patch antenna. Logarithmic electric field norm on patch, mesh, and 3D far-field radiation pattern are visualized.</span></em></p>
+ <p><span>Simulation results shown in Figure 3 are based on a full finite element method (FEM) model of a single slot-coupled microstrip patch antenna built on low-temperature co-fired ceramic (LTCC) layers, initially operating at 30 GHz.</span></p>
+ <p><span>Can we use the analysis of a single antenna to describe the behavior of the entire array? The power and flexibility of COMSOL Multiphysics® software allows simulation specialists to perform an accurate simulation of a single microstrip patch antenna and then take into account user inputs such as array size, arithmetic phase progression, and angular resolution to describe, for example, the 3D far-field of the entire array. COMSOL makes it easy for specialists to couple physics interfaces already available with equations or algorithms needed to model a specific application. In this case, the two-dimensional antenna array factor has been implemented to include the translational phase shifts and array element weighting coefficients needed to determine the radiation pattern of the entire array.</span></p>
+ <p><span>Can we present such a model to designers in a user friendly way? Simulation specialists are now provided with an intuitive workflow to create custom user interfaces based on their multiphysics simulation model. An app built for simulating the antenna array we just discussed is shown in Figure 4.</span></p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2969/jiyoun_fig_04.png?anchor=center&mode=crop&width=1200&rnd=131346479040000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2969/jiyoun_fig_04.png?anchor=center&mode=crop&width=800&rnd=131346479040000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2969/jiyoun_fig_04.png?anchor=center&mode=crop&width=640&rnd=131346479040000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2969/jiyoun_fig_04.png?anchor=center&mode=crop&width=320&rnd=131346479040000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2969/jiyoun_fig_04.png?anchor=center&mode=crop&width=800&rnd=131346479040000000" />
+ </picture>
+ 
+ </figure>
+ <p><em>Figure 4: The user interface of the Slot-Coupled Microstrip Patch Antenna Array Synthesizer simulation app built using the Application Builder tool available in COMSOL Multiphysics. </em></p>
+ <p><span>This app allows the designer to change the physical size of the single microstrip patch antenna as well as the thickness and material properties of each layer, in addition to other relevant parameters determined by the simulation specialist. In this particular example, the simulation specialist has included an interactive user experience by indicating whether the chosen design parameters are appropriate or not by comparing the computed S-parameter (S<sub>11</sub>) value to the pass/fail target criterion. This app also includes a results report and documentation that concisely explains how the app is working. This last feature can be used in a variety of practical ways, from building reports to stakeholders and management, to use as a training tool for new hires in the company. Apps can also be easily deployed to colleagues and collaborators through a local installation of the COMSOL Server™ product, which allows authorized users to access apps through COMSOL Client or a major web browser.</span></p>
+ <p>We have a lot of work ahead of us before 5G is unveiled to the public. When designers are equipped with the right set of tools, they can freely collaborate with colleagues throughout their organization and beyond. Working cross-departmentally will be key to competing and succeeding in the 5G race.</p>
+ <p>To learn more about fostering the development of the 5G mobile network, visit COMSOL Blog at <a href="http://comsol.com/c/5b91">http://comsol.com/c/5b91</a>.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jiyoun Munn ]]>
+</dc:creator>
+<pubDate>Fri, 24 Mar 2017 10:16:06 +0530</pubDate>
+<category>
+<![CDATA[ information and communications ]]>
+</category>
+<category>
+<![CDATA[ telecommunications ]]>
+</category>
+<category>
+<![CDATA[ telecommunication signalling ]]>
+</category>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ internet of things ]]>
+</category>
+<category>
+<![CDATA[ 5g ]]>
+</category>
+<category>
+<![CDATA[ data ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ numerical simulation ]]>
+</category>
+<category>
+<![CDATA[ mathematical modelling ]]>
+</category>
+<category>
+<![CDATA[ apps ]]>
+</category>
+<category>
+<![CDATA[ deployment ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/
+</guid>
+</item>
+<item>
+<title>
+White Paper: Thermoplastics, metals and choosing the right material for 3D printing.
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/white-paper-thermoplastics-metals-and-choosing-the-right-material-for-3d-printing/
+</link>
+<media:content url="http://localhost:59720/media/2952/ant-on-green-chessboard-300dpi.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131345700150000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2952/ant-on-green-chessboard-300dpi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131345700150000000" /><br /><br />
+]]>
+<![CDATA[
+<p>3D printing is unique to all other manufacturing processes, so the material properties and characteristics of parts that it produces are different, even when using a nearly identical alloy or thermoplastic. Recognising this difference, Proto Labs’ white paper aids in the characterisation, and ultimately the selection, of materials from three widely used industrial 3D printing processes: direct metal laser sintering, selective laser sintering and stereolithography</p>
+ <ul>
+ <li>Explore the properties of different thermoplastic and metals available with 3D printing.</li>
+ <li>Choose an effective material for your 3D printed part.</li>
+ <li>Overcome inadequate material properties by designing for 3D printing.</li>
+ </ul>
+ <div>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/130317-thermoplastics-metals-and-choosing-the-right-material-for-3D-printing/" role="button">Download your free White Paper here</a></p>
+ </div>
+ </div>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Proto labs ]]>
+</dc:creator>
+<pubDate>Wed, 22 Mar 2017 12:40:38 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ industries ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ production technology ]]>
+</category>
+<category>
+<![CDATA[ production management ]]>
+</category>
+<category>
+<![CDATA[ production control ]]>
+</category>
+<category>
+<![CDATA[ product development ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ manufacturing industries ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<category>
+<![CDATA[ 3d printing ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/white-paper-thermoplastics-metals-and-choosing-the-right-material-for-3d-printing/
+</guid>
+</item>
+<item>
+<title>
+The Utility Week Live 2017 transformation leaders and technologies
+</title>
+<link>
+http://localhost:59720/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/
+</link>
+<media:content url="http://localhost:59720/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131347551160000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131347551160000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Utility Week Live 2017 has identified the 10 most important transformation leaders and technologies, as voted for by the industry themselves.</p>
+ <h3>Key People</h3>
+ <p>The ten individuals set out have embraced innovation and driving change in their respective companies, across the sector, and more widely. They are the leaders in the transformation the utilities are undergoing towards becoming more flexible, sustainable and suitable for the new world we’re all heading towards.</p>
+ <p>These people are: Basil Scarsella, chief executive, UK Power Networks; Ben Jeffs, director and chief executive, MOSL; Cathryn Ross, chief executive, Ofwat; Cheryl Latham, chief executive, Brighter World Energy; Dermot Nolan, chief executive, Ofgem; Piers Clark, founder and chairman, Isle Utilities; Elon Musk, founder and products architect, Tesla and chairman, SolarCity; John Reynolds, chief executive, Castle Water; Simon Harrison, group strategic development manager, Mott MacDonald, and chair of the energy policy panel, IET; and Tony Cocker, chief executive, Eon UK.</p>
+ <p>Over the coming months, Utility Week/WWT/WET News/Network will speak to the top ten people, speak to people in the industry about the influence and impact they have had, publish biographies detailing their careers and key decisions, or hearing from them direct with columns.</p>
+ <h3>Key technologies</h3>
+ <p>The ten technologies outlined opposite/below are fundamentally changing the shape and look of the utilities sector - in particular the energy side things. These include technologies and innovations that are already a key part of utilities’ daily operations, and those whose influence and impact is only going to grow in the coming years.</p>
+ <p>The top ten technologies are: cloud computing; demand response and demand side management; electric vehicles; energy storage, including battery technology; geographical information systems (GIS); the Internet of Things (IoT); machine learning; smart metering; solar; and wind.</p>
+ <p>Over the coming months, Utility Week/WWT/WET News/Network will speak to experts in the technologies, look at examples of how they have been rolled out and assess the impact they've had, look at the numbers behind the innovations, and getting investor views on the development of the technologies and how close they are to transforming the business as usual operation in the sector.</p>
+ <p>Utility Week Live returns to the <strong>NEC in Birmingham on 23 and 24 May</strong> and will showcase the latest innovations and technical solutions for the industry.</p>
+ <p>The theme for this year’s event is <strong>transformation and flexibility</strong>, and it is the show for essential services to showcase hundreds of new products from specialist suppliers and innovators, technical presentations, pitches and live demos.</p>
+ <p>Plus, there is an extensive programme of seminars exploring the future of gas, electricity and water.</p>
+ <p>For more information, please visit: <a href="http://www.utilityweeklive.co.uk">www.utilityweeklive.co.uk</a>.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Utility Week Live 2017 ]]>
+</dc:creator>
+<pubDate>Tue, 21 Mar 2017 15:20:47 +0530</pubDate>
+<category>
+<![CDATA[ utilities ]]>
+</category>
+<category>
+<![CDATA[ technology ]]>
+</category>
+<category>
+<![CDATA[ events ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/
+</guid>
+</item>
+<item>
+<title>
+White Paper: Industry 4.0 and the Power of the Digital Twin
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/maplesoft-industry-40-and-the-power-of-the-digital-twin/
+</link>
+<media:content url="http://localhost:59720/media/2917/internetofthings2.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131340475180000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2917/internetofthings2.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131340475180000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The world of industrial automation is undergoing a major transformation, driving manufacturers to challenge their assumptions of traditional design processes. Forced to abandon the “build it and tweak it” approach, they must begin to implement rigorous systems-design processes that accommodate the complexities of developing multi-disciplinary systems. In this new whitepaper Maplesoft explores why high-fidelity virtual prototypes, or Digital Twins, are at the core of this development process. </p>
+ <ul>
+ <li>High-fidelity virtual prototypes, or Digital Twins, are at the core of implementing a rigorous systems-design processes that accommodate the complexities of developing multi-disciplinary systems.</li>
+ <li>Rapid task-planning and early problem detection are key benefits of integrating a Digital Twin of the machine design on a real-time platform.</li>
+ <li>A virtual machine can be configured and tested in parallel with the real machine to accelerate the commissioning process, reduce risks and decrease costs.</li>
+ </ul>
+ <div>
+ <p>Read this whitepaper to learn how early adopters are already benefiting from the power of the Digital Twin as part of their Industry 4.0 strategy. </p>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/130317-Industry-4-and-the-Power-of-the-Digital-Twin/" role="button">Download your free White Paper here</a></p>
+ </div>
+ </div>
+ <span style="font-size: 16px;"></span></div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Maplesoft ]]>
+</dc:creator>
+<pubDate>Tue, 21 Mar 2017 13:36:16 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ mechatronics ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ systems engineering ]]>
+</category>
+<category>
+<![CDATA[ robotics ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ manufacturing industries ]]>
+</category>
+<category>
+<![CDATA[ internet of things ]]>
+</category>
+<category>
+<![CDATA[ industry 4.0 ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/maplesoft-industry-40-and-the-power-of-the-digital-twin/
+</guid>
+</item>
+<item>
+<title>
+White Paper: New filter materials for hydraulic systems: Longer service life and reduced operating costs
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-new-filter-materials-for-hydraulic-systems-longer-service-life-and-reduced-operating-costs/
+</link>
+<media:content url="http://localhost:59720/media/2918/filterelement.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131340516150000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2918/filterelement.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131340516150000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Hydraulics systems offer unrivalled power density, life cycle performance and durability. However, their efficiency and longevity depend on clean, uncontaminated oil. Even in newly built systems, this cannot be guaranteed.</p>
+ <p>Contamination caused by tiny particles can lead to malfunction and permanent damage, and accounts for over 80% of hydraulic systems breakdowns.</p>
+ <p>Bosch Rexroth demonstrates how new generation filtration media can protect hydraulic systems, reducing costs and total cost of ownership for manufacturers.</p>
+ <p>Contamination caused by tiny particles can lead to malfunction and permanent damage, and accounts for over 80% of hydraulic systems breakdowns.</p>
+ <ul>
+ <li>Improve service life of hydraulic systems by using newly developed filter materials</li>
+ <li>Reduce operating costs through fewer filter changes</li>
+ <li>Prevent further damage caused by electrostatic discharge</li>
+ </ul>
+ <div><span style="font-size: 16px;"> </span></div>
+ <div>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/130317-new-filter-materials-for-hydraulic-systems-longer-service-life-and-reduced-operating-costs/" role="button">Download your free White Paper here</a></p>
+ </div>
+ </div>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Bosch Rexroth ]]>
+</dc:creator>
+<pubDate>Mon, 20 Mar 2017 12:44:00 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ systems engineering ]]>
+</category>
+<category>
+<![CDATA[ mechanics ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ industry ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ maintenance ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-new-filter-materials-for-hydraulic-systems-longer-service-life-and-reduced-operating-costs/
+</guid>
+</item>
+<item>
+<title>
+White Paper - The Business of Engineering: How to tackle product complexity
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/aras-the-business-of-engineering/
+</link>
+<media:content url="http://localhost:59720/media/2921/cogs2.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131340595990000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2921/cogs2.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131340595990000000" /><br /><br />
+]]>
+<![CDATA[
+<p>As products get increasingly complex, interdisciplinary approaches that span the product lifecycle are a must. But legacy PLM systems are failing to meet evolving business needs—they are too focused on mechanical 3D CAD, simulation and digital mock-up –the Science of Engineering. In order to keep the pace and stay profitable, manufacturers must develop a broader vision - Business of Engineering - and implement a resilient PLM system that to tackle the challenges of today’s volatile and fast paced industry.</p>
+ <ul>
+ <li>Understand the difference between the Science of Engineering and the Business of Engineering</li>
+ <li>Know why a broader approach to PLM, that includes all engineering business areas, is needed today for digital transformation and initiatives like IoT, Industry 4.0 etc.</li>
+ <li>What are the key attributes and capabilities of a modern PLM platform that enables the Buisness of Engineering</li>
+ </ul>
+ <div><span style="font-size: 16px;"> </span></div>
+ <div>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/130317-the-business-of-engineering-how-to-tackle-product-complexity/" role="button">Download your free white paper here</a></p>
+ </div>
+ </div>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Aras ]]>
+</dc:creator>
+<pubDate>Fri, 17 Mar 2017 11:15:40 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ mechatronics ]]>
+</category>
+<category>
+<![CDATA[ systems engineering ]]>
+</category>
+<category>
+<![CDATA[ manufacturing industries ]]>
+</category>
+<category>
+<![CDATA[ computing ]]>
+</category>
+<category>
+<![CDATA[ management of technology ]]>
+</category>
+<category>
+<![CDATA[ defence industry ]]>
+</category>
+<category>
+<![CDATA[ transport ]]>
+</category>
+<category>
+<![CDATA[ aerospace ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<category>
+<![CDATA[ automotive engineering ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/aras-the-business-of-engineering/
+</guid>
+</item>
+<item>
+<title>
+White Paper: A Guide to the MISRA Coding Standard: What you need to know
+</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/a-guide-to-the-misra-coding-standard-what-you-need-to-know/
+</link>
+<media:content url="http://localhost:59720/media/2909/2100x600_misra_3.png?crop=0.28095238095238095,0,0.33809523809523812,0&cropmode=percentage&width=800&height=600&rnd=131340453160000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2909/2100x600_misra_3.png?crop=0.23809523809523808,0,0,0&cropmode=percentage&width=1200&height=450&rnd=131340453160000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Compliance to MISRA is required across the automotive industry, but is taking root in many other industries.  Because MISRA was developed to provide a recognized standard to ensure safety critical systems are free of coding defects, organizations in a variety of industries are demanding that software is developed in accordance with the MISRA standard.  Do you know how MISRA compliance requirements will impact your development process and supplier relationship?  We outline how the MISRA C coding guidelines will affect you.</p>
+ <ul>
+ <li>Motivating factors driving the adoption of MISRA</li>
+ <li>Why C and C++ are not ideal languages for safety critical code, and how they can be used effectively to develop reliable software  based on a subset of the language</li>
+ <li>Why you need static code analysis to provide consistent enforcement</li>
+ </ul>
+ <div>
+ <div class="panel panel-link-cta">
+ <div class="panel-body">
+ 
+ <p><a class="btn btn-primary" href="http://www.247webcasting.com/events/IET/whitepapers/130317-A-Guide-to-the-MISRA-Coding-Standard-What-you-need-to-know/" role="button">Download your free White Paper</a></p>
+ </div>
+ </div>
+ </div>
+ <div><span style="font-size: 16px;"> </span></div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<pubDate>Thu, 16 Mar 2017 13:17:25 +0530</pubDate>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ electronics design ]]>
+</category>
+<category>
+<![CDATA[ defence industry ]]>
+</category>
+<category>
+<![CDATA[ aerospace ]]>
+</category>
+<category>
+<![CDATA[ automotive engineering ]]>
+</category>
+<category>
+<![CDATA[ railways ]]>
+</category>
+<category>
+<![CDATA[ world health ]]>
+</category>
+<category>
+<![CDATA[ white papers ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/a-guide-to-the-misra-coding-standard-what-you-need-to-know/
+</guid>
+</item>
+<item>
+<title>
+Why you should make test a strategic part of your culture
+</title>
+<link>
+http://localhost:59720/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/
+</link>
+<media:content url="http://localhost:59720/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&mode=crop&width=800&height=600&rnd=131338829270000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&mode=crop&width=1200&height=450&rnd=131338829270000000" /><br /><br />
+]]>
+<![CDATA[
+<p><span>Historically, product testing has been viewed as a support function during the product development and manufacturing process—just a necessary cost center. This perspective arises because it’s not always clear how test can enhance a company’s business. Mike Santori<em>,</em> </span>vic
+]]>
+<![CDATA[
+e president of product marketing at <strong><a href="http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native" target="_blank">National Instruments</a></strong>, explains how test can and should be an integral part of your day-to-day at work.</p>
+ <p><strong><span>Make Test A Strategic Part Of Your Culture</span></strong></p>
+ <p><span>“Culture eats strategy for breakfast” is a famous phrase attributed to Peter Drucker, the father of modern business management. I’ve heard and used this phrase many times. To me, it has always had a negative connotation. ­­Old corporate habits can stand in the way of strategic progress. However, I recently had occasion to look into what he actually meant when he made this statement. </span></p>
+ <p><span>As it turns out, my interpretation wasn’t quite right. Mr. Drucker was saying that no matter how great your think your strategy is, it won’t be successful if the culture in your company doesn’t enable and support that strategy. In other words, culture and strategy need to go hand in hand—a very positive statement that can help you shepherd change through your organisation.</span></p>
+ <blockquote class="blockquote-reverse">
+ <p>“Culture eats strategy for breakfast”</p>
+ 
+ <footer class="blockquote-footer">Peter Drucker</footer>
+ </blockquote>
+ <p><span>I’m drawn to this phrase because <strong><a href="http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native" target="_blank">National Instruments</a></strong> is always working with companies to implement new test strategies. These strategies are often quite different than these companies’ current testing approaches. They require changes in familiar processes and tools, modifying existing employee practices and behaviors. Without these changes, the strategies can’t succeed. I’ve seen cases where the existing culture is so ingrained that I wonder if they will ever change. That’s the negative, culture-as-impediment view of “culture eats strategy for breakfast.”</span></p>
+ <p><strong>The Business Culture</strong></p>
+ <p><span>You have to consider many aspects of your company culture in evaluating the role of test in your company. One such aspect is what I’ll call business culture. Historically, product testing has been viewed as a support function during the product development and manufacturing process—just a necessary cost center. This perspective arises because it’s not always clear how test can enhance a company’s business. </span></p>
+ <p><span>It’s not that companies don’t think test is useful. It’s that they don’t tie an intrinsic business value to it. Hence, many companies invest much more in other areas of “strategic” value such as product development and sales enablement. This investment profile often leaves test organisations fragmented, trying to meet fast-moving business requirements with outdated technologies and test methodologies that often create bottlenecks for their organisations. Yet research has shown that test is critical because it validates a product’s performance, increases quality and reliability, and reduces return rates.</span></p>
+ <p><span>To convey the importance of test to your company’s business, you must be able to understand the economics of test in your organisation. Many companies have test organisations with reactive approaches that lack long-term strategy or financial impact metrics. This leads executives to focus on simply reducing the cost of test rather than asking which test investments they need to improve business metrics. </span></p>
+ <p><span>Evaluating the actual impact of test is complicated, involving the ability to understand the total cost of ownership (TCO) as well as the tangible business impact. Activities such as production test standardisation and improved test throughput with new technologies can appear to be very expensive when based simply on new capital equipment costs. </span></p>
+ <p><span>We work with companies to understand their actual TCO, including costs for upfront development, deployment, and operations. Similarly, we help them identify how to measure the impact of such investments. The result: an accurate assessment of return on investment (ROI) for strategic test investments. Nothing evolves business culture faster than showing how investment in test can improve the bottom line.</span></p>
+ <p><strong>The Engineering Culture</strong></p>
+ <p><span>Another area that challenges many test initiatives is what I’ll call engineering culture, where each engineering function tends to operate in its own world with little interaction with one another. Research has revealed that an “optimised” test engineering organisation provides a centralised test strategy that spans the product life cycle. It’s also well known that the later in the design process that you find an error, the more expensive it is to fix. A study by NASA, for example, once found that the cost of finding a defect in production was 21 to 78 times more expensive than in design. </span></p>
+ <p><span>The reality in many companies, though, is that there is little continuity through the product life cycle. Products are still thrown over the wall from design to test. Maintenance is an afterthought. It’s often a cultural challenge. Design engineers design, test engineers test. Spanning engineering functions is not easy and requires commitment and focus. Each department has to retain its functional identity while seeing the value in a shared fate with one another.</span></p>
+ <p><span>Philips Healthcare formalised a test tools engineering team and gave it a charter to develop and maintain test software applications and automated test equipment that could be used throughout the development process. This activity evolved to become a cross-functional service organisation for both new product design and verification &amp; validation engineers. The team enabled these internal groups to focus on validating their products by developing new test scenarios rather than by developing ad-hoc test systems. Consequently, the team increased productivity by 347% and reduced the company’s cost of quality, saving $4.5 million annually.</span></p>
+ <p><strong>People Culture</strong></p>
+ <p><span>A third aspect of company culture you have to consider is its people culture. People are the most important asset in any organisation. In the end, your people must accept and execute any significant strategic change. When talking about test, the people I’m talking about are mainly engineers, of course. In a few years, there will be more engineers retiring than entering the workforce. This poses an interesting challenge for test engineering. </span></p>
+ <p><span>Test is largely a learn-on-the-job vocation. It takes time for a new engineer to develop the knowledge of how best to apply test and measurement technologies to evaluate products correctly. Test engineers in many companies are quite experienced, with a long history of developing test expertise based on the systems and technologies they’ve used for years. On the other hand, newer engineers entering the field come with little understanding of test but a desire to take advantage of the latest technologies and the ability to adapt quickly to new ideas.</span></p>
+ <p><span><strong><a href="http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native" target="_blank">Adopting new test strategies </a></strong>takes a strong focus on organisational proficiency to address the needs of both the experienced and new engineer. Hiring managers frequently face the challenge of selecting a few potential interviewees from a large selection of qualified candidates, but they often find success in vetting candidates with a heavy emphasis on softer skills such as communication and team-building skills. Though these softer skills are difficult to quantify, managers at best-in-class companies find more success in hiring candidates with a stronger cultural fit than candidates with experience and deeper skill sets. This is not to say that experience is not important because, as I said, test engineering is definitely a learned trade, and real-world experience is important.</span></p>
+ <p><span>A plan for continued learning is essential to making new strategic test initiatives compatible with your people culture. Most individual contributors regularly seek to “sharpen the saw” and improve their skills to stay relevant. Making successful changes in test strategy hinges on your ability to improve the skills of your test engineers. This requires you to retain the important organisational knowledge of your most seasoned engineers while building skills and confidence in new approaches and technologies that are vital to the company. </span></p>
+ <p><span>Test managers with strong training plans have found success using an organisational program called a center of excellence (COE). A COE refers to a team that provides leadership, evangelisation, best practices, and training for a focus area. The COE concept leverages observations from other best-in-class companies while incorporating training certifications to help drive multiple levels of core competency.</span></p>
+ <p><strong>Your Takeaway</strong></p>
+ <p><span>“Culture eats strategy for breakfast.” When it comes to transforming the role of test as a strategic asset in your company, you should take heed of this simple phrase. Many cultural aspects of your company affect its ability to change. This is particularly true for changes in test strategy because many companies don’t essentially view test as a strategic asset. By focusing on assessing business impact, working to bridge engineering disciplines, and focusing on training and evolving the skills of your test engineers, you can bring greater appreciation of the value of test and ultimately make test a strategic part of your corporate culture.</span></p>
+ <p><strong><em>Mike Santori</em></strong><em>, vice president of product marketing at National Instruments, leads the organisations that are responsible for planning and marketing core measurements, test systems, embedded systems, and key application segments. He focuses on optimising the NI product portfolio, leading the definition and management of new products, and ensuring high-quality technical marketing.</em> <em>Since joining NI in 1986, he has worked closely with R&amp;D and marketing to define new products and capabilities for NI software, including NI LabVIEW, NI LabWindows/CVI, NI TestStand, and NI VeriStand, as well as develop marketing strategies for NI’s graphical system design approach.</em> <em>He holds a bachelor’s degree in electrical engineering from Texas A&amp;M University.</em></p>
+ <p><span><a href="http://www.ni.com/en-gb/innovations.html?cid=Advertising-70131000001RozOAAS-UK-March_2017_IET_native"><strong>Discover more with National Instruments</strong></a></span></p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Mike Santori, contributing technical expert ]]>
+</dc:creator>
+<pubDate>Tue, 14 Mar 2017 12:41:25 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ control and automation ]]>
+</category>
+<category>
+<![CDATA[ control technology ]]>
+</category>
+<category>
+<![CDATA[ control applications ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ production technology ]]>
+</category>
+<category>
+<![CDATA[ production management ]]>
+</category>
+<category>
+<![CDATA[ production control ]]>
+</category>
+<category>
+<![CDATA[ product development ]]>
+</category>
+<category>
+<![CDATA[ measurement technology ]]>
+</category>
+<category>
+<![CDATA[ research and innovation ]]>
+</category>
+<category>
+<![CDATA[ design automation ]]>
+</category>
+<category>
+<![CDATA[ electronics industry ]]>
+</category>
+<category>
+<![CDATA[ manufacturing industries ]]>
+</category>
+<category>
+<![CDATA[ test ]]>
+</category>
+<category>
+<![CDATA[ national instruments ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/
+</guid>
+</item>
+<item>
+<title>
+Research and development, accelerated prototyping and perfected bathroom design
+</title>
+<link>
+http://localhost:59720/content/sponsored/proto-labs-march-2017/
+</link>
+<media:content url="http://localhost:59720/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&mode=crop&width=800&height=600&rnd=131334550990000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&mode=crop&width=1200&height=450&rnd=131334550990000000" /><br /><br />
+]]>
+<![CDATA[
+<p><strong>The company puts a significant amount of effort into prototyping each new design to win over consumers with their range of models.  To receive chrome-plated prototypes with flexibility, speed and scale, Hansgrohe turned to <a href="https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0317-nativearticle">Proto Labs.</a></strong></p>
+ <p>Founded by Hans Grohe in 1901, the company has always strived to be bold and innovative. To begin, the business focused entirely on home plumbing; an industry burgeoning in the early 1900s; Hansgrohe’s initial success was the introduction of metal showerheads.   Some years later, Grohe (then aged 82) is credited with the invention of the riser rail, making it possible to adjust the showerhead to any height desired.  Other milestones in shower culture can be attributed to Hansgrohe, including the world’s first hand-held shower with an adjustable jet (the “Selecta”) and selling more than 30 million units. The Axor brand was born in 1992, bringing individual designer collections and unusual bathroom and room concepts into the world of Hansgrohe.</p>
+ <p><strong>Hansgrohe – leading global brand</strong></p>
+ <p>Now one of the leading global producers of taps and shower, Hansgrohe’s headquarters is located in the tranquil Black Forest area of South-West Germany.  This is where the company houses 2,250 employees (of 3,800 worldwide), with the design department, research and development and the extensive prototyping section based here. </p>
+ <p><strong>30,000 prototypes a year</strong></p>
+ <p>Jochen Armbruster heads up the R&amp;D and prototyping function at Hansgrohe. The company benefits from its own prototyping section on-site with a pool of CNC machines, various rapid prototyping processes and 3D printers. Jochen comments, “We manufacture around 30,000 prototypes a year, ranging from basic bodies and handles to internals and valve components. Because we are focused on plumbing, 95% of the sample parts have the typical chrome or stainless steel appearance. The rest are specialties such as white chrome and other colours.”</p>
+ <p><strong>Top level design</strong></p>
+ <p>The large number of prototypes can be explained by the company’s emphasis on design. Jochen Armbruster describes it like this, “We represent a high standard of form and function and this is reflected all the way through to the top management levels. While elsewhere just a few design engineers create a product that then goes straight on sale, here whole management committees are involved in making decisions so they contribute to new designs from the outset.</p>
+ <p>What’s more, our marketplace always expecting something new – products are often launched at one of the international trade fairs. When new designs come to market, there is generally an initial whirlwind of excitement quickly followed by imitation design from competitors who want to set and embrace market trends. To stay ahead of the competition, we generate a rapid succession of new products which are sold before the copying cycle begins. For Hansgrohe customers our differentiator is the quality of our products, borne from a drive for perfection which is inherent within the brand.”</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2862/plabs.png?anchor=center&mode=crop&width=1200&rnd=131334547620000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2862/plabs.png?anchor=center&mode=crop&width=800&rnd=131334547620000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2862/plabs.png?anchor=center&mode=crop&width=640&rnd=131334547620000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2862/plabs.png?anchor=center&mode=crop&width=320&rnd=131334547620000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2862/plabs.png?anchor=center&mode=crop&width=800&rnd=131334547620000000" />
+ </picture>
+ 
+ <figcaption class="figure-caption fade-background">
+ <p class="image-caption">Proto Labs</p>
+ </figcaption>
+ </figure>
+ <p><strong>Perfecting the chrome ‘look’</strong></p>
+ <p>Producing the typical chrome effect on our prototypes using in-house machinery is a time-consuming process. Jochen Armbruster explains, “First, there’s processing of the brass block on the CNC machines, then comes manual grinding and polishing, and finally the blanks are sent to the electroplating shop before being returned to the prototyping section for assembly. Only when the prototypes are ready can the decision be made as to which design will make its way into the range.</p>
+ <p>In the past we worked with chrome optical methods to speed this process up i.e. painting processes were used. However, this cannot recreate the kind of surface produced in the electroplating process - sharp edges in particular simply aren’t possible. Then we came across Proto Labs. At Proto Labs, additive manufacturing (3D printing) processes are used to rapidly create the basic body which is then coated with a chrome surface similar to that produced during our electroplating process.” </p>
+ <p><strong>Proto Labs speeds up the process</strong></p>
+ <p>For Jochen Armbruster, discovering Proto Labs was the optimal solution to increasing their product time to market through rapid prototyping, combined with the demand for a high quality surface finish. For example, launching a new product at one of the leading trade shows requires a lot of advance preparation – at least six months prior to launch, product photography is required for promotional brochures, catalogues and other advertising and sales promotions, before the series products are even finished. “For promotional photo shoots we need near-series products with virtually perfect surfaces. We can achieve this with 3D printing.  Plus, additive methods can be used to implement internal geometries that are not feasible with milling – this is because the series products are not actually milled, but cast.”</p>
+ <p><strong>Further processing possible</strong></p>
+ <p>The similarity between the <strong><a href="https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0317-nativearticle">Proto Labs</a></strong> chrome effect parts and the finished product gives customer option. The Axor range offers customers the option to have their taps made up in different metallic finishes. To assess these looks in advance, the chrome-plated prototypes from Proto Labs are metallised in a high vacuum at Hansgrohe. They react to the PVD coating in the same way as actual parts and it’s then possible to reach a decision about the desired colour. </p>
+ <p><strong>Brilliant speed statistics</strong></p>
+ <p>With <a href="https://www.protolabs.co.uk/?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0317-nativearticle"><strong>Proto Labs</strong></a>, the lead time from commissioning a part with a surface look to receiving it is achieved in less than ten days. Jochen Armbruster reflects on the turn-around speed provided by Proto Labs, “In R&amp;D, speed counts. We are design-driven and are ranked in the IF World Design Guide top ten, ahead of companies such as Apple, Daimler or BSH. Our design process involves producing a large number of tangible samples which are selected for production based on their look and feel. In the case of a mixer tap, for example, it’s important to see the three-dimensional impact of the changes to certain positions and radii. 3D images or even VR renderings viewed using 3D glasses are simply not good enough for this. There's no substitute for real-life samples when testing products with end-users in field trials.”</p>
+ <p><strong>Intensifying cooperation</strong></p>
+ <p>Jochen Armbruster is delighted to be collaborating with Proto Labs, “Our account team at Proto Labs really understands our protoyping requirements. Even so, we will point out our priorities and highlight the details to be reproduced as precisely as possible.  In our conventional prototyping process, we have a labour-intensive workflow for chrome surfaces with at least 15 steps; with Proto Labs, we simply order the parts and have them back in just a few days. The Proto Labs process is quick and efficient and is supported by an effective working relationship which we intend to continue to strengthen in the future.”</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Stephen Dyson | Product Manager ]]>
+</dc:creator>
+<pubDate>Thu, 9 Mar 2017 11:00:40 +0530</pubDate>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ 3d printing ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/proto-labs-march-2017/
+</guid>
+</item>
+<item>
+<title>
+Smart roads and wireless communication keep the traffic flowing
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/smart-roads-and-wireless-communication-keep-the-traffic-flowing/
+</link>
+<media:content url="http://localhost:59720/media/2627/1702-lorry-platoon.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=800&height=600&rnd=131313803470000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2627/1702-lorry-platoon.jpg?crop=0,0.32375000000000004,0,0.18406249999999993&cropmode=percentage&width=1200&height=450&rnd=131313803470000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Traffic is building in the city as the car makes its way along the tarmac. You see an intersection around the corner highlighted on the sat nav. Before it comes into view, your vehicle slows slightly, but nowhere near enough to bring the vehicle to a halt. As you turn the corner, you see trucks a
+]]>
+<![CDATA[
+nd buses cross your path. But the car is not stopping.</p>
+ <p>The car seems to narrowly avoid a head-on collision as it moves into a shared lane. The oncoming vehicle darts out of the way just in time. The crossing traffic seems to stop for a moment, opening up a gap. With that, you sail through the junction. The children in the back of your car wave gleefully at the queue of vehicles left behind, stuck waiting for the old green signal to light up because their cars cannot guide themselves through.</p>
+ <p>You used to enjoy driving, even in the city, but the attraction of not waiting so long in the queue was one of the factors that convinced you to trade up to an automated car. And not just automated: it can talk to the traffic lights and the lights will talk back.</p>
+ <p>Junctions with the ability to tell vehicles when to move or to stop individually will make them more efficient, claims Carlo Ratti, director of the Senseable City Lab at the Massachusetts Institute of Technology (MIT). The smart junction moves the focus from flow at the level of aggregate traffic to that of individual vehicles. The car can change its speed as it approaches based on when the signal believes it will have a slot for the vehicle to sail straight through.</p>
+ <p>Research into the idea of slot-based junctions carried out by researchers at MIT, ETH Zurich and CNR in Italy used the same kind of queuing theory as that used to evaluate computer network switches. They tried strategies such as grouping vehicles into platoons and moving them as one rather than trying to interleave access car by car.</p>
+ <p>The most basic strategy – first-come, first-served – hit a capacity limit only 20 per cent higher than that of traditional light-controlled junctions. As traffic density increased, the batch strategy came close to doubling the capacity of the junction, though it would increase the waiting time for individual vehicles over the fairest strategy. The simulations also indicated that fuel consumption would fall as the scheduling scheme would, overall, lead to fewer vehicles idling at intersections.</p>
+ <p>Occupants might not like the waiting time of the platooning system but governments most likely will. Being able to increase road capacity would delay and possibly avoid the prospect raised in 2011 by Bill Ford, executive chairman of Ford. He warned of ‘global gridlock’ as the number of cars grows from one billion to a projected four billion by 2050.</p>
+ <p>Drivers on the M25 around London have already found that a road that changes its speed limit in response to traffic conditions reduces congestion overall. For much of the day, signs over the motorway at crunch points such as the junctions for the M4 and Heathrow Airport shift the speed limit up and down between 40mph and 70mph. According to Atkins Global, emissions fell between 2 and 8 per cent and the number of traffic-stalling shockwaves dropped from seven to five.</p>
+ <p>Vehicle-to-everything (V2X) technology lets the data used to manage roads make the final jump to the car itself. Not only will road signs talk to cars, the cars will talk to each other. It should make lane changing and merging onto motorways much safer. Small changes in apparent speed are today the key way to signal whether a vehicle on the main carriageway is moving to let you join. With vehicle-to-vehicle (V2V) communication, the car can send a message that says ‘go ahead, I won’t close that gap’.</p>
+ <p>The V2V messages can also act as a backup warning of a vehicle’s presence on the road when other sensors are providing inconclusive data. Demonstrations by V2V specialist Cohda Wireless, a spinout from the University of South Australia, used the signals to let vehicles announce their presence to others out of the direct line of sight. Cars heading towards a junction surrounded by buildings and other obstructions can tell whether hidden vehicles are likely to cross their path. Cyclists and pedestrians may start to wear transponders to signal their presence wirelessly around blind spots.</p>
+ <p>In November 2016, the European Commission published a list of functions it expects V2V and V2X to accomplish once the wireless networks needed to support them get up and running. Help for cyclists would probably have to wait for a second generation. But the commission built a list of ‘day one’ services that its researchers believe will provide a 3:1 benefit to cost ratio. The services include early warnings of slow or stationary traffic ahead, roadworks, sudden braking performed by vehicles in front and approaching emergency vehicles.</p>
+ <p>One major obstacle to a world where cars talk to everything on the road is a lack of reliable, high-speed radio communications. At the Eighth Future of Wireless Conference in London, held last year, David Wong, technology and innovation manager at the Society of Motor Manufacturers and Traders (SMMT) pointed out that less than half of the UK’s road network has 4G coverage.</p>
+ <p>The relatively easy part is making cars talk to each other. The motor industry has borrowed technology from the 802.11 Wi-Fi standards. Operating at close to 6GHz, 801.11p transmissions have a short range: just over 200m. The IEEE standards body responsible for it considered it good enough to provide cars with indications of when they want to change lanes or have to suddenly hit the brakes.</p>
+ <p>Rob Piechocki, researcher at the University of Bristol, says the committee halved the data rate to cope better with the Doppler shifts of fast-moving cars and made the process of connecting to nearby vehicles much faster, recognising they would often be fleeting links. Researchers at Bristol and other institutions are trying to find ways to supplement 802.11p cost-effectively.</p>
+ <p>One option is the cellular network, particularly with the upgrade to 5G that should start to get under way from the end of this decade and provide a further boost to data rates over longer distances. “Often it’s not about the data rate; it’s about providing reliability and connectivity. With cellular, it’s boom and bust much of the time,” says Andy Nix, professor of wireless communications at the University of Bristol.</p>
+ <p>But 5G is about more than bringing in new cellular protocols. A key theme of the 5G work is to make different radio networks work together. “We see ultimately the challenge being handled by a range of radios. You have 802.11p, LTE and millimetre-wave possibilities, ideally all being coordinated through software-defined networks. With multiple technologies, hopefully as one is weakening, another is kicking in,” Nix adds.</p>
+ <p>Millimetre-wave communications uses transmissions in a similar frequency range to that used for the radar sensors now being added to high-end vehicles. The big advantage of millimetre wave is that it allows very high bandwidths with less complex signalling than that needed for sub-5GHz cellular links. The downside is that millimetre-wave relies on line-of-sight communications, which makes it harder for receivers and transmitters to track each other. Imagine that moved to an environment where at least one of the transmitters is moving at 60mph.</p>
+ <p>However, the transmissions can be guided using electronic beamsteering techniques. The Bristol team is working with train operator First Group as part of the Mantra Project to see how the techniques work under a more controlled environment: that of carriages moving on rails. They can then adapt the system to handle vehicles on a road.</p>
+ <p>A big problem with millimetre-wave communication for fast-moving vehicles is initiating the conversation. “Think about two people in a dark room who can only communicate by flashing torches at each other and, at first, they don’t know where the other person is. They both have to switch on the torches and align them in the dark, and do it quickly,” says Piechocki.</p>
+ <p>Mixing networks provides a way around the problem. Sending coordinates derived using GPS over a cellular link will give vehicles a much better idea of where to focus the beams. The cellular link provides a way of authenticating transmitters before they come into range – wasting far less of the millimetre-wave channel’s bandwidth before the vehicle zooms back out of range.</p>
+ <p>The question then is who pays for the deployment of millimetre-wave transceivers by the roadside or on top of motorway gantries and for the additional cellular base stations? In the UK, local authorities have responsibility for implementing traffic-management systems. A survey of UK councils performed last year by Atkins found many are interested in V2X but have no plans to act on it until the technology becomes more tangible, and many are already struggling to find finance for projects. It is a problem that will be seen worldwide.</p>
+ <p>Reporting to the US Senate appropriations committee late last year, Nidhi Kalra, co-director of RAND’s Center for Decision Making Under Uncertainty, said: “There are market distortions in our transportation systems that mean we don’t take full advantage of the opportunities for cost-saving. Pollution is a real cost to our society. The question is who pays for it? While the market doesn’t take account of this, there is no incentive to fix it. We need to revisit things that are already preventing us from reaching these goals.”</p>
+ <p>Cities may find it easier to address issues of pollution and with it find money to pay for V2X infrastructure. Nix points to the maintenance of low-pollution zones: “A vehicle may have to have certain features to enter a city: intelligent engine management for example. The V2X technology can adjust the engine controls when it enters the zone. If your car can’t talk to the city, you pay a pollution tax.”</p>
+ <p>The same transceivers would inform vehicles of available parking spaces near the destination to avoid creating more pollution while driving around looking for one. Cities such as San Francisco and Santander have already begun to deploy the parking sensors that make such a system possible. Some cities may even use paid-for preferential access to junctions to recoup more of the investment. Dustin Carlino and colleagues from the University of Texas modelled one automated auction scheme that would allow vehicles to bid for fast-track slots at V2X-enabled junctions.</p>
+ <p>Cities may start to rip out intersections entirely and pedestrianise more of the urban space because the technology starts to reduce the number of vehicles entering the city overall. Planners in Scandinavia think it will be possible because communications will drive car-sharing and a reduction in personal vehicle ownership.</p>
+ <p>At the 2016 Nordic Smart Cities event, Krista Huhtala-Jenks, responsible for digital services at the Finnish Ministry of Transport and Communications, explained: “We need to get vehicle miles down but personal miles up. That means more people using shared access. If they travel in a car, the car will be full. That’s the reason why in Finland we are testing automated minibuses. They will act as the first-last mile public-transport solution for many people.”</p>
+ <p>The automated minibuses will travel around picking up and dropping off commuters where they need to go, to encourage them to avoid private transport. “We want more people using shared access. We need to solve that bit and change people’s behaviour before we have autonomous vehicles,” she added. Communication between the city and the transport will be one of the ingredients for moving to that point. But the future may equally be one where car owners bribe their way through junctions for a quicker journey home.</p>
+ <div class="panel panel-box-out">
+ <div class="panel-heading">
+ <div class="sub-head"></div>
+ <h3>Anonymity on the streets</h3>
+ </div>
+ <div class="panel-body">
+ <p>The one big advantage of V2V signalling is that other cars can work out exactly where your vehicle is and what it is going to do next. The big disadvantage is that so too can anyone else who gains access to the network, and, with a little additional effort, they can reshape the world around them.</p>
+ <p>Without effective security it will become too easy for a car to pretend to be an ambulance and carve a quick route through heavy traffic. Or for house owners fed up with the noise of passing traffic to declare there to be a roadblock outside and simply wait for satnav systems to reroute around them.</p>
+ <p>The problems of security go way beyond simply determining whether a transponder is fitted to an emergency vehicle.</p>
+ <p>Rob Piechocki, a communications technology researcher at the University of Bristol, explains: “When it comes to security, there are a number of competing requirements that need to be mutually satisfied. Privacy messes up many of the existing solutions: how do you provide authentication and security and also provide privacy?”</p>
+ <p>If the network cannot guarantee privacy, car occupants will be too easy to track – by governments, private companies and hackers. And that will slow down public acceptance of such systems.</p>
+ <p>At the same time, regulators and the industry do not want to give up the ability to collect data from vehicles. The car companies are keen to have vehicles providing live mapping data as they drive around to avoid the cost of managing fleets of dedicated survey vehicles in the way that Google does now.</p>
+ <p>Deborah Hersman, president and chief executive officer of the US-based National Safety Council, told senators late last year that the ability to retrieve and share post-crash data in a standard format is essential to the development of autonomous vehicles: “If you can’t access it, you won’t learn the lessons.”</p>
+ <p>Recognising the tension between security and personal data protection, the European Commission has made privacy part of its package of requirements for V2X. Unfortunately researchers have yet to come up with a way for a vehicle to declare it is legitimate without giving away an identity that can be linked to individuals.</p>
+ <p>One method is to use disposable pseudonyms and use those in combination with traditional public-key encryption.</p>
+ <p>“The interest is not so much in encryption but that we can trust the data being sent,” says Piechocki.</p>
+ <p>“If something is deemed untrustworthy, they will revoke the entire set of pseudonyms it holds. But that means keeping track of the valid pseudonyms. The open question is how do you deal with that without clogging up the network with security?”</p>
+ </div>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Chris Edwards ]]>
+</dc:creator>
+<pubDate>Wed, 1 Mar 2017 14:00:00 +0530</pubDate>
+<category>
+<![CDATA[ road transport ]]>
+</category>
+<category>
+<![CDATA[ communication networks and services ]]>
+</category>
+<category>
+<![CDATA[ volume 12 issue 2 ]]>
+</category>
+<category>
+<![CDATA[ communications ]]>
+</category>
+<category>
+<![CDATA[ v2x ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/smart-roads-and-wireless-communication-keep-the-traffic-flowing/
+</guid>
+</item>
+<item>
+<title>
+UK needs better charging network for electric vehicles
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/uk-needs-better-charging-network-for-electric-vehicles/
+</link>
+<media:content url="http://localhost:59720/media/2626/1702-ev-charging.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=800&height=600&rnd=131313795680000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2626/1702-ev-charging.jpg?crop=0,0.24500000000000002,0,0.26281249999999995&cropmode=percentage&width=1200&height=450&rnd=131313795680000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Last December, the UK government announced that it will reduce the cost of roadside charging for electric-powered cars. Pricing will remain commercially driven, ministers said, but within a more reasonable boundary and common standards.</p>
+ <p>Existing costs, up to £7.50 for half an hour’s us
+]]>
+<![CDATA[
+e of a public rapid-charging point, mean that electric cars can be almost as expensive to run as some diesel cars. This, the government believes, is putting off prospective buyers and is a major reason why the Department for Transport had to admit last year that the UK was only likely to achieve half of the national target, that 9 per cent of cars on UK roads would be electric by 2020. This failure would have a knock-on effect on efforts to reduce carbon emissions and air pollution and meet climate change targets.</p>
+ <p>In January, a survey for the Institute of the Motor Industry found that although 70 per cent of Londoners like the idea of electric cars, two-thirds of those asked were also concerned about a lack of roadside charging points. Zap Map, which maps all the UK’s charging stations, currently has 6,535 on its records. For comparison, there are over 8,450 petrol stations. As demand for EVs increases, the UK will need a bigger, better and greener electrical charging infrastructure.</p>
+ <p>Oil giant Shell has already announced plans to fit chargers into its UK petrol stations, in denser urban areas to start with, expected by the summer. But to overcome public concerns that electric vehicles might run out of charge on the way to an important meeting, particularly on longer trips in the countryside where there are fewer charging stations, the UK might consider what is going on in Norway.</p>
+ <p>Norway has the world’s most extensive electric vehicle charging infrastructure, with 7,632 recharge points for a population of just under 5.3 million. In Oslo, there are free charging stations, part of a range of government incentives to encourage Norwegians to buy EVs. There are now more than 100,000 EVs on Norway’s roads. Last year, almost 40 per cent of newly registered Norwegian cars were electric.</p>
+ <p>The EV charging infrastructure across Europe has grown by between 30 and 60 per cent a year since 2013. New regulations state that all new houses in EU countries must have an EV charging port as of 2019. So, by 2023, that will amount to 10 per cent of all buildings and parking spaces. There are now 100,000 charging stations across Europe but, until recently, only a few of them included rapid charging points.</p>
+ <p>Zap Map lists three main EV-charging speeds in the UK. A slow charger, with up to 3kW power, which takes six to eight hours and is best suited for overnight charging at home. Fast chargers of between 7 and 22kW can fully recharge some models in three to four hours. Rapid chargers, 43 to 50kW, can provide an 80 per cent charge in 30 minutes. Tesla superchargers deliver up to 120kW, enough to provide 170 miles of range, in 30 minutes. This is still a lot slower than filling up with petrol or diesel, but things are starting to speed up.</p>
+ <p>Earlier this year, Norway, again, opened the world’s largest fast-charging station, which can charge 28 vehicles in half an hour. The station includes 20 Tesla superchargers, four 50kW DC fast chargers and four 22kW AC charging points.</p>
+ <p>Electric-vehicle drivers in the Netherlands can charge their cars in 15 to 30 minutes, every 50 miles, along the country’s major highways. A network of stations, delivering 50kW for fast charging, are connected via the cloud for fast payment. Sheltered solar-panelled huts serve all major vehicle brands.</p>
+ <p>In the immediate future, charging is set to become even faster. Last year, motoring giants BMW, Daimler, Ford and Volkswagen agreed to collaborate on an ultra-fast vehicle charging network across Europe, starting in 2017, at an initial 400 sites.</p>
+ <p>These chargers will be capable of providing up to 350kW, but according to Abbas Fothoui, a research fellow working on electrical vehicle energy storage optimisation and control at Cranfield University, faster charging might not necessarily be the solution to the UK’s future electric charging infrastructure needs.</p>
+ <p>“It’s better to charge vehicles during the night and use fast charging in emergencies,” he says. “In the long term, this will reduce costs. Fast charging requires more power, which wears out the car batteries sooner.”</p>
+ <p>Volker Pickert, professor of power electronics at Newcastle University, doubts whether the UK’s existing electricity infrastructure will be able to handle the greater demand that more EVs and faster charging will place on it. “Charging power can be increased, but only if the infrastructure is in place,” he says.</p>
+ <p>Pickert believes that to balance the power flow of the complete grid, the UK will need some sort of smart grid system. This, he explains, will give the grid more flexibility to provide electric cars with the right amount of charging power. “We need a system that predicts what the maximum charging need will be at different times of the day and delivers that,” Pickert says.</p>
+ <p>Fothoui thinks that a system of connected local networks could handle the charging demand in an intelligent way: “This needs the cooperation of both government and the companies involved in grid management.”</p>
+ <p>Pickert says that this research is ongoing, but there’s no direct answer yet. “One group says we need DC rather than AC, others AC at lower frequencies,’ he says. “What many people do agree on, is that we need more energy storage capacity: relatively large batteries that can charge surplus energy from renewable sources and store it and then make it available when needed.”</p>
+ <p>In January this year, London Mayor Sadiq Khan announced £2.5m of funding to encourage more people and businesses to buy electric vehicles. The plan includes a zero-emission zone in one borough’s town centre, more EV charge points, EV-only parking bays and taxi ranks, and loans of EVs to local businesses.</p>
+ <p>Last autumn, the Chancellor of the Exchequer, Philip Hammond, said that charging infrastructure installed by companies to support electric vehicles will be eligible for 100 per cent write-off against tax. There is also a £600 subsidy for companies to install double charging points at business premises.</p>
+ <p>It’s not just the government that is talking up electric charging. Last August, Nissan claimed that there would be more electric chargers than petrol stations in the UK by 2020. David Martell, chief executive of Chargemaster, a company that makes charging units, predicts that within three to five years there will be charge-points at every supermarket, railway station and hotel, and in the visitor bays of every company.</p>
+ <p>Often, however, the success of green ventures like this is determined less by worthiness of anti-pollution and climate change targets, and more by the economics behind the politics.</p>
+ <p>Last year, BMW, Bosch and Vattenfall opened an energy storage facility in Hamburg which uses 2,600 battery modules that have reached the end of their in-vehicle life to stabilise the grid and reduce the impact of peak demand.</p>
+ <p>Newcastle University, Dutch firm Encel and Nissan have a similar idea. Between them, they’ve designed charging points that enable cars to put unused energy back into the grid. The car can charge up at peak times because wind and solar power sources store any unused power and then release it, or even sell it, back into the grid when renewable sources are less productive. This, researchers believe, would be cheaper in the long term by providing energy and balancing to the grid.</p>
+ <p>The big electricity companies might have something to say about this sort of thing happening commercially in the UK, though.</p>
+ <p>And this is where economic politics sets the tone. The German government has pledged to replace its nuclear power with energy from renewable sources by 2022. In Norway, 98 per cent of the electricity comes from renewable sources. There’s a cross-party agreement to phase out fossil-fuel cars by 2025.</p>
+ <p>The UK government has other priorities. It has, for instance, awarded over 100 fracking contracts in recent times and plans to build five new nuclear power stations.</p>
+ <p>This February, concerns were raised that the government was about to introduce a business tax on firms that use solar roof panels. Around the same time, solar energy providers were vocal in their complaints that solar power is being excluded from the government’s auction of contracts to supply electricity to the grid. In its last election manifesto, the Conservative party pledged to halt the spread of onshore wind farms.</p>
+ <p>Electric vehicles may help improve urban air quality, but in the overall scheme of things they are only as green as the electricity that powers them.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Crispin Andrews ]]>
+</dc:creator>
+<pubDate>Wed, 1 Mar 2017 13:27:01 +0530</pubDate>
+<category>
+<![CDATA[ electric vehicle charging ]]>
+</category>
+<category>
+<![CDATA[ volume 12 issue 2 ]]>
+</category>
+<category>
+<![CDATA[ electric vehicles ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/uk-needs-better-charging-network-for-electric-vehicles/
+</guid>
+</item>
+<item>
+<title>Industry 4.0 in action</title>
+<link>
+http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-industry-40/
+</link>
+<media:content url="http://localhost:59720/media/2814/hero-image.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131328425180000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2814/hero-image.jpg?crop=0,0.069912609238451939,0,0.36828963795255931&cropmode=percentage&width=1200&height=450&rnd=131328425180000000" /><br /><br />
+]]>
+<![CDATA[
+<p><strong>Industry 4.0 is the latest manufacturing trend, but there are precious few real world examples which offer tangible and quantifiable benefits. The Bosch Rexroth factory at Homburg provides a great example of an actual Industry 4.0 production line in action.</strong></p>
+ <p>There has been a lot of talk about the concept of Industry 4.0 but few companies appear to have really embraced the so-called fourth industrial revolution.</p>
+ <p>For some time now Bosch Rexroth has been employing a dual strategy, which sees the company develop Industry 4.0 technologies in its own factories, before rolling out proven solutions to industry.</p>
+ <p>The production facility at Homburg in the Saarland region of Germany is a case in point. The plant manufactures hydraulic valves for mobile machinery, such as tractors and forklift trucks. The company made the decision to introduce Industry 4.0 on one specific manual production line which was struggling to keep up with Bosch Rexroth’s commitment to quality, and the demands of its customer base.</p>
+ <p>“We identified three areas where we needed to deliver significant improvement, namely quality of the product, cost and delivery times,” explained Dr Matthias Möller, Director of the Technology and Process Planning Department at Bosch Rexroth’s Homburg plant.</p>
+ <p>The core of the problem was that the line was manufacturing six main valve product types with 250 variants and 2,000 individual parts. Furthermore, the line had to be highly flexible, working with small batch sizes requiring assembly experts for each product family.</p>
+ <p>“The key factor is that we wanted to develop a zero failure strategy because the market for hydraulic valves is very demanding in terms of quality,” says Möller.</p>
+ <p>With a complex manual production line, the Homburg plant was struggling to meet customer demands. Bosch Rexroth therefore set out to develop a zero failure strategy with a quality first approach. <strong><a href="http://www.boschrexroth.co.uk/industry4-0">The creation of an autonomous connected workspace has transformed production</a></strong>, delivering significant improvements in quality, productivity and efficiency, whilst keeping employees at the heart of the process.</p>
+ <p>For Bosch Rexroth, the solution was to use the Industry 4.0 philosophies of connectivity, open standards and the virtual representation of information while keeping people, namely the assembly line employees, at the heart of the process. Specifically, the valve production line at Homburg was re-engineered into autonomous workstations with RFID chips controlling the product as it flows through the line and sensors collecting and collating data which is used to frame the decision-making process.</p>
+ <p>“To achieve such dramatic changes, we set about adapting the production unit, setting up nine autonomous intelligent workstations that can quickly switch between products as required,” says Dr Möller.</p>
+ <p>Work steps for each different product type are displayed to employees on screens at every workstation, using a Bosch Rexroth technology called ActiveAssist which facilitates quick and easy learning, all the time aiding flexibility. The system guides assembly steps using a pick-to-light system which eliminates errors and checks all assemblies, via a 3D camera. Meanwhile, kanbans and part supermarkets provide the parts to the operator relevant to the specific valve being manufactured.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2812/images3.png?anchor=center&mode=crop&width=1200&rnd=131328419420000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2812/images3.png?anchor=center&mode=crop&width=800&rnd=131328419420000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2812/images3.png?anchor=center&mode=crop&width=640&rnd=131328419420000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2812/images3.png?anchor=center&mode=crop&width=320&rnd=131328419420000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2812/images3.png?anchor=center&mode=crop&width=800&rnd=131328419420000000" />
+ </picture>
+ 
+ <figcaption class="figure-caption fade-background">
+ <p class="image-caption">Rexroth Bosch Group</p>
+ </figcaption>
+ </figure>
+ <p>“The logistical task was driven by the quality requirement, namely that only essential components were allowed to be at the workstation, to avoid the incorrect assembly of components,” Dr Möller explains. “Now we have the pick-to-light technology combined with RFID identification of each single product, we can leave all components at the line all the time. This is because we are able to ensure that only the necessary components for the new run are picked by the worker.”</p>
+ <p>Crucially, each workstation recognises employees via a Bluetooth tag and then adjusts the work area automatically to individual requirements including language, font size and individual skills and experience of the operator, while a quality assurance app tracks the full process for any faults or deviation.</p>
+ <p>“Every step of the process is recorded and relayed to production operatives in real time using RFID chips to monitor the position of individual components. Using ActiveAssist, each worker receives exact instructions tailored to their skill level and preferred language,” says Dr Möller.</p>
+ <p><strong><a href="http://www.boschrexroth.co.uk/industry4-0">The brain of the Homburg line is another Bosch Rexroth innovation</a></strong>, namely ActiveCockpit, an interactive manufacturing system which collects, filters and visualises manufacturing data continuously, giving employees and management real data to facilitate fast decision-making.</p>
+ <p>ActiveCockpit provides a digital connection between operator, product, workstation and process, collecting, filtering and visualising data on a whiteboard which is, crucially, located close to production process. The whiteboard displays key production data live, in both stationary and mobile forms, seamlessly integrating the virtual world of order planning and production control, with connectivity to the manufacturing execution system (MES) and Enterprise Resource Planning (ERP).</p>
+ <p>Using ActiveCockpit, key data coming off the Homburg valve production line is real-time with status, annotation, notes and ‘to do lists’ which are accessible to all staff members. The system also automatically creates reports with all relevant information and appendices dealing with the discussed topics.</p>
+ <p>The results of implementing Industry 4.0 speak for themselves. Logistical and set-up time was reduced from 450 seconds in 2014 to zero one year later. Inventory days were reduced from three days in the same period down to 1.5 days. Cycle times reduced from 474 seconds in 2014 down to 438 seconds in 2015. Overall the Homburg valve production line has undergone a 10% production improvement and achieved a saving of half a million euros annually.</p>
+ <p>“Each stage of the process is fully integrated from the customer placing the order with the OEM through to suppliers, component machining, assembly, test and shipment, with capacity fully scalable and adaptable to demand, based on short-term order fluctuations,” says Dr Möller. “We’ve already seen a 30 per cent stock reduction, eliminated set-up time, and achieved a 10 per cent output increase, resulting in an annual saving of  €500,000.”</p>
+ <p>Dr Möller adds: “Our experiences in Homburg demonstrate that productivity savings from Industry 4.0 can be achievable now and are fully scalable. Focusing on just one production cell, <strong><a href="http://www.boschrexroth.co.uk/industry4-0">we’ve achieved major production savings and additional revenue from a 10 per cent increase in output.</a></strong></p>
+ <p>“It was realised with connectivity,” he states. “The previous production set-up required the removal of all unnecessary components during changeover from one product to another and the restocking of lines between production runs took up to 450 seconds per changeover.”</p>
+ <p>Going forward Dr Möller believes that Industry 4.0 techniques will be implemented across other lines in the plant. “We are implementing Industry 4.0 solutions to the next steps in our value stream. Having started with valve assembly, we are now looking at the machining area and will follow up with the valve test area. We are certain there are huge potential benefits from connecting worker, machine and material for industrial production in this way.”</p>
+ <p>For further information please visit <strong><a href="http://www.boschrexroth.co.uk/industry4-0">www.boschrexroth.co.uk/industry4-0</a></strong></p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[
+Dr Matthias M&#246;ller, technology and process planning director at Bosch Rexroth’s Homburg plant
+]]>
+</dc:creator>
+<pubDate>Wed, 1 Mar 2017 10:33:00 +0530</pubDate>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ germany ]]>
+</category>
+<category>
+<![CDATA[ manufacturing ]]>
+</category>
+<category>
+<![CDATA[ production ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-industry-40/
+</guid>
+</item>
+<item>
+<title>
+Sony Xperia Touch projects Android tablet onto any surface; Xperia Agent is voice-activated media assistant
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/sony-xperia-touch-projects-android-tablet-onto-any-surface-xperia-agent-is-voice-activated-media-assistant/
+</link>
+<media:content url="http://localhost:59720/media/2808/33128006145_3a927c3fed_h.jpg?center=0.34170854271356782,0.51908396946564883&mode=crop&width=800&height=600&rnd=131327771170000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2808/33128006145_3a927c3fed_h.jpg?center=0.34170854271356782,0.51908396946564883&mode=crop&width=1200&height=450&rnd=131327771170000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The Xperia Touch consists of a projector coupled with lasers and infrared sensors. The device effectively projects an Android tablet onto any surface and can detect where the user’s hands are in order to allow them to interact with the device.</p>
+ <p>The device seemed very responsive to user t
+]]>
+<![CDATA[
+ouches during our hands-on first look, although the sensation of touching a table top was not as satisfying an experience as the smooth glass screens found on traditional tablets.</p>
+ <p>Even under the bright lights of MWC, the display was very readable albeit slightly washed out. A Sony representative said that it could be used on surfaces with a variety of different colours, although a white surface was preferable.</p>
+ <p>It ran on batteries, so could in theory be used while travelling, for example on a train table, although the representative was cagey about how long the battery would last.</p>
+ <div class="responsive-media video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/edKegUbew88" frameborder="0" allowfullscreen></iframe>
+ </div>
+ <p>The Xperia Touch is due to be released in the spring, with a projected cost of €1,599 (£1,366).</p>
+ <p>Sony also showed off its voice-activated home media assistant, the Xperia Agent. The cylindrical device has a pair of “eyes” above an Android powered touchscreen and is designed to be placed in the centre of a living room and interface with the user’s television sets and hi-fi.</p>
+ <p>It responded impressively to voice commands, even in the loud, bustling Sony booth at MWC. However, its responses were sometimes unintelligible which was blamed on problems with the local WiFi network.</p>
+ <p>Media was quickly slung back and forth between the Agent and the television set and previews sometimes appeared on its small screen.</p>
+ <p>At this point the Agent is just a prototype and there is no expected release date so far. Although the concept is interesting, it is similar to Google Home or Amazon Echo, devices that are already on the market, albeit with jazzed up features and a more human-like interface.</p>
+ <div class="responsive-media video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/DbUKFXZKhvw" frameborder="0" allowfullscreen></iframe>
+ </div>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jack Loughran ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 17:41:30 +0530</pubDate>
+<category>
+<![CDATA[ mobile world congress 2017 ]]>
+</category>
+<category>
+<![CDATA[ gadget ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/sony-xperia-touch-projects-android-tablet-onto-any-surface-xperia-agent-is-voice-activated-media-assistant/
+</guid>
+</item>
+<item>
+<title>
+Warning UK's nuclear power stations could be forced to close after Brexit
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/warning-uks-nuclear-power-stations-could-be-forced-to-close-after-brexit/
+</link>
+<media:content url="http://localhost:59720/media/2433/1701-dreamstime.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=800&height=600&rnd=131288926200000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2433/1701-dreamstime.jpg?crop=0,0.26541666666666669,0,0.24239583333333328&cropmode=percentage&width=1200&height=450&rnd=131288926200000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Rupert Cowen, a nuclear energy specialist at the law firm Prospect Law, today warned politicians investigating energy policy in the UK that cross-Channel trade in nuclear fuel could cease after Britain splits from Euratom.</p>
+ <p>Plans for the next generation of reactors, such as the new Hinkley Point plant, could be placed in jeopardy, he added.</p>
+ <p>But he stressed that, in his view, quitting the regulatory organisation established in the 1950s to create a market for nuclear power in Europe was a political choice rather than a necessity.</p>
+ <p>Cowen told MPs, “Those that are building the nuclear power stations want to be certain they can get their components. They want to be certain they can get their personnel. They want to be certain they can get their fuel in future. When we come out of Euratom, if we haven’t succeeded in agreeing transitional arrangements, we will not be able to do any of those things.”</p>
+ <p>Speaking as a guest of the Business, Energy and Industrial Strategy Committee, the lawyer said, “If we can’t arrive at safeguards and other principles that allow compliance to be demonstrated, no nuclear trade will be able to continue.”</p>
+ <p>Though separate from the European Union, Euratom is governed by the bloc’s institutions - including the politically contentious European Court of Justice.</p>
+ <p>Tom Greatrex, from the Nuclear Industry Association, warned of a “cliff edge” resulting from exiting the organisation at the same time as Article 50 - the official notice of Britain's decision to leave the EU - is expected to take effect in 2019.</p>
+ <p><!--
+ __ __ _ _ _
+ \ \ / /__ __ _ _ __ ___ | |__ (_)_ __(_)_ __ __ _
+ \ \ /\ / / _ \ / _` | '__/ _ \ | '_ \| | '__| | '_ \ / _` |
+ \ V V / __/ | (_| | | | __/ | | | | | | | | | | | (_| |
+ \_/\_/ \___| \__,_|_| \___| |_| |_|_|_| |_|_| |_|\__, |
+ |___/
+ Ever thought about joining us?
+ http://developers.theguardian.com/join-the-team.html
+ -->When pressed by Conservative MP Richard Fuller about potential positives to quitting Euratom, David Senior from the Office for Nuclear Regulation cited a likely reduction in bureaucracy.</p>
+ <p>At the same time as the evidence session was taking place in Parliament, International Trade Secretary Liam Fox sought to quell fears among industry figures attending the Civil Nuclear Showcase event in Kensington.</p>
+ <p>In a speech to delegates, the prominent Brexiteer declared, “It is true that, in leaving the European Union, Britain will also be leaving Euratom.</p>
+ <p>“Though our exact relationship with Euratom will be subject to negotiations with EU partners, I want to reassure you - our withdrawal from the Euratom Treaty will in no way diminish our nuclear ambitions.</p>
+ <p>“This government is firmly committed to delivering a world-leading nuclear programme in close collaboration with our international counterparts.”</p>
+ <p>If the UK does proceed with exiting Euratom it could also have consequences for radiotherapy for cancer patients, since Britain imports all the radioactive medical isotopes used to treat many tumours.</p>
+ <p>Currently, Euratom members must also sign up to some agreements regarding freedom of movement for people working in the industry.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Josh Loeb ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 16:43:11 +0530</pubDate>
+<category>
+<![CDATA[ energy ]]>
+</category>
+<category>
+<![CDATA[ nuclear ]]>
+</category>
+<category>
+<![CDATA[ brexit ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/warning-uks-nuclear-power-stations-could-be-forced-to-close-after-brexit/
+</guid>
+</item>
+<item>
+<title>
+5G connected VR headset coupled with full body suit promises complete virtual immersion
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/5g-connected-vr-headset-coupled-with-full-body-suit-promises-complete-virtual-immersion/
+</link>
+<media:content url="http://localhost:59720/media/2798/img_20170228_110937.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131327732320000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2798/img_20170228_110937.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131327732320000000" /><br /><br />
+]]>
+<![CDATA[
+<p>UK-based company Teslasuit has been trialling prototype 5G technology in conjunction with its full body suit to create a completely immersive experience that allows users to move around a virtual world and experience sensations akin to real life.</p>
+ <p>The 5G-connected VR headset is able to take advantage of the advanced graphical capabilities and high frame rates generated by a powerful desktop computer while maintaining portability and manoeuvrability.</p>
+ <p>Current VR headsets require users to either be attached via a wire to their desktop device or use a portable version like Samsung’s Gear VR or Google Cardboard that can only provide a limited visual experience.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2799/img_20170228_110937-1.jpg?anchor=center&mode=crop&width=1200&rnd=131327733020000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2799/img_20170228_110937-1.jpg?anchor=center&mode=crop&width=800&rnd=131327733020000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2799/img_20170228_110937-1.jpg?anchor=center&mode=crop&width=640&rnd=131327733020000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2799/img_20170228_110937-1.jpg?anchor=center&mode=crop&width=320&rnd=131327733020000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2799/img_20170228_110937-1.jpg?anchor=center&mode=crop&width=800&rnd=131327733020000000" />
+ </picture>
+ 
+ <figcaption class="figure-caption fade-background">
+ <p class="image-caption">The prototype 5G hardware sitting underneath the VR demo which is streaming to the smaller laptop in front</p>
+ </figcaption>
+ </figure>
+ <p>Teslasuit’s Andrej Michajlowski said that the company was working towards a “round trip” latency of under 10 milliseconds between headset and computer.</p>
+ <p>“If you have a very high latency then your brain will notice it pretty quickly and you won’t be comfortable using it,” he explained.</p>
+ <p>“If you have a low latency, our brain is less likely to notice that there is something wrong. But there are other challenges to increase the user experience. For instance when you move about in VR and your physically standing still, your brain is not really comfortable about that.”</p>
+ <p>The company is combining this experience with its specially designed suit that can provide users with a range of different physical sensations.</p>
+ <p>“You've got loads of sensors around the body that pass on haptic data,” Michajlowski said, explaining the suit. “Currently our suit supports haptic feedback, it supports climate as well, like hot and cold, so if you are playing a game in a cold environment we can control that and the suit will pass on the cold sensations.”</p>
+ <p>In a prototype game (below) designed for the suit, users can feel the impact of bullets hitting them along with other sensations.</p>
+ <div class="responsive-media video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/_AYN_Lt_ww4" frameborder="0" allowfullscreen></iframe>
+ </div>
+ <p>“We would like to integrate the suit with a virtual reality 5G headset so we can make the full VR experience more immersive. The suit can emulate weight, so if you're lifting an object we can make the muscles contract, biceps and triceps, so that you feel like there is a weight even though you're just holding air.</p>
+ <p>The company also hopes its technology can be used in other areas outside of gaming such as in medical areas and learning.</p>
+ <p>“Our recent research shows that learning is improved by 30 per cent when you can experience tactile feedback. For example we could record Tiger Woods making his swing with motion capture, and then when you wear the suit, and learn how to play golf, we can do corrective action so if you're holding your hands too low we can make the suit reflect that.”</p>
+ <p>He said in this case the user would feel pressure on their arm until they raise it to the right position. With enough training this action could then be replicated in real-world conditions</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2797/72b812d2-403f-4051-b955-04e04b3faefd.jpg?anchor=center&mode=crop&width=1200&rnd=131327732300000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2797/72b812d2-403f-4051-b955-04e04b3faefd.jpg?anchor=center&mode=crop&width=800&rnd=131327732300000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2797/72b812d2-403f-4051-b955-04e04b3faefd.jpg?anchor=center&mode=crop&width=640&rnd=131327732300000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2797/72b812d2-403f-4051-b955-04e04b3faefd.jpg?anchor=center&mode=crop&width=320&rnd=131327732300000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2797/72b812d2-403f-4051-b955-04e04b3faefd.jpg?anchor=center&mode=crop&width=800&rnd=131327732300000000" />
+ </picture>
+ 
+ </figure>
+ <p>Teslasuit was initially backed as a Kickstarter project at the beginning of last year after which a mark one version of the suit was released. A mark two version has been in prototype form for over a year and a Kickstarter is expected to launch within the next 3-9 months.</p>
+ <p>“We have created our own library of haptic feelings, different sensations from tickling to touch, hugs and things like that,” Michajlowski said. “Hopefully this year the Kickstarter will help us gain popularity.”</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jack Loughran ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 16:38:03 +0530</pubDate>
+<category>
+<![CDATA[ virtual reality ]]>
+</category>
+<category>
+<![CDATA[ 5g ]]>
+</category>
+<category>
+<![CDATA[ mobile world congress 2017 ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/5g-connected-vr-headset-coupled-with-full-body-suit-promises-complete-virtual-immersion/
+</guid>
+</item>
+<item>
+<title>
+Volvo introduces first hybrid powertrain for trucks to clean up long-haul transport
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/volvo-introduces-first-hybrid-powertrain-for-trucks-to-clean-up-long-haul-transport/
+</link>
+<media:content url="http://localhost:59720/media/2786/volvo-hybrid-truck.jpg?center=0.60571428571428576,0.48471615720524019&mode=crop&width=800&height=600&rnd=131327675560000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2786/volvo-hybrid-truck.jpg?center=0.60571428571428576,0.48471615720524019&mode=crop&width=1200&height=450&rnd=131327675560000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Volvo’s Concept Truck, originally unveiled in May 2016, is one of the first examples of hybrid technology in long-haul vehicles. The hybrid powertrain is the key innovation in the new Concept Truck, which also features improved aerodynamics and rolling resistance, as well as reduced weight.</p>
+ <p>The powertrain enables the truck to recover kinetic energy while braking and also when driving downhill on slopes steeper than one per cent. The recovered energy is stored in the vehicle's batteries and used to power the truck in electric mode on flat roads or low gradients. The truck can drive for up to 10km in full electric mode, producing zero emissions and much less noise. </p>
+ <p>“Over the coming years, as society moves more and more towards renewable energy, we strongly believe that electromobility and hybrid technology will become increasingly important,” said Volvo Trucks CEO Claes Nilsson.</p>
+ <p>“The powertrain in our concept truck has been developed to improve transport efficiency and thereby help the industry towards sustainable transport.”</p>
+ <p>The powertrain uses data from a driver support system, which analysis the topography ahead to calculate how to use energy most efficiently by switching between the vehicle’s diesel engine and electric motor. The system also suggests the optimal time to use the recovered energy.</p>
+ <p>In long-haul transportation, it is estimated that the hybrid powertrain will allow the combustion engine to be shut off for up to 30 per cent of the driving time, leading to a five to 10 per cent reduction in fuel consumption.</p>
+ <p>“Today, long-haul transport accounts for a significant share of the total energy consumption in the transportation sector,” explained Lars Martensson, director of environment and innovation at Volvo Trucks. “Using hybrid technology, the potential reduction in fuel and emissions is considerable and an important step towards reaching both our and society's environmental goals for the future.”</p>
+ <p>Volvo developed the Concept Truck in cooperation with the Swedish part of a bilateral research project involving both the Swedish energy authority Energimyndigheten and the US Department of Energy.</p>
+ <p>Volvo hopes to increase the energy efficiency of the technology through further research.</p>
+ <p>“This is a platform for verifying several new technologies for increasing transport efficiency,” said Åke Othzén, Chief Project Manager, Volvo Trucks. “Some of these developments have already been introduced to our trucks and some will be introduced in the near future. The hybrid powertrain is partly based on knowledge and experience from Volvo Buses’ hybrid and electric buses.”</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Tereza Pultarova ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 15:06:17 +0530</pubDate>
+<category>
+<![CDATA[ transport ]]>
+</category>
+<category>
+<![CDATA[ environment ]]>
+</category>
+<category>
+<![CDATA[ electric vehicles ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/volvo-introduces-first-hybrid-powertrain-for-trucks-to-clean-up-long-haul-transport/
+</guid>
+</item>
+<item>
+<title>
+Connected car technology vulnerabilities tested in Cyber Security Challenge
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/connected-car-technology-vulnerabilities-tested-in-cyber-security-challenge/
+</link>
+<media:content url="http://localhost:59720/media/2784/cyber-security-challenge-crop.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131327636070000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2784/cyber-security-challenge-crop.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131327636070000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The scenario, enacted as part of the Cyber Security Challenge 2017, saw six groups of aspiring cyber defenders break into a GPS tracking device to be installed into a fleet of cars owned by a fictional car leasing company. Through the device, they were able to breach the company’s internal comp
+]]>
+<![CDATA[
+uter network and book a ride in one of the firm’s luxury vehicles, bypassing all approval and registration procedures.</p>
+ <p>“It’s a device that has hard-coded credentials that are available for anybody to read as long as they get hold of the firmware,” explained Ian Lyte, security consultant at Protection Group International (PGI), who prepared the challenge. “That allows you to execute commands from the device. It exploits the same principle as the one used by the Mirai botnet that has taken down some major websites last year. You can find the same sort of thing in many medical devices as well.”</p>
+ <p>In the real world, attackers exploiting the path examined by the challenge participants would not only be able to collect the car and drive away with it, leaving no trace behind, but could also steal the company’s financial records or directly transfer funds.</p>
+ <p>“Once they reach the end of the game, they will have a presence on the internal network of the company. They can go and see finance, they can transfer money, they can try to target specific individuals,” Lyte explained. “They have complete control of what they can do in that network, they can go and sit there, they can visit other servers, and they have got passwords and other credentials. It’s exactly the same as somebody coming in and plugging a laptop in.”</p>
+ <p>Lyte said that while car manufacturers themselves are usually paying close attention to the security of their systems due to the high public profile of the connected car technology, makers of Internet of Things devices that could be plugged into the car by owners present a much larger source of vulnerabilities.</p>
+ <p>The most disconcerting ting about this type of vulnerability, according to some of the Cyber Security Challenge contestants, is the fact that it could be exploited by anyone with moderately advanced IT skills, using instructions publicly available on the Internet.</p>
+ <p>“You buy these devices off the shelf and install them in your home, and if someone’s clever enough to understand how they work, they can cause a lot of damage,” said web developer Mark Brown, who took part in the challenge to expand his understanding of cyber security.</p>
+ <p>“You can find all this information online anyway. All you have to do is to search Google and find out how to break into this, how to exploit this feature. All that information is available on the internet, you don’t necessarily need to understand it but if you know where to find it then anyone can basically do what we are doing.”</p>
+ <p>The absence of encryption, coupled with an inability to patch vulnerabilities as they occur, is a major shortcoming of many Internet of Things devices available in today’s market, according to Lyte. “If you have something that can’t be upgraded and a vulnerability is found, if you have an internet-connected device at home or in a car, that can’t be updated, once that vulnerability has been found, there is nothing you can do,” Lyte said.</p>
+ <p>“Most car manufacturers can issue updates over the air, but if you look at the majority of connected products on the market, especially the cheaper ones, they have no safeguards in place. They rely on what we call security through obscurity, they simply don’t expect anyone to go and do something.”</p>
+ <p>The Cyber Security Challenge 2017 takes a detailed look at the Internet of Things problem, which has been preoccupying experts for the past few years. The issue received wider public recognition following last year’s Mirai attack, which compromised millions of web cameras, connected printers and other systems.</p>
+ <p>The car technology hack, which took place in Bristol on Saturday 25 February, was the first of the competition’s 2017 semi-final events.</p>
+ <p>The Cyber Security Challenge, which debuted in 2010, seeks to find the best of the UK’s cyber talent and encourage enthusiasts to consider career in the industry, which is desperately struggling with the lack of skilled professionals.</p>
+ <p>According to a recent report by the International Information System Security Certification Consortium, the shortfall of skilled cyber security professional will reach 1.8 million globally by 2022.</p>
+ <p>The Cyber Security Challenge has a successful track record of matching talent with the relevant businesses and organisations. Over the years, more than 50 per cent of the participants of semi-finals have found employment within the sector soon after taking part in the challenge.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Tereza Pultarova ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 14:03:14 +0530</pubDate>
+<category>
+<![CDATA[ cybersecurity ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/connected-car-technology-vulnerabilities-tested-in-cyber-security-challenge/
+</guid>
+</item>
+<item>
+<title>Self-driving Nissan takes to London’s streets</title>
+<link>
+http://localhost:59720/content/articles/2017/02/self-driving-nissan-takes-to-london-s-streets/
+</link>
+<media:content url="http://localhost:59720/media/2783/nissan-driverless.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131327548120000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2783/nissan-driverless.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131327548120000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Travelling at up to 80km/h (50mph) and moving from local streets to a major multi-lane road, the modified Nissan LEAF electric car showcased the kind of technology many hope to be the future of travel.</p>
+ <p>Britain has been wooing developers of autonomous vehicles, hoping to grab a slice of an industry it estimates could be worth £900bn worldwide by 2025.</p>
+ <p>It also recently announced changes to allow for a single insurance policy to cover motorists driving conventionally and in autonomous mode, as it tries to get regulations in place to encourage the uptake of driverless cars from 2020.</p>
+ <p>Britain’s flexible approach to testing autonomous vehicles helped Nissan pick London for its first European tests, the director of its research centre in Silicon Valley told Reuters.</p>
+ <p>“It's not everywhere in Europe that we can go and drive on the road,” Maarten Sierhuis said. “You don't want to go to the most difficult parts of London when you start. The system has to be tested,” he said of the east of the capital where the trials are taking place near the ExCeL exhibition centre and London City Airport.</p>
+ <p>Nissan liaised with regulator Transport for London and the police ahead of the trials, supplying details of its route and the rules it would follow, and was advised to keep a full log that it would share in the event of an incident, it said.</p>
+ <p>Inside the vehicle, the car switches from conventional to self-driving mode at the touch of the ‘Enter<span>’</span> button and a screen identifies the nearest vehicles to the car in red and green, also showing the speed the car is travelling.</p>
+ <p>Nearly two dozen cameras, radars and lasers are fitted on the top and around the side of vehicle to guide its path.</p>
+ <p>The Nissan LEAF is travelling at a much higher speed than the <a href="https://eandt.theiet.org/content/articles/2016/10/first-driverless-car-takes-to-public-roads-in-milton-keynes/" target="_blank" title="Milton Keynes driverless car trial">driverless vehicle tested in Milton Keynes</a> in October last year.</p>
+ <p>Global carmakers are racing to catch up with the likes of Google and Tesla which have carried out several autopilot and self-driving tests in recent months in the United States and elsewhere.</p>
+ <p>Jaguar Land Rover is planning to test around 100 autonomous and internet-connected cars in Britain by 2020, while Volvo is also planning a test soon in London.</p>
+ <p>Nissan, which has already tested the self-driving LEAF in Tokyo and Silicon Valley, hopes to carry out similar trials in other European cities soon after this week<span>’</span>s London trials.</p>
+ <p>“We're thinking of testing in the Netherlands and Paris. It<span>’</span>s not easy to go and test everywhere because we need to create maps, we need to get approval from the regulators and then it is expensive to set up a test,” Sierhuis said.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ E&amp;T Editorial Staff ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 11:37:53 +0530</pubDate>
+<category>
+<![CDATA[ driverless ]]>
+</category>
+<category>
+<![CDATA[ london ]]>
+</category>
+<category>
+<![CDATA[ autonomous vehicles ]]>
+</category>
+<category>
+<![CDATA[ automotive ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/self-driving-nissan-takes-to-london-s-streets/
+</guid>
+</item>
+<item>
+<title>SpaceX to fly tourists to Moon next year</title>
+<link>
+http://localhost:59720/content/articles/2017/02/spacex-to-fly-tourists-to-moon-next-year/
+</link>
+<media:content url="http://localhost:59720/media/2782/spacex-crew.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131327532890000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2782/spacex-crew.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131327532890000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The launch of the first privately funded tourist flight beyond the orbit of the International Space Station is tentatively targeted for late 2018, Space Exploration Technologies chief executive Elon Musk has told reporters.</p>
+ <p>Musk declined to identify the customers or say how much they would pay to fly on the week-long mission, except to say that it is ‘nobody from Hollywood’.</p>
+ <p>He also said the two prospective space tourists, who know each other, have put down a ‘substantial’ deposit and would undergo ‘extensive training before going on the mission’.</p>
+ <p>“I think there's a market for one or two of these per year,” he said, estimating that space tourist fares charged by SpaceX could eventually contribute 10 to 20 per cent of the company<span>’</span>s revenue.</p>
+ <p>Plans call for SpaceX<span>’</span>s two-person lunar venture to fly some 300,000 to 400,000 miles (480,000 to 640,000km) from Earth past the Moon before Earth<span>’</span>s gravity pulls the spacecraft back into the atmosphere for a parachute landing.</p>
+ <p>That trajectory would be similar to Nasa<span>’</span>s 1968 Apollo 8 mission beyond the Moon and back.</p>
+ <p>Musk also said that if Nasa decides it wants to be first in line for a lunar flyby mission, the US space agency would take priority.</p>
+ <p>At the behest of the Trump administration, Nasa is conducting a study to assess safety risks, costs and potential benefits of letting astronauts fly on the debut test flight of its heavy-lift Space Launch System rocket and Orion capsule.</p>
+ <p>That mission is currently planned to be unmanned and scheduled to launch in late 2018. Musk said the privately funded Moon expedition would take place after his California-based company begins flying crew to the International Space Station for Nasa, which is expected to take place by late 2018.</p>
+ <p>SpaceX’s own Falcon Heavy rocket, which Musk wants to use for the lunar tourist mission, is scheduled to make a debut test flight later this year.</p>
+ <p>Musk, also CEO of electric carmaker Tesla, said missions around the Moon could provide practice for eventual human flights to Mars, the long-term goal of SpaceX.</p>
+ <p>Except for needed communications upgrades, the Dragon spaceship in development for Nasa astronauts is well suited for lunar flyby missions, Musk added.</p>
+ <p>The launch would require licensing by the Federal Aviation Administration.</p>
+ <p>SpaceX joins a growing list of companies developing commercial passenger spaceflight services. Virgin Galactic, an offshoot of Richard Branson’s London-based Virgin Group, is testing a six-passenger, two-pilot spaceship to carry paying customers about 100km above Earth, high enough to experience brief microgravity and see Earth's curvature against the blackness of space. Virgin Galactic sells tickets for $250,000. Virgin’s rival XCore currently sells tickets on its Lynx plane for $150,000.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ E&amp;T Editorial Staff ]]>
+</dc:creator>
+<pubDate>Tue, 28 Feb 2017 11:07:44 +0530</pubDate>
+<category>
+<![CDATA[ space ]]>
+</category>
+<category>
+<![CDATA[ spacex ]]>
+</category>
+<category>
+<![CDATA[ space tourism ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/spacex-to-fly-tourists-to-moon-next-year/
+</guid>
+</item>
+<item>
+<title>
+Ubuntu founder hopes its mobile OS could one day rival Android and iOS
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/ubuntu-founder-hopes-its-mobile-os-could-one-day-rival-android-and-ios/
+</link>
+<media:content url="http://localhost:59720/media/2781/img_20170227_140909.jpg?center=0.42424242424242425,0.70270270270270274&mode=crop&width=800&height=600&rnd=131326869690000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2781/img_20170227_140909.jpg?center=0.42424242424242425,0.70270270270270274&mode=crop&width=1200&height=450&rnd=131326869690000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Ubuntu is one of the most popular Linux distributions and is used extensively in back-end infrastructure for telecommunications companies, with a loyal consumer following on laptops and desktops, too.</p>
+ <p>Ubuntu Touch, a version of the operating system designed specifically for smartphones, was first unveiled in early 2013 but has yet to see widespread adoption by major manufacturers.</p>
+ <p>Even after four years, the software has not yet finished development, although an Ubuntu representative said it was now around 95 per cent complete.</p>
+ <p>When pressed as to whether he thinks Ubuntu Touch will eventually become a major competitor in the smartphone space, Shuttleworth said: “For me, what’s important is: are we creating possibilities for developers? Are we enabling the people who want to innovate and create? We’ve done that on people’s laptops. This is our vision of what it might be like in a phone/tablet/laptop world. It’s a pretty compelling view of software.”</p>
+ <p>The software does take a unique approach to touchscreen navigation that is unlike both Android and iOS. In our brief hands-on demo, it didn’t run as smoothly as one would expect, although it was shown on the Fairphone, an underpowered device that is aimed at conscientious consumers rather than those looking for the latest and greatest handset.</p>
+ <div class="responsive-media video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Kaagsd7xcYo" frameborder="0" allowfullscreen></iframe>
+ </div>
+ <p>“The guys from Fairphone have ported it to their device. I think it’s come together really beautifully, it’s a lovely set of experiences,” Shuttleworth said.</p>
+ <p>He noted that Ubuntu Touch has taken a lot of the familiar elements from the desktop OS: “Ultimately, we would like to be able to fully converge them so that this could become your desktop effectively. I’m very proud of the work that these guys have done.”</p>
+ <p>“I love this work, I think the guys have done amazing work. The judgement is yet to be passed on whether this carries the day, but I think it’s an expression of our desire to really think about what’s important to each of these categories and bring a common platform to them.”</p>
+ <p>Ubuntu’s free desktop OS can already be installed on any Windows PC and run parallel to it, giving users a choice between them. However, this is a feat that is far more difficult to emulate in the world of smartphones.</p>
+ <p>“It’s much harder on the phone. Because Android allows people to basically hack shit up underneath, there isn’t the same standardisation that you get in the PC industry,” he said, referring to the fact <span>that Android allows manufacturers greater customisation of their hardware, making one device markedly different from another, unlike Windows which has a narrower spectrum of hardware configurations</span>.</p>
+ <p>“In the PC industry, because Windows has to install, there is at least a notional standard. So if Windows can install, then we can install, as long as we do things the same way at that base level. At a driver level it’s not standardised in any way, shape or form.”</p>
+ <p>Shuttleworth holds out more hope for the future of Ubuntu Touch should phones start to encroach on the desktop space and be used as the main device at home as well as on the go.</p>
+ <p>“I could see that being the case if the phone becomes a more general-purpose device. That’s really the vision here, that potentially you’ll get a common platform across all of these different kinds of devices. But the future is not yet written.”</p>
+ <p>Shuttleworth also noted that a large number of mobile networks already run their back-end infrastructure on Ubuntu and that the smartphone itself was just one device in this equation.</p>
+ <p>“There’s more Ubuntu running today than ever before. Engineers now have more authority to drive change in their organisation. That’s who we appeal to, the guys who want to innovate for a bank, a telco [telecommunications operator], a robotics company or a machine learning company,” he said.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jack Loughran ]]>
+</dc:creator>
+<pubDate>Mon, 27 Feb 2017 16:38:12 +0530</pubDate>
+<category>
+<![CDATA[ telecommunications ]]>
+</category>
+<category>
+<![CDATA[ gadget ]]>
+</category>
+<category>
+<![CDATA[ jack loughran ]]>
+</category>
+<category>
+<![CDATA[ mobile world congress 2017 ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/ubuntu-founder-hopes-its-mobile-os-could-one-day-rival-android-and-ios/
+</guid>
+</item>
+<item>
+<title>
+CAD design, fast-feedback prototyping and on-demand production
+</title>
+<link>
+http://localhost:59720/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/
+</link>
+<media:content url="http://localhost:59720/media/2569/proto-labs-sponsored.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131308698100000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2569/proto-labs-sponsored.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131308698100000000" /><br /><br />
+]]>
+<![CDATA[
+<p><strong>BRINGING IDEAS TO LIFE</strong></p>
+ <p>Based in Birmingham and Somerset, Nebulem was established in 2011 to offer a specialist design service to businesses looking to bridge the gap between great ideas and successful products. A distinctive strength of the consultancy is creating <strong
+]]>
+<![CDATA[
+>products</strong> that can be <strong>manufactured</strong> appropriately and produced to <strong>budget</strong><strong>. <a href="https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0217-native%20article" target="_blank">The team develops all its clients’ products with manufacturing in mind</a></strong>, designing them for a range of <strong>processes</strong> including injection moulding, die-cast moulding, CNC machining and investment casting.<em> </em></p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2577/proto-labs.png?anchor=center&mode=crop&width=1200&rnd=131309410730000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2577/proto-labs.png?anchor=center&mode=crop&width=800&rnd=131309410730000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2577/proto-labs.png?anchor=center&mode=crop&width=640&rnd=131309410730000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2577/proto-labs.png?anchor=center&mode=crop&width=320&rnd=131309410730000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2577/proto-labs.png?anchor=center&mode=crop&width=800&rnd=131309410730000000" />
+ </picture>
+ 
+ </figure>
+ <p> </p>
+ <p>A key aspect of their approach is prototyping – which is where Proto Labs’ support is vital. For many of Nebulem’s clients, this is the most exciting part of the project, where they see a <strong>high-quality</strong><strong>, <strong>full-size</strong></strong> representation of their <strong>product</strong><strong>.</strong> The consultancy uses <strong>prototypes</strong> to check a product’s look, feel, size and style; more importantly, it provides the opportunity to test the part’s <strong>usability</strong> and<strong> operation</strong>. <strong><a href="https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0217-native%20article" target="_blank">Nebulem feeds key information from the prototyping process into the implementation stage,</a></strong> which helps minimise changes when the product goes into <strong>manufacture</strong>.</p>
+ <p><strong>A productive partnership<br></strong>Nebulem works in partnership with Proto Labs; the consultancy’s visualisation systems takes concepts to a certain stage, then Proto Labs joins the process to bring the designs to life in three dimensions.</p>
+ <p>Proto Labs’ software provides immediate feedback for Nebulem’s clients, helping identify features that might cause problems during manufacture or in use. It also gives Nebulem the opportunity to review the materials involved. <strong><a href="https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0217-native%20article" target="_blank">The speed of this feedback saves significant time in product development</a></strong>: if a concept is pushing the edge of practicality, Nebulem knows about this within hours, and can turn around a revised design quickly. In most cases, the end result is a far shorter development cycle.<em>                                                                              </em></p>
+ <p><strong>Sharing business for mutual benefit<br></strong>As the services of Nebulem and Proto Labs combine so effectively, there are many opportunities to refer clients between the two businesses. Companies often approach Proto Labs with a need for 3D printing, CNC machining or injection moulding; at which point they discover help is needed with their product or part design – in these cases, Proto Labs can recommend using Nebulem. Likewise, the Nebulem team gets Proto Labs involved in refining its designs whenever appropriate. Both companies often have the same customers, and work on the same products, just offering a different supporting role.</p>
+ <p>Any joint clients will benefit from Nebulem’s understanding of how Proto Labs’ rapid prototyping opens up greater design possibilities. Nebulem knows Proto Labs resources enable further exploration of concepts, as they can be quickly and thoroughly tested and fine-tuned.</p>
+ <p><strong>Helping to advance cutting-edge science<br></strong>A good example of the partnership between Nebulem and Proto Labs is a recent project for Puridify, experts in purification solutions for biotherapeutic manufacturing. In this highly specialised field, Puridify aims to develop bioprocessing technologies to advance industrial biomolecule manufacture – and so requires extremely sophisticated product and part design. <strong><a href="https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0217-native%20article" target="_blank">Puridify approached Proto Labs for help with product testing, which revealed a need for further design.</a></strong> Nebulem was then recommended to assist; developing their design in response to the test feedback before handing the project back to Proto Labs. At this stage, Puridify dealt directly with Proto Labs, knowing Nebulem’s design would work perfectly with Proto Labs’ ProtoQuote quoting system, in preparation for manufacture.<strong>                                                                                </strong></p>
+ <p><strong>Passing on the lessons of experience<br></strong>With so much experience of working together, Nebulem and Proto Labs have learnt a lot about the relationship between CAD design, fast-feedback prototyping and on-demand production.  Indeed, such collaboration in this vital aspect of our manufacturing industry is a major advantage to all involved.</p>
+ <p><strong>How could Proto Labs help your business?<br></strong>To find out how Proto Labs' advanced services could benefit you, simply upload your CAD file(s) to receive a free manufacturability analysis and interactive quote within 24 hours.</p>
+ <p><strong><a href="https://uploads.protolabs.co.uk/gb/PartUpload.aspx?utm_campaign=uk-sos&amp;utm_medium=display&amp;utm_source=iet&amp;utm_content=tx0217-native%20article" target="_blank">Upload your CAD file(s) here.</a></strong></p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Stephen Dyson | Product Manager EMEA ]]>
+</dc:creator>
+<pubDate>Mon, 27 Feb 2017 13:30:39 +0530</pubDate>
+<category>
+<![CDATA[ design and production ]]>
+</category>
+<category>
+<![CDATA[ 3d printing ]]>
+</category>
+<category>
+<![CDATA[ design ]]>
+</category>
+<category>
+<![CDATA[ digital manufacturing ]]>
+</category>
+<category>
+<![CDATA[ digital engineering ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/
+</guid>
+</item>
+<item>
+<title>
+‘Booming’ artificial intelligence and robotics sector in line for £17m boost
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/booming-artificial-intelligence-and-robotics-sector-in-line-for-17m-boost/
+</link>
+<media:content url="http://localhost:59720/media/2771/artificial-intelligence.jpg?center=0.23255813953488372,0.55309734513274333&mode=crop&width=800&height=600&rnd=131326720880000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2771/artificial-intelligence.jpg?center=0.23255813953488372,0.55309734513274333&mode=crop&width=1200&height=450&rnd=131326720880000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Universities will get £17m to help them develop pioneering robotics and AI as part of the plans to support the ‘booming’ sector, which is behind smartphone voice and touch recognition technology and digital assistants such as the iPhone<span>’</span>s Siri.</p>
+ <p>AI also forms the bedrock of video games and music and film recommendations services, as well as improving online customer services, and is used in fraud detection tools used by banks.</p>
+ <p>Among the projects supported with the money from the Engineering and Physical Sciences Research Council (EPSRC) is a move by the University of Manchester to develop autonomous robots for hazardous environments such as nuclear facilities.</p>
+ <p>Researchers at Imperial College London will use some of the funds to try and make advances in the field of surgical micro-robotics.</p>
+ <p>A major review of AI will also be carried out by Professor Dame Wendy Hall, Regius Professor of Computer Science at the University of Southampton, and BenevolentTech chief executive Jerome Pesenti.</p>
+ <p>The move to include AI in the digital strategy, to be launched on Wednesday, comes after the consultancy Accenture estimated the sector could add in the region of £654bn to the UK economy by 2035.</p>
+ <p>“Britain has a proud history of digital innovation – from the earliest days of computing to Sir Tim Berners-Lee<span>’</span>s development of the World Wide Web,” Culture Secretary Karen Bradley said.</p>
+ <p>“We are already pioneers in today<span>’</span>s artificial intelligence revolution and the digital strategy will build on our strengths to make sure UK-based scientists, researchers and entrepreneurs continue to be at the forefront.”</p>
+ <p>Business Secretary Greg Clark said: “Investment in robotics and artificial intelligence will help make our economy more competitive, build on our world-leading reputation in these cutting-edge sectors and help us create new products, develop more innovative services and establish better ways of doing business.</p>
+ <p>“Innovation is at the heart of our industrial strategy and the launch of the Government's digital strategy underlines our commitment to this vital sector.</p>
+ <p>“By supporting British businesses and investing in dynamic fields such as robotics and AI, we will help put the UK at the forefront of global innovation."</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ E&amp;T Editorial Staff ]]>
+</dc:creator>
+<pubDate>Mon, 27 Feb 2017 12:31:11 +0530</pubDate>
+<category>
+<![CDATA[ government policies ]]>
+</category>
+<category>
+<![CDATA[ artificial intelligence ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/booming-artificial-intelligence-and-robotics-sector-in-line-for-17m-boost/
+</guid>
+</item>
+<item>
+<title>
+Internet users urged to change passwords after Cloudbleed discovery
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/internet-users-advised-to-change-passwords-after-cloudbleed-vulnerability-discovered/
+</link>
+<media:content url="http://localhost:59720/media/2770/cloudbleed.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131326696850000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2770/cloudbleed.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131326696850000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The bug in the source code of internet services company Cloudflare caused sensitive data to be cached by search engines, potentially allowing hackers to pose as legitimate customers. The compromised data includes private messages and authentication cookies.</p>
+ <p>“We've discovered (and purged) cached pages that contain private messages from well-known services, PII from major sites that use Cloudflare, and even plaintext API requests from a popular password manager that were sent over http,” said a cyber-security researcher from Google’s Project Zero team. “The examples we're finding are so bad, I cancelled some weekend plans to go into the office on Sunday to help build some tools to clean-up.”</p>
+ <p>The researchers said the impact of the vulnerability is potentially wide-reaching due to the massive customer base of Cloudflare.</p>
+ <p>“I didn't realise how much of the internet was sitting behind a Cloudflare CDN until this incident,” the researcher said.</p>
+ <p>The Google team said that Cloudflare has responded to the issue promptly but advises users to change their passwords and switch to two-factor authentication where possible.</p>
+ <p>“With the haemorrhaging from Cloudbleed first reported on Friday, new data from Skyhigh Networks indicates the wounds to IT are widespread,” commented Kaushik Narayan, CTO of cloud access security broker Skyhigh Networks.</p>
+ <p>“After analysing more than 30 million enterprise users across the globe, Skyhigh found 99.7 per cent of companies have at least one employee that used a Cloudbleed vulnerable cloud application.”</p>
+ <p>Even though few enterprise-ready cloud services were themselves affected – fewer than four per cent – there’s a very long list of potential consumer-focused services that may have been vulnerable to credential loss, Skyhigh Networks said.</p>
+ <p>Cloudbleed got its name after the Heartbleed vulnerability in the Open SSL cryptographic software library, discovered in 2014. The researchers said Cloudbleed could be potentially as serious as Heartbleed, which affected millions of websites, enabling hackers to gain access to sensitive user data.</p>
+ <p>According to Gizmodo, Cloudbleed is a result of a coding error affecting a single character in Cloudflare’s code.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Tereza Pultarova ]]>
+</dc:creator>
+<pubDate>Mon, 27 Feb 2017 11:53:47 +0530</pubDate>
+<category>
+<![CDATA[ cybersecurity ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/internet-users-advised-to-change-passwords-after-cloudbleed-vulnerability-discovered/
+</guid>
+</item>
+<item>
+<title>
+Huawei, LG, Samsung and Nokia unveil new devices in the lead up to MWC
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/huawei-lg-samsung-and-nokia-unveil-new-devices-in-the-lead-up-to-mwc/
+</link>
+<media:content url="http://localhost:59720/media/2760/img_20170226_143446.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131326208490000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2760/img_20170226_143446.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131326208490000000" /><br /><br />
+]]>
+<![CDATA[
+<h3>Huawei</h3>
+ <p>Huawei announced the latest iterations of its ‘P’ smartphone range, the P10 and P10+. Like the P9, the devices attempt to differentiate themselves through their advanced camera capabilities. Huawei has partnered with storied camera manufacturer Leica for the second time in or
+]]>
+<![CDATA[
+der to bring credence to this.</p>
+ <p>Like its predecessor, the P10 boasts a dual camera system with one lens taking black and white photos while the other takes colour. When pictures are taken, the phone uses data from both lenses to create photos that boast greater contrast than typical phone sensors are capable of.</p>
+ <p>The dual-cameras are composed of a 12MP RGB + 20MP monochrome sensor with a large F/1.8 aperture to capture more light in low-light situations.</p>
+ <p>The phone features a front camera also designed by Leica that Huawei says can create superb portrait shots and has 3D facial detection technology.</p>
+ <p>The P10 and P10+ launch in a range of colours that were developed with input from colour experts Pantone.  Huawei has given a series of perplexing names to the available colours: Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue and Greenery.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2768/14620993-1.jpg?anchor=center&mode=crop&width=1200&rnd=131326208640000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2768/14620993-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208640000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2768/14620993-1.jpg?anchor=center&mode=crop&width=640&rnd=131326208640000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2768/14620993-1.jpg?anchor=center&mode=crop&width=320&rnd=131326208640000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2768/14620993-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208640000000" />
+ </picture>
+ 
+ </figure>
+ <p>The devices also feature super-fast charging, thanks to Huawei’s proprietary SuperCharge technology that should allow for a day of usage after just half an hour of being plugged in.</p>
+ <p>The P10 and P10+ will be available in Europe and China from March 2017, followed shortly after by Asia, Latin America, South Africa and Russia in April, 2017. The P10 will cost €649 (£550) with 64GB of storage and 4GB Ram while the P10+ (64GB + 4GB) is €699, or €799 for the 128GB + 6GB version.</p>
+ <p>The phones are powered by Huawei’s in house Kirin 960 processors that are optimised for photography with embedded ISP and real-time viewing of depth-of-field changes and facial features.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2761/img_20170226_145900.jpg?anchor=center&mode=crop&width=1200&rnd=131326208500000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2761/img_20170226_145900.jpg?anchor=center&mode=crop&width=800&rnd=131326208500000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2761/img_20170226_145900.jpg?anchor=center&mode=crop&width=640&rnd=131326208500000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2761/img_20170226_145900.jpg?anchor=center&mode=crop&width=320&rnd=131326208500000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2761/img_20170226_145900.jpg?anchor=center&mode=crop&width=800&rnd=131326208500000000" />
+ </picture>
+ 
+ </figure>
+ <p>The Huawei Watch 2, the Chinese company’s Android Wear Smartwatch, was also unveiled featuring a round 1.2-inch face, a 420mAh battery, LTE connectivity and powered by Qualcomm’s Snapdragon 2100. Huawei promises up to two days of usage from its new wearables which assume a sportier look than the first generation watches. The Huawei Watch 2 will go on sale in April starting from €329.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2762/img_20170226_152513.jpg?anchor=center&mode=crop&width=1200&rnd=131326208520000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2762/img_20170226_152513.jpg?anchor=center&mode=crop&width=800&rnd=131326208520000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2762/img_20170226_152513.jpg?anchor=center&mode=crop&width=640&rnd=131326208520000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2762/img_20170226_152513.jpg?anchor=center&mode=crop&width=320&rnd=131326208520000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2762/img_20170226_152513.jpg?anchor=center&mode=crop&width=800&rnd=131326208520000000" />
+ </picture>
+ 
+ </figure>
+ <h3>LG</h3>
+ <p>LG showed off its G6 smartphone which uses a new display format in an 18:9 aspect ratio (otherwise known as 2:1) unlike the 16:9 ratio that is typical to most smartphones. The device features a high screen to body ratio and also uses a dual camera system that has become so prevalent amongst flagship smartphones in the last year.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2769/img_20170226_124605.jpg?anchor=center&mode=crop&width=1200&rnd=131326218800000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2769/img_20170226_124605.jpg?anchor=center&mode=crop&width=800&rnd=131326218800000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2769/img_20170226_124605.jpg?anchor=center&mode=crop&width=640&rnd=131326218800000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2769/img_20170226_124605.jpg?anchor=center&mode=crop&width=320&rnd=131326218800000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2769/img_20170226_124605.jpg?anchor=center&mode=crop&width=800&rnd=131326218800000000" />
+ </picture>
+ 
+ </figure>
+ <p>The G6 takes a back-to-basics approach after last year’s G5 which tried to push modules that added additional functionality to the device and could be plugged in at the bottom.</p>
+ <p>It features a 5.7-inch QHD+ (2,880 x 1,440 resolution) display, and it says the unusual aspect ratio offers more viewing space and a more immersive experience when streaming videos and playing games.</p>
+ <p>G6 buyers can also take advantage of a “Game Collection” promotion that bundles in-app purchases worth up to $200 for six games – Temple Run 2, Spider-Man Unlimited, Crossy Road, SimCity BuildIt, Cookie Jam and Genies &amp; Gems.</p>
+ <p>Dual 13MP rear cameras are featured on the back of the device which LG was at pains to point out do not protrude out from the rest of the device. One of the sensors uses a 125-degree wide angle lens to capture panoramic shots that regular phones cameras can’t.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2759/img_20170226_123909.jpg?anchor=center&mode=crop&width=1200&rnd=131326208470000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2759/img_20170226_123909.jpg?anchor=center&mode=crop&width=800&rnd=131326208470000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2759/img_20170226_123909.jpg?anchor=center&mode=crop&width=640&rnd=131326208470000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2759/img_20170226_123909.jpg?anchor=center&mode=crop&width=320&rnd=131326208470000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2759/img_20170226_123909.jpg?anchor=center&mode=crop&width=800&rnd=131326208470000000" />
+ </picture>
+ 
+ </figure>
+ <p>The 5MP front camera also comes with an expanded 100-degree field of view which is designed to take similar pictures to those achieved using a selfie stick.</p>
+ <p>The G6 is certified as IP68 water and dust resistance, making it safe to be immersed in up to 1.5 meters of water for as long as 30 minutes.</p>
+ <p>Google Assistant, which was previously exclusive to Google’s own Pixel devices, will also come built-in. It is designed to work seamlessly with LG apps to allow users to get fast answers and manage everyday tasks at speed.</p>
+ <p>The device packs last year’s Snapdragon 821 Processor rather than this year 835. This is rumoured to be due to large purchase orders from Samsung and limited production capacity at the moment.</p>
+ <p>The G6 packs 4GB RAM  and 32GB or 64GB of memory with a MicroSD slot and a 3,300mAh battery. Pricing is yet to be announced.</p>
+ <h3>Samsung</h3>
+ <p>Samsung unveiled two new tablet computers, the Galaxy Tab S3 and the Galaxy Book that look like an attempt to compete with Apple’s iPad Pro.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2766/img_20170226_202352.jpg?anchor=center&mode=crop&width=1200&rnd=131326208600000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2766/img_20170226_202352.jpg?anchor=center&mode=crop&width=800&rnd=131326208600000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2766/img_20170226_202352.jpg?anchor=center&mode=crop&width=640&rnd=131326208600000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2766/img_20170226_202352.jpg?anchor=center&mode=crop&width=320&rnd=131326208600000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2766/img_20170226_202352.jpg?anchor=center&mode=crop&width=800&rnd=131326208600000000" />
+ </picture>
+ 
+ </figure>
+ <p>The Galaxy Tab S3 (above) which it says will offer an “enhanced mobile entertainment experience” to users via its 9.7-inch display that can support 4K definition video and an enhanced graphics chip for gaming.</p>
+ <p>The Galaxy Book (below), a tablet/laptop hybrid device, comes in two screen sizes - 10.6 and 12 inches - runs Windows 10 and is equipped with a keyboard folded into the case to replicate a laptop setup.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2767/img_20170226_202447.jpg?anchor=center&mode=crop&width=1200&rnd=131326208630000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2767/img_20170226_202447.jpg?anchor=center&mode=crop&width=800&rnd=131326208630000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2767/img_20170226_202447.jpg?anchor=center&mode=crop&width=640&rnd=131326208630000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2767/img_20170226_202447.jpg?anchor=center&mode=crop&width=320&rnd=131326208630000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2767/img_20170226_202447.jpg?anchor=center&mode=crop&width=800&rnd=131326208630000000" />
+ </picture>
+ 
+ </figure>
+ <p>Both Apple and Microsoft also have hybrid devices in the form of the iPad Pro and Microsoft’s hugely successful Surface Pro line.</p>
+ <p>Samsung confirmed the Galaxy Tab S3 would go on sale in the UK on March 31, but is yet to confirm a release date for the Galaxy Book.</p>
+ <p>Both devices will also support use with Samsung’s smart stylus the S Pen, with the ability to make quick notes on the device screen even when it is off having been applied to both tablets.</p>
+ <p>Samsung also revealed a new version of their Gear VR virtual reality headset, adding a controller for the first time to help users navigate the virtual world by removing some controls from the headset itself and placing them in a user’s hand.</p>
+ <p>It also took some time out to discuss safety following a major recall of its Note7 smartphones last year due to battery fires.</p>
+ <p>The company’s David Lowes called the last six months “the most challenging in our history”, adding that the firm did not meet the “high standards consumers expect from us”.</p>
+ <p>Samsung has since conducted an internal investigation and implemented a new eight-step testing programme for all new smartphones.</p>
+ <p>The South Korean firm concluded the event by confirming the tech giant will unveil its next flagship Galaxy smartphone, expected to be the S8, on March 29.</p>
+ <p>Samsung traditionally announces the latest generation of the Galaxy S during MWC, but reportedly pushed back the reveal this year following the Note7 scandal and new safety procedures it has introduced as a result</p>
+ <h3>Nokia</h3>
+ <p>Nokia announced it would relaunch its 3310 mobile phone in an attempt to capitalise on nostalgia for the hardy devices with long battery life that released at the turn of the century.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2757/14621348-1.jpg?anchor=center&mode=crop&width=1200&rnd=131326208440000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2757/14621348-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208440000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2757/14621348-1.jpg?anchor=center&mode=crop&width=640&rnd=131326208440000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2757/14621348-1.jpg?anchor=center&mode=crop&width=320&rnd=131326208440000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2757/14621348-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208440000000" />
+ </picture>
+ 
+ </figure>
+ <p>An updated version of the 3310 (above), first launched in 2000, complete with the classic mobile game Snake and a month-long standby battery life is to go on sale later this year, new manufacturer HMD Global confirmed.</p>
+ <p>The company said the device, which will not have internet connectivity, will cost 49 euro (£41) and is aimed at those looking for a second or so-called “burner” phone to make calls and send texts.</p>
+ <p>Having once been the world’s largest mobile phone manufacturer, Nokia has since slipped behind all its major rivals and was sold off by previous buyers Microsoft last year.</p>
+ <p>As well as the 3310, Nokia also revealed a new line of mid-range modern smartphones - including the Nokia 6 the company released in China at the start of the year, as well as a limited edition gloss version called the Arte Black - alongside the new Nokia 5 and Nokia 3.</p>
+ <figure class="article-image">
+ <picture>
+ <source media="(min-width: 1200px)" data-srcset="http://localhost:59720/media/2756/14621343-1.jpg?anchor=center&mode=crop&width=1200&rnd=131326208420000000">
+ <source media="(min-width: 960px)" data-srcset="http://localhost:59720/media/2756/14621343-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208420000000">
+ <source media="(min-width 760px)" data-srcset="http://localhost:59720/media/2756/14621343-1.jpg?anchor=center&mode=crop&width=640&rnd=131326208420000000">
+ <source media="(min-width 320px)" data-srcset="http://localhost:59720/media/2756/14621343-1.jpg?anchor=center&mode=crop&width=320&rnd=131326208420000000">
+ <!-- fallback image for non supporting browsers -->
+ <img class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/media/2756/14621343-1.jpg?anchor=center&mode=crop&width=800&rnd=131326208420000000" />
+ </picture>
+ 
+ </figure>
+ <p>All four devices are made from aluminium, with each device shaped from an individual block of metal.</p>
+ <p>Each also runs the latest version of Android - Nougat 7.0 - while Nokia has confirmed pricing as starting at €139 for the Nokia 3, rising to €229 for the 6 and €299 for the Arte Black version.</p>
+ <p>HMD Global chief executive Arto Nummela said the new line-up of phones would build on Nokia’s reputation in the industry.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jack Loughran ]]>
+</dc:creator>
+<pubDate>Sun, 26 Feb 2017 22:17:10 +0530</pubDate>
+<category>
+<![CDATA[ gadgets ]]>
+</category>
+<category>
+<![CDATA[ consumer technology ]]>
+</category>
+<category>
+<![CDATA[ mobile world congress 2017 ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/huawei-lg-samsung-and-nokia-unveil-new-devices-in-the-lead-up-to-mwc/
+</guid>
+</item>
+<item>
+<title>
+Semi-autonomous agricultural robot seeks out the finest crops for breeding
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/semi-autonomous-agricultural-robot-seeks-out-the-finest-crops-for-breeding/
+</link>
+<media:content url="http://localhost:59720/media/2741/untitled.jpg?center=0.61216730038022815,0.44347826086956521&mode=crop&width=800&height=600&rnd=131324286190000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2741/untitled.jpg?center=0.61216730038022815,0.44347826086956521&mode=crop&width=1200&height=450&rnd=131324286190000000" /><br /><br />
+]]>
+<![CDATA[
+<p>This information can help business in the agriculture sector to identify the genetic traits in plants likely to produce the greatest yields.</p>
+ <p>Inspired by the autonomous rovers used to search collapsed buildings and other dangerous environments, the agricultural robot is propelled on continuous tracks, or miniature tank treads, which enable it to navigate through dry or muddy fields. Researchers guide it using GPS and a laptop computer.</p>
+ <p>Traveling between the crop rows, the robot uses hyperspectral, high-definition and thermal cameras, weather monitors and pulsed laser scanners to capture phenotypic information - such as the stem diameter, height and leaf area of each plant - and assess environmental conditions, such as the temperature and moisture content of the soil.</p>
+ <p>The robot stores the data in its onboard computer and transmits it in real time to the grower’s computer. Scientists use the data to create a 3D reconstruction of each plant, develop predictive models for the plant’s growth and development and estimate the biomass yield for each plant and the entire plot.</p>
+ <p>“Immediate access to the data is very important for crop breeders in the US,” said Girish Chowdhary, a biological engineering professor with the University of Illinois. “It’s very important for them to see and visualise the data. If the data made is available to the breeder quickly, decisions can be made in time to enhance production.</p>
+ <div class="responsive-media video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qa_R7qxvNN0" frameborder="0" allowfullscreen></iframe>
+ </div>
+ <p>The researchers are currently using the robot to assess fields of energy sorghum, a crop used in biofuel production, but say the robot would perform equally well with other tall-growing row crops such as corn and wheat and possibly with soybeans before the plant canopy closes.</p>
+ <p>The robot is a “game changer” for both crop scientists and farmers, automating the labour-intensive phenotyping processes of farming and crop development, said Stephen P. Long, the director of the project.</p>
+ <p>“For producers, it’s going to accelerate the rate at which we can improve the genetic material. We can now select material much more rapidly and select many more plants as well, so we can eventually deliver to the farmer a far more productive bioenergy crop,” Long said.</p>
+ <p>“One of the big advances of the last few years is that we can now determine the complete DNA blueprint of each plant. But how do we use that? What we need is to be able to describe a plant as it grows.</p>
+ <p>“You could do that perhaps with an army of people, but now the robot can do all of that for you. We can combine the phenotypic information about how the plant’s performing with the genetic blueprint and identify the combination of genes we need to get the best plant possible.”</p>
+ <p>Chowdhary, whose research focus is field robotics, is modifying the robot’s current design to reduce its width so it can manoeuvre more easily between crop rows. He also plans to install a sensor system for detecting and avoiding obstacles.</p>
+ <p>To reduce the production costs associated with the robot’s current metal and track construction, Chowdhary’s team is exploring the feasibility of producing some of the components via 3D printing.</p>
+ <p>“We are targeting a cost to the breeder of $5,000 to $10,000, which means we will have to get the manufacturing cost significantly below that,” Chowdhary said. “An agricultural robot that costs just $5,000 is a totally new concept. Agricultural equipment today typically costs hundreds of thousands of dollars. Bringing the cost of our robot below $5,000 will be in itself a significant achievement for our team.”</p>
+ <p>Unlike the robots used in factories, agricultural robots must be weather resistant, Chowdary said.</p>
+ <p>The underlying technologies - the algorithms, the mechanical design and the human-robot interaction devices that provide robustness - are useful in many other industries, including defense, surveillance and scientific exploration.</p>
+ <p>The team expects to have a prototype built within two years and begin manufacturing thereafter, with the goal of having the robot on the market by 2021.</p>
+ <p>Last year, a UK team <a href="/content/articles/2016/02/farming-robot-autonomously-roots-out-and-destroys-weeds/">developed an agricultural robot</a> that traverses farmland to root out and destroy weeds. </p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Jack Loughran ]]>
+</dc:creator>
+<pubDate>Fri, 24 Feb 2017 16:54:21 +0530</pubDate>
+<category>
+<![CDATA[ robots ]]>
+</category>
+<category>
+<![CDATA[ agriculture ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/semi-autonomous-agricultural-robot-seeks-out-the-finest-crops-for-breeding/
+</guid>
+</item>
+<item>
+<title>
+UK government subsidises woody biomass found to emit more carbon than coal
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/uk-government-subsidises-woody-biomass-found-to-emit-more-carbon-than-coal/
+</link>
+<media:content url="http://localhost:59720/media/2739/14591623-1.jpg?anchor=center&mode=crop&width=800&height=600&rnd=131324233040000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2739/14591623-1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131324233040000000" /><br /><br />
+]]>
+<![CDATA[
+<p>Using wood, much of it imported from the USA, for biomass power and heat is often seen as a relatively cheap and flexible way of supplying renewable energy, but a report by Chatham House suggests the process could be more harmful than traditional energy sources.</p>
+ <p>Duncan Brack, author of the report – Woody Biomass for Power and Heat Impacts on the Global Climate – wrote that “while some instances of biomass energy use may result in lower lifecycle emissions than fossil fuels”, this was not the case in “most circumstances”.</p>
+ <p>“Comparing technologies of similar ages, the use of woody biomass for energy will release higher levels of emissions than coal and considerably higher levels than gas.”</p>
+ <p>The report said: “It is not valid to claim that because trees absorb carbon as they grow, the emissions from burning them can be ignored.”</p>
+ <p>Brack, who was a special adviser to former energy and climate change secretary Chris Huhne, is an associate fellow at the international affairs think tank.</p>
+ <p>Huhne is now the Europe chairman of Zilkha Biomass Energy, which produces water-resistant biomass pellets which are transportable like coal.</p>
+ <p>Wood pellets were one of the environmentally friendly sources encouraged by the Renewable Heat Incentive (RHI) scheme in Northern Ireland.</p>
+ <p>The scheme, established in 2012 by then economy minister Arlene Foster, was supposed to pay a proportion of fuel costs, but tariffs were set too high, creating a “burn to earn” incentive.</p>
+ <p>It prompted a row between Sinn Fein and the DUP which led Martin McGuinness to stand down as deputy First Minister and forced Foster, who was First Minister, out of office.</p>
+ <p>A spokesman for the Department for Business, Energy and Industrial Strategy said: “All biomass power plants in the UK have to meet mandatory sustainability criteria to ensure they reduce carbon emissions.</p>
+ <p>“Biomass conversion projects are a useful way to convert old polluting coal power stations into lower carbon electricity sources, whilst helping us maintain energy security and keeping down bills.”</p>
+ <p>Huhne defended his support for biomass, saying climate change had only become a problem after the industrial revolution when people moved from burning wood, which absorbed carbon dioxide, to fossil fuels.</p>
+ <p>“We moved from a world which was sustainable and had no impact on the climate to a world where we were digging up fossil fuels, whether it was coal or later oil and gas, and burning those,” he told Channel 4 News.</p>
+ <p>“We were then injecting a new source of carbon into the atmosphere.”</p>
+ <p>The World Bank recently said that <a href="/content/articles/2017/02/developing-countries-rapidly-move-to-cut-carbon-while-the-west-remains-apathetic/">developing countries are taking the lead</a> in implementing policies designed to enable the switch to sustainable energy by 2030 and reduce carbon while developed countries are not doing enough. </p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ E&amp;T editorial staff ]]>
+</dc:creator>
+<pubDate>Fri, 24 Feb 2017 15:23:55 +0530</pubDate>
+<category>
+<![CDATA[ power generation ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/uk-government-subsidises-woody-biomass-found-to-emit-more-carbon-than-coal/
+</guid>
+</item>
+<item>
+<title>
+ElecLink awards Channel Tunnel interconnector construction contract
+</title>
+<link>
+http://localhost:59720/content/articles/2017/02/eleclink-awards-channel-tunnel-interconnector-construction-contract/
+</link>
+<media:content url="http://localhost:59720/media/2738/prysmian-eleclink-image.jpg?center=0.61313868613138689,0.48292682926829267&mode=crop&width=800&height=600&rnd=131324216750000000" medium="image"/>
+<description>
+<![CDATA[
+<img src="http://localhost:59720/media/2738/prysmian-eleclink-image.jpg?center=0.61313868613138689,0.48292682926829267&mode=crop&width=1200&height=450&rnd=131324216750000000" /><br /><br />
+]]>
+<![CDATA[
+<p>The ElecLink interconnector will have a capacity of 1000MW in either direction, increasing the scope for energy trading between the two countries. By taking advantage of the existing rail infrastructure of the tunnel, the project will avoid the cost and environmental impact of laying undersea cables.</p>
+ <p>This will be the world’s first installation of an HVDC interconnector in a live railway tunnel environment.</p>
+ <p>The €219m (£185m) contract was placed by ElecLink Ltd, a subsidiary of Groupe Eurotunnel.</p>
+ <p>Balfour Beatty will lead the design and installation of the project, with its share of the work valued at €140m. The international infrastructure group has experience in power transmission and distribution, construction and rail, including the London Power Tunnels ‘electricity superhighway’.</p>
+ <p>The installation of the HVDC interconnector will involve laying two 51km cables through the north tunnel and connecting them to converter stations in Peuplingues, northern France, and Folkestone, Kent.</p>
+ <p>Prysmian Group will be responsible for the design and manufacture of the ±320kV cabling for the HVDC symmetrical monopole circuit and for jointing services, and will also supply and install underground cables for the HVAC link to the Sellindge substation in Kent.</p>
+ <p>All the cables will be manufactured at Prysmian’s plant in Gron, France, which is a centre of excellence for extra high voltage (EHV) cables.</p>
+ <p>Balfour Beatty says it will make the construction programme more efficient by using offsite jointing facilities in Calais and Folkestone to assemble 2.5km sections of cable and by using computer modelling to plan the build. It has developed what it calls a unique system for the transportation and installation of the cable “which minimises risk, enables efficient installation and addresses the effect of high-voltage cable heat emissions in a live tunnel environment”. </p>
+ <p>ElecLink has been selected and <a href="https://eandt.theiet.org/content/articles/2014/10/subsea-power-cables-to-get-eu-funding-as-part-of-infrastructure-package/" target="_blank" title="is part-funded">is part-funded</a> by the European Commission as a Project of Common Interest that will contribute to the functioning of the internal energy market as well as promoting energy efficiency and the development of new and renewable forms of energy. It could also support the development of a potential European ‘super grid’ that would let the entire region share the costs of producing and distributing electricity.</p>
+]]>
+</description>
+<dc:creator>
+<![CDATA[ Lorna Sharpe ]]>
+</dc:creator>
+<pubDate>Fri, 24 Feb 2017 14:56:59 +0530</pubDate>
+<category>
+<![CDATA[ power trading ]]>
+</category>
+<category>
+<![CDATA[ power systems ]]>
+</category>
+<category>
+<![CDATA[ infrastructure ]]>
+</category>
+<category>
+<![CDATA[ interconnectors ]]>
+</category>
+<guid ispermalink="true">
+http://localhost:59720/content/articles/2017/02/eleclink-awards-channel-tunnel-interconnector-construction-contract/
+</guid>
+</item>
+</channel>
+</rss>
+Open in feedly
