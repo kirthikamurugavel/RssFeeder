@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-16"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>E&amp;T News</title>
+    <description> The latest news from E&amp;T magazine</description>
+    <a10:link href="http://localhost:59720/%20/%20anotherrss" />
+    <a10:link href="http://eandt.theiet.org/" />
+    <item xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/worlds-largest-telescope-worth-43-bn-testing/</guid>
+      <link>http://localhost:59720/content/sponsored/worlds-largest-telescope-worth-43-bn-testing/</link>
+      <title>World's Largest Telescope worth £ 43 bn Testing</title>
+      <pubDate>Wed, 02 Aug 2017 06:06:57 Z</pubDate>
+      <description>  &lt; div &gt; Description Test &lt;/ div &gt; </description>
+      <dc:creator>Author Test</dc:creator>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/mouser-a-drone-s-life-airborne-battery-management/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/mouser-a-drone-s-life-airborne-battery-management/</link>
+      <title>White Paper - A drone’s life: Airborne battery management</title>
+      <pubDate>Mon, 24 Apr 2017 06:23:03 Z</pubDate>
+      <media:content>http://localhost:59720/media/3228/easter-drone-banner-2100x1600-01.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131372438480000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/3228/easter-drone-banner-2100x1600-01.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131372438480000000" /&gt;]]&gt;  &lt; div &gt; Major challenges in drone development encompass flight time and flight performance, in other words: Battery management and motor control. &lt;/ div &gt; </description>
+      <dc:creator></dc:creator>
+      <category>design and production</category>
+      <category>consumer technology</category>
+      <category>control and automation</category>
+      <category>research and innovation</category>
+      <category>robotics</category>
+      <category>systems engineering</category>
+      <category>electromagnetic materials</category>
+      <category>application specific processors</category>
+      <category>power electronics</category>
+      <category>power generation</category>
+      <category>power equipment</category>
+      <category>white papers</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/</guid>
+      <link>http://localhost:59720/content/sponsored/national-instruments-vision-systems-accelerating-the-art-of-the-design/</link>
+      <title>Vision Systems: Accelerating the Art of the Design</title>
+      <pubDate>Tue, 11 Apr 2017 06:50:38 Z</pubDate>
+      <media:content>http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131360350770000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/3085/image-4_iet.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131360350770000000" /&gt;]]&gt;  &lt; div &gt; Vision algorithm development is, by its very nature, an iterative process. If employed correctly, certain tools and design practices can dramatically decrease development time and improve quality. &lt;/ div &gt; </description>
+      <dc:creator>Nate Holmes - R&amp;D group manager for Vision and Motion at National Instruments Corp. in Austin, Texas</dc:creator>
+      <category>design and production</category>
+      <category>measurement technology</category>
+      <category>control and automation</category>
+      <category>research and innovation</category>
+      <category>design</category>
+      <category>vision systems</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/</guid>
+      <link>http://localhost:59720/content/sponsored/comsol-our-5g-future-in-the-fast-lane-with-numerical-simulation/</link>
+      <title>Our 5G Future: In the Fast Lane with Numerical Simulation</title>
+      <pubDate>Fri, 24 Mar 2017 04:46:06 Z</pubDate>
+      <media:content>http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131346483160000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2966/jiyoun_fig_01.png?center=0.70226537216828477,0.4794816414686825&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131346483160000000" /&gt;]]&gt;  &lt; div &gt; 5G and the internet of things (IoT) are among the hottest topics being discussed in the radio frequency (RF) and microwave industry. &lt;/ div &gt; </description>
+      <dc:creator>Jiyoun Munn</dc:creator>
+      <category>information and communications</category>
+      <category>telecommunications</category>
+      <category>telecommunication signalling</category>
+      <category>consumer technology</category>
+      <category>design and production</category>
+      <category>internet of things</category>
+      <category>5g</category>
+      <category>data</category>
+      <category>design</category>
+      <category>numerical simulation</category>
+      <category>mathematical modelling</category>
+      <category>apps</category>
+      <category>deployment</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/white-paper-thermoplastics-metals-and-choosing-the-right-material-for-3d-printing/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/white-paper-thermoplastics-metals-and-choosing-the-right-material-for-3d-printing/</link>
+      <title>White Paper: Thermoplastics, metals and choosing the right material for 3D printing.</title>
+      <pubDate>Wed, 22 Mar 2017 07:10:38 Z</pubDate>
+      <media:content>http://localhost:59720/media/2952/ant-on-green-chessboard-300dpi.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131345700150000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2952/ant-on-green-chessboard-300dpi.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131345700150000000" /&gt;]]&gt;  &lt; div &gt; Thermoplastics, metals and choosing the right material for 3D printing. &lt;/ div &gt; </description>
+      <dc:creator>Proto labs</dc:creator>
+      <category>design and production</category>
+      <category>industries</category>
+      <category>manufacturing</category>
+      <category>production technology</category>
+      <category>production management</category>
+      <category>production control</category>
+      <category>product development</category>
+      <category>research and innovation</category>
+      <category>manufacturing industries</category>
+      <category>white papers</category>
+      <category>3d printing</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/</guid>
+      <link>http://localhost:59720/content/sponsored/the-utility-week-live-2017-transformation-leaders-and-technologies/</link>
+      <title>The Utility Week Live 2017 transformation leaders and technologies</title>
+      <pubDate>Tue, 21 Mar 2017 09:50:47 Z</pubDate>
+      <media:content>http://localhost:59720/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131347551160000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2980/uwl-image-header-2_march_17.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131347551160000000" /&gt;]]&gt;  &lt; div &gt; For all utilities, transformation and flexibility are not optional as they face the challenges ahead: they are the key to survival.
+Driving this change in culture are a number of people, whilst a number of key technologies will enable and shape the utilities’ transformation and increasing flexibility. &lt;/ div &gt; </description>
+      <dc:creator>Utility Week Live 2017</dc:creator>
+      <category>utilities</category>
+      <category>technology</category>
+      <category>events</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/maplesoft-industry-40-and-the-power-of-the-digital-twin/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/maplesoft-industry-40-and-the-power-of-the-digital-twin/</link>
+      <title>White Paper: Industry 4.0 and the Power of the Digital Twin</title>
+      <pubDate>Tue, 21 Mar 2017 08:06:16 Z</pubDate>
+      <media:content>http://localhost:59720/media/2917/internetofthings2.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131340475180000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2917/internetofthings2.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131340475180000000" /&gt;]]&gt;  &lt; div &gt; Adopt a Systems Approach to Machine Design and Survive the Next Industrial Revolution &lt;/ div &gt; </description>
+      <dc:creator>Maplesoft</dc:creator>
+      <category>design and production</category>
+      <category>mechatronics</category>
+      <category>manufacturing</category>
+      <category>control and automation</category>
+      <category>systems engineering</category>
+      <category>robotics</category>
+      <category>research and innovation</category>
+      <category>manufacturing industries</category>
+      <category>internet of things</category>
+      <category>industry 4.0</category>
+      <category>white papers</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-new-filter-materials-for-hydraulic-systems-longer-service-life-and-reduced-operating-costs/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-new-filter-materials-for-hydraulic-systems-longer-service-life-and-reduced-operating-costs/</link>
+      <title>White Paper: New filter materials for hydraulic systems: Longer service life and reduced operating costs</title>
+      <pubDate>Mon, 20 Mar 2017 07:14:00 Z</pubDate>
+      <media:content>http://localhost:59720/media/2918/filterelement.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131340516150000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2918/filterelement.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131340516150000000" /&gt;]]&gt;  &lt; div &gt; Get expert advice on how new generation filters protect hydraulic systems &lt;/ div &gt; </description>
+      <dc:creator>Bosch Rexroth</dc:creator>
+      <category>design and production</category>
+      <category>control and automation</category>
+      <category>manufacturing</category>
+      <category>systems engineering</category>
+      <category>mechanics</category>
+      <category>research and innovation</category>
+      <category>industry</category>
+      <category>design</category>
+      <category>maintenance</category>
+      <category>white papers</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/aras-the-business-of-engineering/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/aras-the-business-of-engineering/</link>
+      <title>White Paper - The Business of Engineering: How to tackle product complexity</title>
+      <pubDate>Fri, 17 Mar 2017 05:45:40 Z</pubDate>
+      <media:content>http://localhost:59720/media/2921/cogs2.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131340595990000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2921/cogs2.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131340595990000000" /&gt;]]&gt;  &lt; div &gt; A resilient PLM system to help you handle engineering product complexity &lt;/ div &gt; </description>
+      <dc:creator>Aras</dc:creator>
+      <category>design and production</category>
+      <category>manufacturing</category>
+      <category>mechatronics</category>
+      <category>systems engineering</category>
+      <category>manufacturing industries</category>
+      <category>computing</category>
+      <category>management of technology</category>
+      <category>defence industry</category>
+      <category>transport</category>
+      <category>aerospace</category>
+      <category>white papers</category>
+      <category>automotive engineering</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/a-guide-to-the-misra-coding-standard-what-you-need-to-know/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/a-guide-to-the-misra-coding-standard-what-you-need-to-know/</link>
+      <title>White Paper: A Guide to the MISRA Coding Standard: What you need to know</title>
+      <pubDate>Thu, 16 Mar 2017 07:47:25 Z</pubDate>
+      <media:content>http://localhost:59720/media/2909/2100x600_misra_3.png?crop=0.28095238095238095,0,0.33809523809523812,0&amp;cropmode=percentage&amp;width=800&amp;height=600&amp;rnd=131340453160000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2909/2100x600_misra_3.png?crop=0.23809523809523808,0,0,0&amp;cropmode=percentage&amp;width=1200&amp;height=450&amp;rnd=131340453160000000" /&gt;]]&gt;  &lt; div &gt; A Guide to the MISRA Coding Standard: What you need to know &lt;/ div &gt; </description>
+      <dc:creator></dc:creator>
+      <category>control and automation</category>
+      <category>electronics design</category>
+      <category>defence industry</category>
+      <category>aerospace</category>
+      <category>automotive engineering</category>
+      <category>railways</category>
+      <category>world health</category>
+      <category>white papers</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/</guid>
+      <link>http://localhost:59720/content/sponsored/why-you-should-make-test-a-strategic-part-of-your-culture/</link>
+      <title>Why you should make test a strategic part of your culture</title>
+      <pubDate>Tue, 14 Mar 2017 07:11:25 Z</pubDate>
+      <media:content>http://localhost:59720/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131338829270000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2898/strategic-test_image.jpg?center=0.41747572815533979,0.46666666666666667&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131338829270000000" /&gt;]]&gt;  &lt; div &gt; NI equips engineers &amp; scientists with systems to accelerate productivity, innovation &amp; discovery. test &lt;/ div &gt; </description>
+      <dc:creator>Mike Santori, contributing technical expert</dc:creator>
+      <category>design and production</category>
+      <category>control and automation</category>
+      <category>control technology</category>
+      <category>control applications</category>
+      <category>manufacturing</category>
+      <category>production technology</category>
+      <category>production management</category>
+      <category>production control</category>
+      <category>product development</category>
+      <category>measurement technology</category>
+      <category>research and innovation</category>
+      <category>design automation</category>
+      <category>electronics industry</category>
+      <category>manufacturing industries</category>
+      <category>test</category>
+      <category>national instruments</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/proto-labs-march-2017/</guid>
+      <link>http://localhost:59720/content/sponsored/proto-labs-march-2017/</link>
+      <title>Research and development, accelerated prototyping and perfected bathroom design</title>
+      <pubDate>Thu, 09 Mar 2017 05:30:40 Z</pubDate>
+      <media:content>http://localhost:59720/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131334550990000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2861/hansgrohe_2100x1600.jpg?center=0.69886363636363635,0.4793926247288503&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131334550990000000" /&gt;]]&gt;  &lt; div &gt; Proto Labs is one of the leading service providers in the digital manufacturing industry, offering three advanced services, 3D printing, CNC machining and injection moulding. &lt;/ div &gt; </description>
+      <dc:creator>Stephen Dyson | Product Manager</dc:creator>
+      <category>consumer technology</category>
+      <category>manufacturing</category>
+      <category>design and production</category>
+      <category>manufacturing</category>
+      <category>design</category>
+      <category>3d printing</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/smart-roads-and-wireless-communication-keep-the-traffic-flowing/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/smart-roads-and-wireless-communication-keep-the-traffic-flowing/</link>
+      <title>Smart roads and wireless communication keep the traffic flowing</title>
+      <pubDate>Wed, 01 Mar 2017 08:30:00 Z</pubDate>
+      <media:content>http://localhost:59720/media/2627/1702-lorry-platoon.jpg?crop=0,0.015624999999999931,0,0&amp;cropmode=percentage&amp;width=800&amp;height=600&amp;rnd=131313803470000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2627/1702-lorry-platoon.jpg?crop=0,0.32375000000000004,0,0.18406249999999993&amp;cropmode=percentage&amp;width=1200&amp;height=450&amp;rnd=131313803470000000" /&gt;]]&gt;  &lt; div &gt; Wireless communications will help guide cars through congestion. &lt;/ div &gt; </description>
+      <dc:creator>Chris Edwards</dc:creator>
+      <category>road transport</category>
+      <category>communication networks and services</category>
+      <category>volume 12 issue 2</category>
+      <category>communications</category>
+      <category>v2x</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/uk-needs-better-charging-network-for-electric-vehicles/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/uk-needs-better-charging-network-for-electric-vehicles/</link>
+      <title>UK needs better charging network for electric vehicles</title>
+      <pubDate>Wed, 01 Mar 2017 07:57:01 Z</pubDate>
+      <media:content>http://localhost:59720/media/2626/1702-ev-charging.jpg?crop=0,0.015624999999999931,0,0&amp;cropmode=percentage&amp;width=800&amp;height=600&amp;rnd=131313795680000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2626/1702-ev-charging.jpg?crop=0,0.24500000000000002,0,0.26281249999999995&amp;cropmode=percentage&amp;width=1200&amp;height=450&amp;rnd=131313795680000000" /&gt;]]&gt;  &lt; div &gt; It will take more than a few government announcements before enough British consumers switch to electric cars to meet climate change targets. &lt;/ div &gt; </description>
+      <dc:creator>Crispin Andrews</dc:creator>
+      <category>electric vehicle charging</category>
+      <category>volume 12 issue 2</category>
+      <category>electric vehicles</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-industry-40/</guid>
+      <link>http://localhost:59720/content/sponsored/whitepapers/bosch-rexroth-industry-40/</link>
+      <title>Industry 4.0 in action</title>
+      <pubDate>Wed, 01 Mar 2017 05:03:00 Z</pubDate>
+      <media:content>http://localhost:59720/media/2814/hero-image.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131328425180000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2814/hero-image.jpg?crop=0,0.069912609238451939,0,0.36828963795255931&amp;cropmode=percentage&amp;width=1200&amp;height=450&amp;rnd=131328425180000000" /&gt;]]&gt;  &lt; div &gt; Bosch Rexroth develops, produces and sells drive &amp; control components and systems worldwide. &lt;/ div &gt; </description>
+      <dc:creator>Dr Matthias Möller, technology and process planning director at Bosch Rexroth’s Homburg plant</dc:creator>
+      <category>manufacturing</category>
+      <category>design and production</category>
+      <category>germany</category>
+      <category>manufacturing</category>
+      <category>production</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/sony-xperia-touch-projects-android-tablet-onto-any-surface-xperia-agent-is-voice-activated-media-assistant/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/sony-xperia-touch-projects-android-tablet-onto-any-surface-xperia-agent-is-voice-activated-media-assistant/</link>
+      <title>Sony Xperia Touch projects Android tablet onto any surface; Xperia Agent is voice-activated media assistant</title>
+      <pubDate>Tue, 28 Feb 2017 12:11:30 Z</pubDate>
+      <media:content>http://localhost:59720/media/2808/33128006145_3a927c3fed_h.jpg?center=0.34170854271356782,0.51908396946564883&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327771170000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2808/33128006145_3a927c3fed_h.jpg?center=0.34170854271356782,0.51908396946564883&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327771170000000" /&gt;]]&gt;  &lt; div &gt; Sony has demoed two conceptual devices at Mobile World Congress (MWC): the Xperia Touch and the Xperia Agent, both of which aim to change the way people interact with media in their homes. &lt;/ div &gt; </description>
+      <dc:creator>Jack Loughran</dc:creator>
+      <category>mobile world congress 2017</category>
+      <category>gadget</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/warning-uks-nuclear-power-stations-could-be-forced-to-close-after-brexit/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/warning-uks-nuclear-power-stations-could-be-forced-to-close-after-brexit/</link>
+      <title>Warning UK's nuclear power stations could be forced to close after Brexit</title>
+      <pubDate>Tue, 28 Feb 2017 11:13:11 Z</pubDate>
+      <media:content>http://localhost:59720/media/2433/1701-dreamstime.jpg?crop=0,0.015624999999999931,0,0&amp;cropmode=percentage&amp;width=800&amp;height=600&amp;rnd=131288926200000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2433/1701-dreamstime.jpg?crop=0,0.26541666666666669,0,0.24239583333333328&amp;cropmode=percentage&amp;width=1200&amp;height=450&amp;rnd=131288926200000000" /&gt;]]&gt;  &lt; div &gt; Warning UK's nuclear power stations could be forced to close after Brexit &lt;/ div &gt; </description>
+      <dc:creator>Josh Loeb</dc:creator>
+      <category>energy</category>
+      <category>nuclear</category>
+      <category>brexit</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/5g-connected-vr-headset-coupled-with-full-body-suit-promises-complete-virtual-immersion/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/5g-connected-vr-headset-coupled-with-full-body-suit-promises-complete-virtual-immersion/</link>
+      <title>5G connected VR headset coupled with full body suit promises complete virtual immersion</title>
+      <pubDate>Tue, 28 Feb 2017 11:08:03 Z</pubDate>
+      <media:content>http://localhost:59720/media/2798/img_20170228_110937.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327732320000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2798/img_20170228_110937.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327732320000000" /&gt;]]&gt;  &lt; div &gt; A virtual reality headset linked to a powerful gaming computer using 5G technology promises to vastly increase mobility options for future gamers. &lt;/ div &gt; </description>
+      <dc:creator>Jack Loughran</dc:creator>
+      <category>virtual reality</category>
+      <category>5g</category>
+      <category>mobile world congress 2017</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/volvo-introduces-first-hybrid-powertrain-for-trucks-to-clean-up-long-haul-transport/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/volvo-introduces-first-hybrid-powertrain-for-trucks-to-clean-up-long-haul-transport/</link>
+      <title>Volvo introduces first hybrid powertrain for trucks to clean up long-haul transport</title>
+      <pubDate>Tue, 28 Feb 2017 09:36:17 Z</pubDate>
+      <media:content>http://localhost:59720/media/2786/volvo-hybrid-truck.jpg?center=0.60571428571428576,0.48471615720524019&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327675560000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2786/volvo-hybrid-truck.jpg?center=0.60571428571428576,0.48471615720524019&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327675560000000" /&gt;]]&gt;  &lt; div &gt; Volvo has developed a new version of its hybrid Concept Truck featuring an innovative powertrain that can cut fuel consumption and CO2 emissions by up to 30 per cent compared to the earlier prototype. &lt;/ div &gt; </description>
+      <dc:creator>Tereza Pultarova</dc:creator>
+      <category>transport</category>
+      <category>environment</category>
+      <category>electric vehicles</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/connected-car-technology-vulnerabilities-tested-in-cyber-security-challenge/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/connected-car-technology-vulnerabilities-tested-in-cyber-security-challenge/</link>
+      <title>Connected car technology vulnerabilities tested in Cyber Security Challenge</title>
+      <pubDate>Tue, 28 Feb 2017 08:33:14 Z</pubDate>
+      <media:content>http://localhost:59720/media/2784/cyber-security-challenge-crop.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327636070000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2784/cyber-security-challenge-crop.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327636070000000" /&gt;]]&gt;  &lt; div &gt; Amateur hackers have tested how to penetrate a car rental company's IT system through a third-party Internet-connected device installed in one of its vehicles. &lt;/ div &gt; </description>
+      <dc:creator>Tereza Pultarova</dc:creator>
+      <category>cybersecurity</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/self-driving-nissan-takes-to-london-s-streets/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/self-driving-nissan-takes-to-london-s-streets/</link>
+      <title>Self-driving Nissan takes to London’s streets</title>
+      <pubDate>Tue, 28 Feb 2017 06:07:53 Z</pubDate>
+      <media:content>http://localhost:59720/media/2783/nissan-driverless.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327548120000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2783/nissan-driverless.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327548120000000" /&gt;]]&gt;  &lt; div &gt; Guided by cameras and radars, and negotiating traffic and roundabouts, a self-driving Nissan car took to the streets of London on Monday for the Japanese company's first European test of an autonomous vehicle on public roads. &lt;/ div &gt; </description>
+      <dc:creator>E&amp;T Editorial Staff</dc:creator>
+      <category>driverless</category>
+      <category>london</category>
+      <category>autonomous vehicles</category>
+      <category>automotive</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/spacex-to-fly-tourists-to-moon-next-year/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/spacex-to-fly-tourists-to-moon-next-year/</link>
+      <title>SpaceX to fly tourists to Moon next year</title>
+      <pubDate>Tue, 28 Feb 2017 05:37:44 Z</pubDate>
+      <media:content>http://localhost:59720/media/2782/spacex-crew.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131327532890000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2782/spacex-crew.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131327532890000000" /&gt;]]&gt;  &lt; div &gt; SpaceX plans to launch two paying passengers on a tourist trip around the Moon next year using a spaceship under development for Nasa astronauts and a heavy-lift rocket yet to be flown, the launch company announced on Monday. &lt;/ div &gt; </description>
+      <dc:creator>E&amp;T Editorial Staff</dc:creator>
+      <category>space</category>
+      <category>spacex</category>
+      <category>space tourism</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/ubuntu-founder-hopes-its-mobile-os-could-one-day-rival-android-and-ios/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/ubuntu-founder-hopes-its-mobile-os-could-one-day-rival-android-and-ios/</link>
+      <title>Ubuntu founder hopes its mobile OS could one day rival Android and iOS</title>
+      <pubDate>Mon, 27 Feb 2017 11:08:12 Z</pubDate>
+      <media:content>http://localhost:59720/media/2781/img_20170227_140909.jpg?center=0.42424242424242425,0.70270270270270274&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131326869690000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2781/img_20170227_140909.jpg?center=0.42424242424242425,0.70270270270270274&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131326869690000000" /&gt;]]&gt;  &lt; div &gt; Ubuntu Touch could one day compete with the likes of Android and iOS - but only if the smartphone becomes a more “general-purpose device”, according to Mark Shuttleworth, founder of Ubuntu. &lt;/ div &gt; </description>
+      <dc:creator>Jack Loughran</dc:creator>
+      <category>telecommunications</category>
+      <category>gadget</category>
+      <category>jack loughran</category>
+      <category>mobile world congress 2017</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/</guid>
+      <link>http://localhost:59720/content/sponsored/proto-labs-supports-a-top-product-design-consultancy-with-advanced-prototyping-services/</link>
+      <title>CAD design, fast-feedback prototyping and on-demand production</title>
+      <pubDate>Mon, 27 Feb 2017 08:00:39 Z</pubDate>
+      <media:content>http://localhost:59720/media/2569/proto-labs-sponsored.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131308698100000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2569/proto-labs-sponsored.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131308698100000000" /&gt;]]&gt;  &lt; div &gt; Product design consultancy Nebulem provides a highly responsive service, supported by rapid prototyping from Proto Labs. Customers from a broad range of industries benefit from the design agency’s creativity and CAD skills, combined with the facility to fine-tune and test concepts in development – quickly and thoroughly. &lt;/ div &gt; </description>
+      <dc:creator>Stephen Dyson | Product Manager EMEA</dc:creator>
+      <category>design and production</category>
+      <category>3d printing</category>
+      <category>design</category>
+      <category>digital manufacturing</category>
+      <category>digital engineering</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/booming-artificial-intelligence-and-robotics-sector-in-line-for-17m-boost/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/booming-artificial-intelligence-and-robotics-sector-in-line-for-17m-boost/</link>
+      <title>‘Booming’ artificial intelligence and robotics sector in line for £17m boost</title>
+      <pubDate>Mon, 27 Feb 2017 07:01:11 Z</pubDate>
+      <media:content>http://localhost:59720/media/2771/artificial-intelligence.jpg?center=0.23255813953488372,0.55309734513274333&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131326720880000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2771/artificial-intelligence.jpg?center=0.23255813953488372,0.55309734513274333&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131326720880000000" /&gt;]]&gt;  &lt; div &gt; Artificial intelligence (AI) and robotics which can 'transform how we live, work, travel and learn' are in line for a boost in the Government's digital strategy. &lt;/ div &gt; </description>
+      <dc:creator>E&amp;T Editorial Staff</dc:creator>
+      <category>government policies</category>
+      <category>artificial intelligence</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/internet-users-advised-to-change-passwords-after-cloudbleed-vulnerability-discovered/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/internet-users-advised-to-change-passwords-after-cloudbleed-vulnerability-discovered/</link>
+      <title>Internet users urged to change passwords after Cloudbleed discovery</title>
+      <pubDate>Mon, 27 Feb 2017 06:23:47 Z</pubDate>
+      <media:content>http://localhost:59720/media/2770/cloudbleed.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131326696850000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2770/cloudbleed.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131326696850000000" /&gt;]]&gt;  &lt; div &gt; Multiple high-profile apps including Uber and FitBit have been leaking customer data for months due to the Cloudbleed vulnerability discovered by Google researchers last week. &lt;/ div &gt; </description>
+      <dc:creator>Tereza Pultarova</dc:creator>
+      <category>cybersecurity</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/huawei-lg-samsung-and-nokia-unveil-new-devices-in-the-lead-up-to-mwc/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/huawei-lg-samsung-and-nokia-unveil-new-devices-in-the-lead-up-to-mwc/</link>
+      <title>Huawei, LG, Samsung and Nokia unveil new devices in the lead up to MWC</title>
+      <pubDate>Sun, 26 Feb 2017 16:47:10 Z</pubDate>
+      <media:content>http://localhost:59720/media/2760/img_20170226_143446.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131326208490000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2760/img_20170226_143446.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131326208490000000" /&gt;]]&gt;  &lt; div &gt; With Mobile World Congress (MWC) 2017 starting today, major tech companies have flocked to Barcelona to show off their new devices. &lt;/ div &gt; </description>
+      <dc:creator>Jack Loughran</dc:creator>
+      <category>gadgets</category>
+      <category>consumer technology</category>
+      <category>mobile world congress 2017</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/semi-autonomous-agricultural-robot-seeks-out-the-finest-crops-for-breeding/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/semi-autonomous-agricultural-robot-seeks-out-the-finest-crops-for-breeding/</link>
+      <title>Semi-autonomous agricultural robot seeks out the finest crops for breeding</title>
+      <pubDate>Fri, 24 Feb 2017 11:24:21 Z</pubDate>
+      <media:content>http://localhost:59720/media/2741/untitled.jpg?center=0.61216730038022815,0.44347826086956521&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131324286190000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2741/untitled.jpg?center=0.61216730038022815,0.44347826086956521&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131324286190000000" /&gt;]]&gt;  &lt; div &gt; A semi-autonomous robot for agriculture has been developed that provides real-time data to farmers and plant breeders about the growth and development of crops. &lt;/ div &gt; </description>
+      <dc:creator>Jack Loughran</dc:creator>
+      <category>robots</category>
+      <category>agriculture</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/uk-government-subsidises-woody-biomass-found-to-emit-more-carbon-than-coal/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/uk-government-subsidises-woody-biomass-found-to-emit-more-carbon-than-coal/</link>
+      <title>UK government subsidises woody biomass found to emit more carbon than coal</title>
+      <pubDate>Fri, 24 Feb 2017 09:53:55 Z</pubDate>
+      <media:content>http://localhost:59720/media/2739/14591623-1.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131324233040000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2739/14591623-1.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131324233040000000" /&gt;]]&gt;  &lt; div &gt; Woody biomass is being heavily subsidised by the UK government, costing hundreds of millions of pounds, even though burning the fuel releases more emissions than coal, says a new report. &lt;/ div &gt; </description>
+      <dc:creator>E&amp;T editorial staff</dc:creator>
+      <category>power generation</category>
+    </item>
+    <item xmlns:media="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <guid isPermaLink="true">http://localhost:59720/content/articles/2017/02/eleclink-awards-channel-tunnel-interconnector-construction-contract/</guid>
+      <link>http://localhost:59720/content/articles/2017/02/eleclink-awards-channel-tunnel-interconnector-construction-contract/</link>
+      <title>ElecLink awards Channel Tunnel interconnector construction contract</title>
+      <pubDate>Fri, 24 Feb 2017 09:26:59 Z</pubDate>
+      <media:content>http://localhost:59720/media/2738/prysmian-eleclink-image.jpg?center=0.61313868613138689,0.48292682926829267&amp;mode=crop&amp;width=800&amp;height=600&amp;rnd=131324216750000000</media:content>
+      <description>&lt;![CDATA[&lt;img src="http://localhost:59720/media/2738/prysmian-eleclink-image.jpg?center=0.61313868613138689,0.48292682926829267&amp;mode=crop&amp;width=1200&amp;height=450&amp;rnd=131324216750000000" /&gt;]]&gt;  &lt; div &gt; A consortium of Balfour Beatty and Prysmian has been chosen to install a high-voltage direct current (HVDC) power transmission cable between Britain and France through the Channel Tunnel. &lt;/ div &gt; </description>
+      <dc:creator>Lorna Sharpe</dc:creator>
+      <category>power trading</category>
+      <category>power systems</category>
+      <category>infrastructure</category>
+      <category>interconnectors</category>
+    </item>
+  </channel>
+</rss>
